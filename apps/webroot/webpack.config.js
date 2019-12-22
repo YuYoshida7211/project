@@ -20,7 +20,11 @@ module.exports = {
                         presets: ['@babel/preset-env', '@babel/preset-react']
                     }
                 }]
-            }
+            },
+            {
+                test: /\.ts$/,
+                loader: 'ts-loader',
+            },
         ]
     },
     resolve: {
@@ -37,6 +41,7 @@ module.exports = {
     },
     devtool: "source-map",
     devServer: {
-        contentBase: './dist'
+        contentBase: './dist',
+        historyApiFallback: true
     }
 };
