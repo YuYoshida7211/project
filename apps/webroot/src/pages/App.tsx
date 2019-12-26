@@ -7,7 +7,6 @@ import FacebookContainer from '../container/FacebookContainer';
 import TikTokContainer from '../container/TikTokContainer';
 
 export interface AppProps { compiler: string; framework: string; }
-
 export class App extends React.Component<AppProps, {}> {
     render() {
         return (

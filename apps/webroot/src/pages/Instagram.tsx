@@ -1,10 +1,21 @@
 import * as React from 'react';
+import Header from '../components/Header';
+import * as H from 'history';
+import { RouteComponentProps } from 'react-router'
 
-export default class FrendListArea extends React.Component {
+interface Props extends RouteComponentProps {
+    history: H.History
+}
+
+export default class Instagarm extends React.Component<Props>{
 
     render() {
         return (
-            <p>instagram</p>
+            <React.Fragment>
+                <Header {...this.props} />
+                <p>instagarm</p>
+            </React.Fragment>
+
         );
     }
 }
