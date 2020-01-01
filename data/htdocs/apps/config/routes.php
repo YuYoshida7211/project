@@ -98,7 +98,18 @@ $routes->scope('/', function (RouteBuilder $builder) {
  * ```
  */
 
+
+//  追加部分
+Router::scope('/api', function (RouteBuilder $routes) {
+
+    $routes->connect('/api');
+    $routes->fallbacks(DashedRoute::class);
+
+});
+
 Router::prefix('api', function ($routes) {
     $routes->setExtensions(['json']);
     $routes->resources('Apples');
+    $routes->resources('Twitter');
+    $routes->resources('Youtube');
 });
