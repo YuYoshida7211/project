@@ -1,0 +1,23 @@
+{
+    "name": "texas",
+    "private": true,
+    "version": "1.0.0",
+    "scripts": {
+        "build": "browserify apps/webroot/js/src/client.js -t babelify > apps/webroot/js/bundle.js"
+    },
+    "dependencies": {
+        "@babel/core": "^7.7.7",
+        "@babel/preset-env": "^7.7.7",
+        "@babel/preset-react": "^7.7.4",
+        "react": "^16.12.0",
+        "react-dom": "^16.12.0"
+    },
+    "devDependencies": {
+        "babel-plugin-transform-object-rest-spread": "latest",
+        "babel-preset-es2015": "^6.24.1",
+        "babel-preset-react": "^6.24.1",
+        "babel-preset-stage-1": "latest",
+        "babelify": "latest",
+        "browserify": "latest"
+    }
+}
