@@ -5,6 +5,7 @@ import HomeContainer from './containers/HomeContainer';
 class App extends React.Component {
     render() {
         return (
+
             <Router>
                 <Route exact path={'/'} component={HomeContainer} />
             </Router >

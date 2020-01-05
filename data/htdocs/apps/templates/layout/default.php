@@ -24,7 +24,7 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
 </head>
 
 <body>
-    <div id="root">test</div>
+    <div id="root"></div>
     <script type="text/javascript" src="/js/bundle.js?_=<?= time() ?>"></script>
 </body>
 

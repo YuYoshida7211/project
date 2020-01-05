@@ -1,5 +1,6 @@
 export const imageUrl = {
     top: '../../../img/top.jpg',
+    logo: '../../../img/logo.png',
     twitter: {
         before: '../../../img/twitter.png',
         after: '../../../img/twitter_bluer.png'

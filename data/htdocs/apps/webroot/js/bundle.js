@@ -1,5 +1,5 @@
 (function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
-var css = "body {\n  margin: 0;\n  font-family: \"Rounded M+ 1c\";\n  background-color: #FFFEF5;\n}\n.top-image {\n  position: relative;\n  width: 100%;\n  object-fit: cover;\n}\n"; (require("browserify-css").createStyle(css, { "href": "apps\\webroot\\css\\home.css" }, { "insertAt": "bottom" })); module.exports = css;
+var css = "@font-face {\n  font-family: 'MyFont';\n  src: url(../../../../../../apps/webroot/font/rounded-mplus-1c-bold.ttf);\n}\nbody {\n  margin: 0;\n  font-family: \"Rounded M+ 1c\";\n  background-color: #FFFEF5;\n}\np {\n  margin: 0;\n}\n.user-name,\n.top-text {\n  font-family: \"myfont\";\n}\n.top-image {\n  padding: 60px 0 100px;\n  text-align: center;\n  position: relative;\n  width: 100%;\n  object-fit: cover;\n}\n.top-image .user-name {\n  font-size: 30px;\n  font-weight: bold;\n  color: #ffffff;\n}\n.top-image .top-text {\n  font-size: 30px;\n  font-weight: bold;\n  color: #ffffff;\n}\n.top-image {\n  background-image: url(/img/top.jpg);\n  background-size: cover;\n  background-position: center;\n}\n.logo-image {\n  width: 210px;\n  margin-bottom: 20px;\n}\n"; (require("browserify-css").createStyle(css, { "href": "apps\\webroot\\css\\home.css" }, { "insertAt": "bottom" })); module.exports = css;
 },{"browserify-css":15}],2:[function(require,module,exports){
 "use strict";
 
@@ -120,6 +120,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.imageUrl = void 0;
 var imageUrl = {
   top: '../../../img/top.jpg',
+  logo: '../../../img/logo.png',
   twitter: {
     before: '../../../img/twitter.png',
     after: '../../../img/twitter_bluer.png'
@@ -211,12 +212,19 @@ function (_React$Component) {
   _createClass(Home, [{
     key: "render",
     value: function render() {
-      console.log(_imageUrl.imageUrl);
-      return _react["default"].createElement("img", {
-        src: _imageUrl.imageUrl.top,
-        alt: "\u30A2\u30A4\u30B3\u30F3",
+      return _react["default"].createElement("div", {
+        className: "wrapper"
+      }, _react["default"].createElement("div", {
         className: "top-image"
-      });
+      }, _react["default"].createElement("img", {
+        className: "logo-image",
+        src: _imageUrl.imageUrl.logo,
+        alt: "\u30ED\u30B4"
+      }), _react["default"].createElement("p", {
+        className: "user-name"
+      }, "HELLO GUEST\uFF01"), _react["default"].createElement("p", {
+        className: "top-text"
+      }, "Check out the latest popular posts\uFF01")));
     }
   }]);
 
