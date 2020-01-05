@@ -2,7 +2,10 @@ import React from 'react';
 import { imageUrl } from '../const/imageUrl'
 import '../../../css/home.css';
 export default class Home extends React.Component {
-
+    /** 
+     * ①componentDidMountで非同期関数実行
+     * ②store保存
+     **/
     render() {
         return (
             <div className='wrapper'>

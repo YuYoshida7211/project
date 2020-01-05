@@ -1,0 +1,28 @@
+.sns-icons {
+    position: absolute;
+    top: -60px;
+    left:0;
+    right:0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.sns-icons img {
+    display: block;
+    border-radius: 100px;
+}
+.twitter-icon {
+    width: 10%;
+    height: 10%;
+    box-shadow: 2px 2px 4px gray;
+    margin: 0 10px;
+}
+.instagram-icon, .youtube-icon, .facebook-icon, .tiktok-icon {
+    width: 7%;
+    height: 7%;
+    box-shadow: 2px 2px 4px gray;
+    margin: 0 8px;
+    line-height: 150px;
+    top: 13%;
+    transform : translateY(-13%);
+}
