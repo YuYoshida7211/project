@@ -3,6 +3,7 @@ export const imageUrl = {
     logo: '../../../img/logo.png',
     contentsLeft: '../../../img/contents_left.png',
     contentsRight: '../../../img/contents_right.png',
+    defaultIcon: '../../../img/icon.jpg',
     twitter: {
         icon: '../../../img/twitter.png',
         blur: '../../../img/twitter_bluer.png',

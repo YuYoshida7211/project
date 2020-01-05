@@ -78,6 +78,8 @@
 .box {
     width: 280px;
     height: 220px;
+    display: flex;
+    text-decoration: none;
 }
 .more-text {
     color: #ffffff;
