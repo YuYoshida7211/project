@@ -2,5 +2,6 @@
 composer.lock
 vendor/*
 !vendor/abraham/twitteroauth/src/*
+!vendor/cakephp/*
 env
 .cache
