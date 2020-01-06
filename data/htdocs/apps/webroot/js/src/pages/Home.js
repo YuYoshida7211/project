@@ -1,5 +1,6 @@
 import React from 'react';
-import { imageUrl } from '../const/imageUrl'
+import { imageUrl } from '../const/imageUrl';
+
 import '../../../css/home.css';
 export default class Home extends React.Component {
     /** 
@@ -11,7 +12,6 @@ export default class Home extends React.Component {
             <div className='wrapper'>
                 <div className='top-image'>
                     <img className="logo-image" src={imageUrl.logo} alt="ロゴ" />
-                    {/* <img src={imageUrl.top} alt='TOP画面' className='top-image' /> */}
                     <p className="user-name">HELLO GUEST！</p>
                     <p className="top-text">Check out the latest popular posts！</p>
                 </div>

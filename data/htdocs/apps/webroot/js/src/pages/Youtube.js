@@ -4,10 +4,9 @@ import { Postbox } from '../components/Postbox';
 import { Twittermodal } from '../components/Twittermodal';
 import NaviContainer from '../containers/NaviContainer';
 
-
 import '../../../css/twitter.css';
 
-export const Twitter = (props) => {
+export const Youtube = (props) => {
     return (
         <React.Fragment>
             {/**
