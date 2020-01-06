@@ -2,7 +2,8 @@ import React from 'react';
 import '../../../css/postbox.css';
 import { imageUrl } from '../const/imageUrl'
 
-export const Postbox = () => {
+export const Postbox = (props) => {
+    console.log(props)
     return (
         <div className="flexitem item1">
             <a href="#modal-01">

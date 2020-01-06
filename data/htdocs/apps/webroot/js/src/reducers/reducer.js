@@ -15,7 +15,7 @@ const initialState = {
 // Reducer処理
 const reducer = (state = initialState, action) => {
     switch (action.type) {
-        case 'GETAPIRESULT': {
+        case 'REGISTRESULTJSON': {
             return Object.assign({}, state, {
                 result: action.value,
             });

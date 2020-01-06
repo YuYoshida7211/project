@@ -9,8 +9,8 @@ const mapStateToProps = (state) => {
 
 const mapDispatchToProps = (dispatch) => {
     return {
-        init(value) {
-            dispatch(Action.init(value))
+        registResultJson(value) {
+            dispatch(Action.registResultJson(value))
         },
     }
 }

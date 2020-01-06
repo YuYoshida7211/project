@@ -23,22 +23,18 @@ export const Twitter = (props) => {
                 <img className="contents-left" src={imageUrl.contentsLeft} />
                 <img className="contents-right" src={imageUrl.contentsRight} />
                 <div className="flexcontainer">
-                    <Postbox />
-                    <Twittermodal />
-                    <Postbox />
-                    <Twittermodal />
-                    <Postbox />
-                    <Twittermodal />
-                    <Postbox />
-                    <Twittermodal />
-                    <Postbox />
-                    <Twittermodal />
-                    <Postbox />
-                    <Twittermodal />
-                    <Postbox />
-                    <Twittermodal />
-                    <Postbox />
-                    <Twittermodal />
+                    <Postbox props={props} />
+                    <Twittermodal props={props} />
+                    <Postbox props={props} />
+                    <Twittermodal props={props} />
+                    <Postbox props={props} />
+                    <Twittermodal props={props} />
+                    <Postbox props={props} />
+                    <Twittermodal props={props} />
+                    <Postbox props={props} />
+                    <Twittermodal props={props} />
+                    <Postbox props={props} />
+                    <Twittermodal props={props} />
                 </div>
                 <div className="more-text">
                     <label htmlFor="trigger" className="open_button">MORE</label>

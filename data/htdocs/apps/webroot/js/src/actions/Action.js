@@ -1,7 +1,7 @@
 const Actions = {
-    init(value) {
+    registResultJson(value) {
         return {
-            type: 'GETAPIRESULT',
+            type: 'REGISTRESULTJSON',
             value,
         }
     },
