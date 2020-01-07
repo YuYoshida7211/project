@@ -20,6 +20,7 @@ export const Postbox = (result) => {
                             <p className="splet">...</p>
                         </div>
                     </div>
+
                 </div>
                 <div className="more-wrap">
                     <div className="more">続きを見る</div>

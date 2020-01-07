@@ -1,6 +1,9 @@
 // 初期State
 const initialState = {
-    result: {},
+    result: {
+        twitter: {},
+        youtube: {},
+    },
     // activeIcon: 'twitter',
     iconStatus: {
         instagram: 'inactive-icon',
@@ -15,16 +18,6 @@ const initialState = {
 // Reducer処理
 const reducer = (state = initialState, action) => {
     switch (action.type) {
-        case 'REGISTRESULTJSON': {
-            return Object.assign({}, state, {
-                result: action.value,
-            });
-        }
-        // case 'CHANGEACTIVEICON': {
-        //     return Object.assign({}, state, {
-        //         activeIcon: action.value,
-        //     });
-        // }
         case 'CHANGEICONTWITTER': {
             return Object.assign({}, state, {
                 iconStatus: Object.assign({}, state.iconStatus, {
@@ -38,6 +31,13 @@ const reducer = (state = initialState, action) => {
                 iconStatus: Object.assign({}, state.iconStatus, {
                     youtube: 'active-icon',
                     twitter: 'inactive-icon',
+                }),
+            });
+        }
+        case 'REGISTTWITTERLIST': {
+            return Object.assign({}, state, {
+                result: Object.assign({}, state.result, {
+                    twitter: action.value,
                 }),
             });
         }

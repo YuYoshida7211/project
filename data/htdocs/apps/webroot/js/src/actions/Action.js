@@ -1,7 +1,7 @@
 const Actions = {
-    registResultJson(value) {
+    registTwitterList(value) {
         return {
-            type: 'REGISTRESULTJSON',
+            type: 'REGISTTWITTERLIST',
             value,
         }
     },

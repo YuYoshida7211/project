@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import HomeContainer from './containers/HomeContainer';
-import { Twitter } from './pages/Twitter';
+import Twitter from './containers/TwitterContainer';
 import { Youtube } from './pages/Youtube';
 
 class App extends React.Component {

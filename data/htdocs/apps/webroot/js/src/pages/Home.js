@@ -1,6 +1,5 @@
 import React from 'react';
 import { imageUrl } from '../const/imageUrl';
-import { getResultJson } from '../fetch/FetchJson'
 import '../../../css/home.css';
 export default class Home extends React.Component {
     /** 

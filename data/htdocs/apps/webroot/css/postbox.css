@@ -8,7 +8,7 @@ a{
 }
 .right-box{
     width: 70%;
-    height:248px;
+    height:260px;
     text-align: left;
     padding-right: 10px;
 }
@@ -19,19 +19,19 @@ a{
     margin:10px 0 0 10px;
 }
 .user-name{
-    margin-top: 5px;
+    margin-top: 10px;
 }
 .user-id{
     word-break: break-all;
 }
 .text-wrap{
-    margin-top: 25px;
+    margin-top: 20px;
     overflow:hidden;
     word-break: break-all;
-    max-height: 170px;
+    max-height: 100px;
 }
 .text-area{
-    height:170px;
+    /* height:170px; */
 }
 
 .splet{
@@ -47,7 +47,9 @@ a{
     border-radius: 25px;
     margin-bottom: 3px;
     color:#a39e9e;
+    display: inline-block;
 }
 .more:hover{
-    
+    color: #f06372;
+    transition: 1.0s;
 }
