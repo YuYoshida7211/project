@@ -3,10 +3,13 @@ import { imageUrl } from '../const/imageUrl';
 import { Postbox } from '../components/Postbox';
 import { Twittermodal } from '../components/Twittermodal';
 import NaviContainer from '../containers/NaviContainer';
+import resultJson from '../../../../api_result/result.json'
 
 import '../../../css/twitter.css';
 
 export const Youtube = (props) => {
+    const youtubeResult = resultJson.youtube_result;
+    console.log(youtubeResult)
     return (
         <React.Fragment>
             {/**
@@ -22,7 +25,7 @@ export const Youtube = (props) => {
                 <img className="contents-left" src={imageUrl.contentsLeft} />
                 <img className="contents-right" src={imageUrl.contentsRight} />
                 <div className="flexcontainer">
-                    <Postbox />
+                    {/* <Postbox />
                     <Twittermodal />
                     <Postbox />
                     <Twittermodal />
@@ -37,7 +40,7 @@ export const Youtube = (props) => {
                     <Postbox />
                     <Twittermodal />
                     <Postbox />
-                    <Twittermodal />
+                    <Twittermodal /> */}
                 </div>
                 <div className="more-text">
                     <label htmlFor="trigger" className="open_button">MORE</label>

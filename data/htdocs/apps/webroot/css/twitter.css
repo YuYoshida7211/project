@@ -70,14 +70,14 @@
 .flexitem {
     background-color: #ffffff;
     width: 280px;
-    height: 220px;
+    /* height: 220px; */
     text-align: center;
     box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.1);
     margin: 5px;
 }
 .box {
     width: 280px;
-    height: 220px;
+    /* height: 220px; */
     display: flex;
     text-decoration: none;
 }

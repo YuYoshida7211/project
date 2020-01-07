@@ -1,529 +1,220 @@
 (function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
 module.exports={"twitter_result":[
     {
-        "trend_word": "#ら行でなぜモテないのか分かる",
+        "trend_word": "まいやん卒業",
         "items": [
             {
-                "created_at": "Mon Jan 06 16:49:11 +0000 2020",
-                "tweet_id": 1214227420703707136,
-                "text": "来週\nリン\nるん\n連\nRoselia\n\nわからん・・・\n#ら行でなぜモテないのか分かる",
-                "media": null,
-                "user_name": "はやけん",
-                "user_screen_name": "aQLF8RLcair6UUa",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1187917704381878272\/X3HJSTM8_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:49:09 +0000 2020",
-                "tweet_id": 1214227413778911232,
-                "text": "#ら行でなぜモテないのか分かる\nラリースタットレス\n了解です\nルート\nレガシィ\nロードサービス",
-                "media": null,
-                "user_name": "どちゃんこ@段差でリアスカート粉砕",
-                "user_screen_name": "twocolor86",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1118867123491577861\/1-ljvUeA_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:49:00 +0000 2020",
-                "tweet_id": 1214227376285995008,
-                "text": "#ら行でなぜモテないのか分かる\n\nら\nリンク\nる\n恋愛\nLAWSON\n\nつまんな",
-                "media": null,
-                "user_name": "なぎ",
-                "user_screen_name": "__62505",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1214003645433253888\/dedXLyUZ_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:58 +0000 2020",
-                "tweet_id": 1214227367154946048,
-                "text": "ラスクラ\nリスカ\nルール\n連で\nろ！！！！！\n #ら行でなぜモテないのか分かる",
-                "media": null,
-                "user_name": "しおまつ",
-                "user_screen_name": "shio_matsu_304",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1213026006937694214\/YIjVBkG1_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:56 +0000 2020",
-                "tweet_id": 1214227360272117761,
-                "text": "ラブライブ\n星空凛\n黒澤ルビィ\n連覇\nログ\n#ら行でなぜモテないのか分かる\nラブライブの皆は全員名前の一文字目でフルネームが出るように辞書登録してるw",
-                "media": null,
-                "user_name": "RosT",
-                "user_screen_name": "RosT_losT",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1126135528267472896\/rZA4vc0x_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:51 +0000 2020",
-                "tweet_id": 1214227338570813446,
-                "text": "RT @1xuVLqH3kQ: #ら行でなぜモテないのか分かる\nラテン語\nりそな銀行\nループ\nレイ・タム\nローマ帝国\n\nとりあえず原因の一つは見つかった気がする。",
-                "media": null,
-                "user_name": "ぱとぱとりん@ＴＲＰＧ燻製クラスタの創始者の帰還",
-                "user_screen_name": "PatPatRin",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1080033316064059393\/2SnlDEtn_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:50 +0000 2020",
-                "tweet_id": 1214227335286673413,
-                "text": "w\nリンドウ\nルンルン\n恋愛\nロボット\n#ら行でなぜモテないのか分かる\nオーケーわかった(わからない)",
-                "media": null,
-                "user_name": "鈴紅はかせ",
-                "user_screen_name": "Ringu_Hakase",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1177061756402712576\/DQnYiGiG_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:48 +0000 2020",
-                "tweet_id": 1214227326583660549,
-                "text": "wwwwww\nりつまお\nルート\n蓮\nロイヤル\n\n#ら行でなぜモテないのか分かる\n🤔……。",
-                "media": null,
-                "user_name": "鏡けい＠1\/19 キスフ゜リ13VJ",
-                "user_screen_name": "keivjek",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1201118281551138816\/lRs9_b7z_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:48 +0000 2020",
-                "tweet_id": 1214227325258092544,
-                "text": "#ら行でなぜモテないのか分かる\n\nら\nり\nる\nれ\nろ",
-                "media": null,
-                "user_name": "とある開拓者",
-                "user_screen_name": "X_vs_Zero",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1214100352582078466\/6luq46YO_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:43 +0000 2020",
-                "tweet_id": 1214227303389003777,
-                "text": "#ら行でなぜモテないのか分かる\nラヴァ\nりんくる\nルミネ\nれんちゃん\nロン毛\n\n🤔？",
-                "media": null,
-                "user_name": "エクスタシスト森",
-                "user_screen_name": "thermid_",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1213594941865132032\/4sxiqP8s_normal.jpg"
-            }
-        ]
-    },
-    {
-        "trend_word": "名古屋人",
-        "items": [
-            {
-                "created_at": "Mon Jan 06 16:49:13 +0000 2020",
-                "tweet_id": 1214227432607105024,
-                "text": "RT @yatogame_chan: 10問中、10問正解です！真の名古屋人 | 【激ムズ】 #名古屋人にしか解けないクイズ \n\n勿論、全問正解だかね‼️\n\n放送前に挑戦してちょーよ✨\n\n#八十亀ちゃん\n\nhttps:\/\/t.co\/nCgIZ8w3qn",
-                "media": null,
-                "user_name": "animeanime",
-                "user_screen_name": "animeanime2017",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/929529969893457920\/fIwYigsD_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:49:12 +0000 2020",
-                "tweet_id": 1214227425879445505,
-                "text": "10問中、9問正解です！名古屋人 | 【激ムズ】 #名古屋人にしか解けないクイズ https:\/\/t.co\/Q6JbH8732R\nある意味、名古屋人かも(笑)",
-                "media": null,
-                "user_name": "金沢の(^o^)ひで",
-                "user_screen_name": "higahide0218",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1197820296939495424\/1Ubv7M9c_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:59 +0000 2020",
-                "tweet_id": 1214227371420606464,
-                "text": "10問中、8問正解です！名古屋人 | 【激ムズ】 #名古屋人にしか解けないクイズ\nｱﾊﾊ https:\/\/t.co\/2YbegHVC0s",
-                "media": null,
-                "user_name": "いおな",
-                "user_screen_name": "iona_1o7",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1008125948242169856\/DdmKV8vs_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:54 +0000 2020",
-                "tweet_id": 1214227349438255107,
-                "text": "10問中、10問正解です！真の名古屋人 | 【激ムズ】 #名古屋人にしか解けないクイズ https:\/\/t.co\/I2ylySTFGa\n\nもう名古屋に住む❕笑",
-                "media": null,
-                "user_name": "✧ 𝐊𝐚𝐧𝐚 ✧",
-                "user_screen_name": "tyytt17515",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1212314694532259841\/pBH4x_q7_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:51 +0000 2020",
-                "tweet_id": 1214227338235236352,
-                "text": "10問中、10問正解です！真の名古屋人 | 【激ムズ】 #名古屋人にしか解けないクイズ https:\/\/t.co\/1g5Yjfgyy5",
-                "media": null,
-                "user_name": "Å i Я i 💜",
-                "user_screen_name": "a_ntw0528",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1213698739333816321\/0HC-c4_m_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:47 +0000 2020",
-                "tweet_id": 1214227320770195456,
-                "text": "やっとかめ…ｯ\n10問中、10問正解です！真の名古屋人 | 【激ムズ】 #名古屋人にしか解けないクイズ https:\/\/t.co\/g0CkLlFQDm",
-                "media": null,
-                "user_name": "あびす",
-                "user_screen_name": "abbyss_d",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1199315089750249472\/a_TEFlcu_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:42 +0000 2020",
-                "tweet_id": 1214227300343926793,
-                "text": "10問中、10問正解です！真の名古屋人 | 【激ムズ】 #名古屋人にしか解けないクイズ https:\/\/t.co\/te5uv5EdkR\nﾅﾒﾙﾅﾖｰ",
-                "media": null,
-                "user_name": "まぐろん",
-                "user_screen_name": "maguro_rikachan",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1211809226735009793\/CadMlig6_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:35 +0000 2020",
-                "tweet_id": 1214227272158203907,
-                "text": "いや、ですよねー。\nはい、わかってました。\n心は隠れ名古屋人かと思ってやってみたら、案の定です。\n\n10問中、2問正解です！他県に住んでる人 | 【激ムズ】 #名古屋人にしか解けないクイズ https:\/\/t.co\/nN8hPPVXkK",
-                "media": null,
-                "user_name": "ポムポム",
-                "user_screen_name": "MCpQGD9N1MiKpg3",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1207288870842200064\/wkK8cid-_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:27 +0000 2020",
-                "tweet_id": 1214227239065096192,
-                "text": "名古屋全握白石麻衣卒業前に行けてよかった。ほんとに一緒に行ってくれた人たちには感謝。握手出来て良かったほんとに。\n卒業するかはまだ確実ではないけど卒業だったとしても最後まで応援し続けます。",
-                "media": null,
-                "user_name": "りょうが",
-                "user_screen_name": "Ryoga_0504",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1205673133694283776\/ADNW1E-c_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:27 +0000 2020",
-                "tweet_id": 1214227237920133120,
-                "text": "10問中、9問正解です！名古屋人 | 【激ムズ】 #名古屋人にしか解けないクイズ https:\/\/t.co\/2UZaNQphw4\n\n愛知県民だけど名古屋人じゃねーよ！でら田舎民だがね。",
-                "media": null,
-                "user_name": "宇丼★",
-                "user_screen_name": "mt_s_s",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/901848916974419968\/JX5PhnxU_normal.jpg"
-            }
-        ]
-    },
-    {
-        "trend_word": "#スマホを落としただけなのに",
-        "items": [
-            {
-                "created_at": "Mon Jan 06 16:48:30 +0000 2020",
-                "tweet_id": 1214227250263904256,
-                "text": "絶対コーラ一気飲みして、山手線の駅名言い切ろうとしてるよね。\n\n #スマホを落としただけなのに https:\/\/t.co\/vrvvpGiIzx",
+                "created_at": "Tue Jan 07 11:25:22 +0000 2020",
+                "tweet_id": 1214508317646581761,
+                "text": "RT @ISHIHARAshin_: 白石麻衣さん卒業発表で\n卒業までに一度くらい「まいやん」と呼んでみたい。\n（なぁちゃんは呼んだことあり）\n#白石麻衣 https:\/\/t.co\/DEh6Xxl8wG",
                 "media": [
                     {
-                        "id": 1214227244966531075,
-                        "id_str": "1214227244966531075",
+                        "id": 1214504682887901186,
+                        "id_str": "1214504682887901186",
                         "indices": [
-                            48,
-                            71
+                            78,
+                            101
                         ],
-                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENnNPvzU0AMseTR.jpg",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENnNPvzU0AMseTR.jpg",
-                        "url": "https:\/\/t.co\/vrvvpGiIzx",
-                        "display_url": "pic.twitter.com\/vrvvpGiIzx",
-                        "expanded_url": "https:\/\/twitter.com\/srnkdjamo\/status\/1214227250263904256\/photo\/1",
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENrJkwmU8AIEQXn.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENrJkwmU8AIEQXn.jpg",
+                        "url": "https:\/\/t.co\/DEh6Xxl8wG",
+                        "display_url": "pic.twitter.com\/DEh6Xxl8wG",
+                        "expanded_url": "https:\/\/twitter.com\/ISHIHARAshin_\/status\/1214504687128334336\/photo\/1",
                         "type": "photo",
                         "sizes": {
-                            "medium": {
-                                "w": 739,
-                                "h": 415,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 382,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 739,
-                                "h": 415,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ],
-                "user_name": "じゃも@YOLO",
-                "user_screen_name": "srnkdjamo",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1016010400754593792\/6GR-a9gI_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:11 +0000 2020",
-                "tweet_id": 1214227170341474305,
-                "text": "RT @riii_kt_1273: 映画館で見て犯人もわかってるけど、何回見ても犯人キモい笑笑\nここの成田凌くんめっちゃやばくね？？\n#スマホを落としただけなのに #成田凌 https:\/\/t.co\/giET2s4cKg",
-                "media": [
-                    {
-                        "id": 1214173474802946048,
-                        "id_str": "1214173474802946048",
-                        "indices": [
-                            87,
-                            110
-                        ],
-                        "media_url": "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1214173474802946048\/pu\/img\/uhgBstWHWtY1n0DV.jpg",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1214173474802946048\/pu\/img\/uhgBstWHWtY1n0DV.jpg",
-                        "url": "https:\/\/t.co\/giET2s4cKg",
-                        "display_url": "pic.twitter.com\/giET2s4cKg",
-                        "expanded_url": "https:\/\/twitter.com\/riii_kt_1273\/status\/1214174550885187584\/video\/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
                             "medium": {
                                 "w": 1200,
-                                "h": 675,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1366,
                                 "resize": "fit"
                             },
                             "small": {
                                 "w": 680,
-                                "h": 383,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1280,
-                                "h": 720,
+                                "h": 454,
                                 "resize": "fit"
                             }
                         },
-                        "source_status_id": 1214174550885187584,
-                        "source_status_id_str": "1214174550885187584",
-                        "source_user_id": 3880071859,
-                        "source_user_id_str": "3880071859"
+                        "source_status_id": 1214504687128334336,
+                        "source_status_id_str": "1214504687128334336",
+                        "source_user_id": 1051058257995780096,
+                        "source_user_id_str": "1051058257995780096"
                     }
                 ],
-                "user_name": "よよんでるさん、他9999億人にフォローされています",
-                "user_screen_name": "yoyonderu",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1176683372183052288\/WRJbA7AH_normal.jpg"
+                "user_name": "わぁ！？",
+                "user_screen_name": "miona315",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1214454419497947136\/KqfPRtTp_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:48:04 +0000 2020",
-                "tweet_id": 1214227141505634317,
-                "text": "RT @pon_mh03: 田中圭はいいぞ……可愛さ、かっこよさ、面白さ、エロさを兼ね揃えてるぞ…\n全人類ハマれ……………\n #スマホを落としただけなのに \n #スマホ落とし地上波実況 \n #スマホ落とし #田中圭 https:\/\/t.co\/8DNMXBhdpG",
-                "media": [
-                    {
-                        "id": 1214159157609168899,
-                        "id_str": "1214159157609168899",
-                        "indices": [
-                            108,
-                            131
-                        ],
-                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENmPUioVAAMu0F3.jpg",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENmPUioVAAMu0F3.jpg",
-                        "url": "https:\/\/t.co\/8DNMXBhdpG",
-                        "display_url": "pic.twitter.com\/8DNMXBhdpG",
-                        "expanded_url": "https:\/\/twitter.com\/pon_mh03\/status\/1214159162017488897\/photo\/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 640,
-                                "h": 480,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 640,
-                                "h": 480,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 640,
-                                "h": 480,
-                                "resize": "fit"
-                            }
-                        },
-                        "source_status_id": 1214159162017488897,
-                        "source_status_id_str": "1214159162017488897",
-                        "source_user_id": 1184509660499283969,
-                        "source_user_id_str": "1184509660499283969"
-                    }
-                ],
-                "user_name": "単細坊",
-                "user_screen_name": "saibo_meiji",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1213830553285218304\/1yRIuH94_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:02 +0000 2020",
-                "tweet_id": 1214227133536456711,
-                "text": "#スマホを落としただけなのに\nスマホ落としたどころの話ではなかったね",
+                "created_at": "Tue Jan 07 11:25:20 +0000 2020",
+                "tweet_id": 1214508313196412934,
+                "text": "RT&gt;まいやんが乃木坂として最後の紅白…それなら乃木坂だけのシンクロニシティが良かった…ってまいやんの卒業発表されてから思ったんだけど、こんな考え方もできるんだってちょっと心が軽くなった",
                 "media": null,
-                "user_name": "うな〜( ¯ω¯ )@鏡花水月の虜",
-                "user_screen_name": "bleach_oekaki",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1171812399524933632\/ZZ440cu0_normal.jpg"
+                "user_name": "ておの坂道⁴⁶",
+                "user_screen_name": "teo_sakamichi",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1204742978222166016\/e3qudmTs_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:47:43 +0000 2020",
-                "tweet_id": 1214227054717095942,
-                "text": "RT @love_radarasi: 成田凌がハイキングウォーキングのQ太郎にしか見えないwww\n#スマホを落としただけなのに https:\/\/t.co\/KQadhqUGkA",
-                "media": [
-                    {
-                        "id": 1214174337751633920,
-                        "id_str": "1214174337751633920",
-                        "indices": [
-                            64,
-                            87
-                        ],
-                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENmdIJEU0AATLkM.jpg",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENmdIJEU0AATLkM.jpg",
-                        "url": "https:\/\/t.co\/KQadhqUGkA",
-                        "display_url": "pic.twitter.com\/KQadhqUGkA",
-                        "expanded_url": "https:\/\/twitter.com\/love_radarasi\/status\/1214174341807493122\/photo\/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "large": {
-                                "w": 806,
-                                "h": 380,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 806,
-                                "h": 380,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 321,
-                                "resize": "fit"
-                            }
-                        },
-                        "source_status_id": 1214174341807493122,
-                        "source_status_id_str": "1214174341807493122",
-                        "source_user_id": 1721695441,
-                        "source_user_id_str": "1721695441"
-                    }
-                ],
-                "user_name": "ねこるりこ(=ﾟωﾟ=)",
-                "user_screen_name": "neco_rurico",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1204156605773672448\/eU3R1rGO_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:46:03 +0000 2020",
-                "tweet_id": 1214226633445396481,
-                "text": "RT @sumaho_otoshita: #スマホを落としただけなのに 地上波初放送のご視聴、ありがとうございました！✨\n\n続編『スマホを落としただけなのに 囚われの殺人鬼』は2\/21公開！⚡\n\n加賀谷(#千葉雄大)とその彼女・美乃里(#白石麻衣)の身に降りかかる新たな事件とは…",
+                "created_at": "Tue Jan 07 11:25:17 +0000 2020",
+                "tweet_id": 1214508298700902400,
+                "text": "まいやん美しすぎてお付き合いする上で釣り合う人がこの星にはいないんじゃね？？？口説く人の勇気はすごいけど。モー娘。9期ももうそろ卒業かなあ、、やだなあ、、",
                 "media": null,
-                "user_name": "ちばぽこ☺︎",
-                "user_screen_name": "TpRunTSnOsmzqh1",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1153234149399941121\/wOKfsv6g_normal.jpg"
+                "user_name": "まるはしみづき",
+                "user_screen_name": "i_am_maru___wee",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1212990503286820865\/N2_kaRw6_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:46:01 +0000 2020",
-                "tweet_id": 1214226624398286848,
-                "text": "RT @pon_mh03: 田中圭はいいぞ……可愛さ、かっこよさ、面白さ、エロさを兼ね揃えてるぞ…\n全人類ハマれ……………\n #スマホを落としただけなのに \n #スマホ落とし地上波実況 \n #スマホ落とし #田中圭 https:\/\/t.co\/8DNMXBhdpG",
+                "created_at": "Tue Jan 07 11:25:12 +0000 2020",
+                "tweet_id": 1214508275846139904,
+                "text": "RT @ISHIHARAshin_: 白石麻衣さん卒業発表で\n卒業までに一度くらい「まいやん」と呼んでみたい。\n（なぁちゃんは呼んだことあり）\n#白石麻衣 https:\/\/t.co\/DEh6Xxl8wG",
                 "media": [
                     {
-                        "id": 1214159157609168899,
-                        "id_str": "1214159157609168899",
+                        "id": 1214504682887901186,
+                        "id_str": "1214504682887901186",
                         "indices": [
-                            108,
-                            131
+                            78,
+                            101
                         ],
-                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENmPUioVAAMu0F3.jpg",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENmPUioVAAMu0F3.jpg",
-                        "url": "https:\/\/t.co\/8DNMXBhdpG",
-                        "display_url": "pic.twitter.com\/8DNMXBhdpG",
-                        "expanded_url": "https:\/\/twitter.com\/pon_mh03\/status\/1214159162017488897\/photo\/1",
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENrJkwmU8AIEQXn.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENrJkwmU8AIEQXn.jpg",
+                        "url": "https:\/\/t.co\/DEh6Xxl8wG",
+                        "display_url": "pic.twitter.com\/DEh6Xxl8wG",
+                        "expanded_url": "https:\/\/twitter.com\/ISHIHARAshin_\/status\/1214504687128334336\/photo\/1",
                         "type": "photo",
                         "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 640,
-                                "h": 480,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 640,
-                                "h": 480,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 640,
-                                "h": 480,
-                                "resize": "fit"
-                            }
-                        },
-                        "source_status_id": 1214159162017488897,
-                        "source_status_id_str": "1214159162017488897",
-                        "source_user_id": 1184509660499283969,
-                        "source_user_id_str": "1184509660499283969"
-                    }
-                ],
-                "user_name": "ミソチャーシュー@5章絶海突破",
-                "user_screen_name": "Miso_Chaaashuu",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1213465286579351553\/BV82tBjC_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:45:40 +0000 2020",
-                "tweet_id": 1214226538255638528,
-                "text": "#スマホを落としただけなのに \nこんなに怖いのね。\n成田凌の目の演技でさらに恐怖がやばい。",
-                "media": null,
-                "user_name": "ゆうり",
-                "user_screen_name": "yu_ri_327",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1150075971631865857\/ayDecp9d_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:45:33 +0000 2020",
-                "tweet_id": 1214226509164007424,
-                "text": "RT @riii_kt_1273: ここまじ怖ぇぇぇ\n#スマホを落としただけなのに #成田凌 https:\/\/t.co\/VLSZ4HiWEu",
-                "media": [
-                    {
-                        "id": 1214177963039608834,
-                        "id_str": "1214177963039608834",
-                        "indices": [
-                            47,
-                            70
-                        ],
-                        "media_url": "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1214177963039608834\/pu\/img\/7lzbmrjhyKo3c_Z-.jpg",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1214177963039608834\/pu\/img\/7lzbmrjhyKo3c_Z-.jpg",
-                        "url": "https:\/\/t.co\/VLSZ4HiWEu",
-                        "display_url": "pic.twitter.com\/VLSZ4HiWEu",
-                        "expanded_url": "https:\/\/twitter.com\/riii_kt_1273\/status\/1214178034065870848\/video\/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
                             "medium": {
                                 "w": 1200,
-                                "h": 675,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1366,
                                 "resize": "fit"
                             },
                             "small": {
                                 "w": 680,
-                                "h": 383,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1280,
-                                "h": 720,
+                                "h": 454,
                                 "resize": "fit"
                             }
                         },
-                        "source_status_id": 1214178034065870848,
-                        "source_status_id_str": "1214178034065870848",
-                        "source_user_id": 3880071859,
-                        "source_user_id_str": "3880071859"
+                        "source_status_id": 1214504687128334336,
+                        "source_status_id_str": "1214504687128334336",
+                        "source_user_id": 1051058257995780096,
+                        "source_user_id_str": "1051058257995780096"
                     }
                 ],
-                "user_name": "いなり寿司",
-                "user_screen_name": "rtU1vD1vJhVDwHt",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1209068203889967105\/EAFVQVPI_normal.jpg"
+                "user_name": "HRB48",
+                "user_screen_name": "twihula",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/461810213343866880\/n4exWvzE_normal.jpeg"
             },
             {
-                "created_at": "Mon Jan 06 16:45:24 +0000 2020",
-                "tweet_id": 1214226469473247232,
-                "text": "RT @sumaho_otoshita: #スマホを落としただけなのに 地上波初放送のご視聴、ありがとうございました！✨\n\n続編『スマホを落としただけなのに 囚われの殺人鬼』は2\/21公開！⚡\n\n加賀谷(#千葉雄大)とその彼女・美乃里(#白石麻衣)の身に降りかかる新たな事件とは…",
+                "created_at": "Tue Jan 07 11:25:11 +0000 2020",
+                "tweet_id": 1214508272633303040,
+                "text": "RT @asmz12082210ty: まいやんの卒業皆悲しいと思うけど\n8年間を一緒に過ごした1期生やバナナマンのお2人、後輩達の方がもっと悲しいと思う、でも笑顔で送り出してあげようと言う思いの方が強いだろうし、卒業した後も芸能活動頑を続けるみたいだから自分達はそれを応援して…",
                 "media": null,
-                "user_name": "たくや🌧🍑@G党",
-                "user_screen_name": "takuya030511",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1213043548007747584\/7ckvjD-M_normal.jpg"
+                "user_name": "山D ターくん",
+                "user_screen_name": "D36475107",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1167943002490208257\/Npa_Y0gD_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:06 +0000 2020",
+                "tweet_id": 1214508251473047552,
+                "text": "まいやんの卒業からひよたんの復帰で情緒がジェットコースター🎢",
+                "media": null,
+                "user_name": "しゅう@坂道◢ ￨⁴⁶",
+                "user_screen_name": "syuu_kage",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1161238112753848320\/TbD0w7mY_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:06 +0000 2020",
+                "tweet_id": 1214508251447844869,
+                "text": "@EgaegaMayu まいやんが卒業衝撃…",
+                "media": null,
+                "user_name": "十代",
+                "user_screen_name": "en_yzgMobiIe46",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1200638607897153537\/SdPvm4vW_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:06 +0000 2020",
+                "tweet_id": 1214508250986500098,
+                "text": "RT @ISHIHARAshin_: 白石麻衣さん卒業発表で\n卒業までに一度くらい「まいやん」と呼んでみたい。\n（なぁちゃんは呼んだことあり）\n#白石麻衣 https:\/\/t.co\/DEh6Xxl8wG",
+                "media": [
+                    {
+                        "id": 1214504682887901186,
+                        "id_str": "1214504682887901186",
+                        "indices": [
+                            78,
+                            101
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENrJkwmU8AIEQXn.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENrJkwmU8AIEQXn.jpg",
+                        "url": "https:\/\/t.co\/DEh6Xxl8wG",
+                        "display_url": "pic.twitter.com\/DEh6Xxl8wG",
+                        "expanded_url": "https:\/\/twitter.com\/ISHIHARAshin_\/status\/1214504687128334336\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1366,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 454,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1214504687128334336,
+                        "source_status_id_str": "1214504687128334336",
+                        "source_user_id": 1051058257995780096,
+                        "source_user_id_str": "1051058257995780096"
+                    }
+                ],
+                "user_name": "Ben",
+                "user_screen_name": "Subbyzi",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1161627128326053888\/hwcdOUP3_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:05 +0000 2020",
+                "tweet_id": 1214508248625115136,
+                "text": "まいやん卒業発表したね\nもう偉大過ぎるよね…\nあんなにも美しく可愛くて気さくで優しくて完璧に見えるけど、きっと裏ではものすごく努力してるんだろうな😢\n細かい変化にも気づくまいやんさすがだね😊\n\n#mizukimail",
+                "media": null,
+                "user_name": "ビッグヘッド(りゅーじ)",
+                "user_screen_name": "SIac44Wd5eb0Owk",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1213062469859463168\/yFXcQfC7_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:05 +0000 2020",
+                "tweet_id": 1214508246624399365,
+                "text": "握手会卒業したハズなのだが、まいやん最後だし行きたい！！ https:\/\/t.co\/acI0kdM1SL",
+                "media": null,
+                "user_name": "まるちゃん(りっちゃん)一休み中",
+                "user_screen_name": "maru_maru28525",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1162924270038609920\/5AJYyRzV_normal.jpg"
             }
         ]
     },
@@ -531,94 +222,76 @@ module.exports={"twitter_result":[
         "trend_word": "仕事始め",
         "items": [
             {
-                "created_at": "Mon Jan 06 16:49:12 +0000 2020",
-                "tweet_id": 1214227427422961664,
-                "text": "RT @hikari_afilia: 今日も乾杯に餌付け笑ありがとうございました🥺💓\n最初まったりやってやっと平日早番〜って感じやった☺️\n仕事始めの人もお疲れ様でした！💓\n明日もがんばろーね！！！💪🏻⭐️\nイトちゃんとルミちゃんの研修進めれたけどまじちゃんと教えれてるか心配で…",
+                "created_at": "Tue Jan 07 11:25:23 +0000 2020",
+                "tweet_id": 1214508324625895424,
+                "text": "仕事始めしててついった見てなかったらすごい通知来てるし楽しそうなツイート一杯で泣きそうになったw\n2日目にしてもはや会社行きたくないー└(:3」┌)┘))ｼﾞﾀﾊﾞﾀ\n今年の目標はアンガーマネジメントをできるようになる！！！",
                 "media": null,
-                "user_name": "コアカル&ぷーたん🍹【コアプ】🐹にゃん厨",
-                "user_screen_name": "koakaru",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/923415765725745152\/1Noo2vnm_normal.jpg"
+                "user_name": "chouco（有希）@エグゼイド中毒",
+                "user_screen_name": "chouco28",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/917734835468115968\/PFufWSjD_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:49:07 +0000 2020",
-                "tweet_id": 1214227405880954881,
-                "text": "今さらですが、\nあけましておめでとうございました。\n今日から仕事始め夜勤！\nお休み中は お腹の調子よかったのに会社に来ると急降下😱\nなんでかな…\n今年も ゆるく 参りましょう。",
+                "created_at": "Tue Jan 07 11:25:23 +0000 2020",
+                "tweet_id": 1214508321962483712,
+                "text": "RT @PRINCELEGEND_PR: ＼明日は特別版📺／\n\nドラマ #貴族誕生 特別版は\n明日深夜24：59～ 放送‼️\n\nこちらも特別に\n#全日土木 のコールを公開🛠\n\n今週から仕事&amp;学校始めの人も\n多いと思いますが\n\nがんばって　がんばって\nほら　がんばっていこう〜🎶💪…",
                 "media": null,
-                "user_name": "あまのじゃく",
-                "user_screen_name": "640f1d66389f4e0",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1123782716577787904\/2TJsqlCa_normal.jpg"
+                "user_name": "あすぱら",
+                "user_screen_name": "hokuhk",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1202869721311244288\/wZan52vE_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:49:07 +0000 2020",
-                "tweet_id": 1214227404228460544,
-                "text": "仕事始めは来夢さんの浮上により疲労0〜\n来夢さんに生かされてる(⸝⸝⸝•ᴗ•⸝⸝⸝)",
-                "media": null,
-                "user_name": "·˖✶🐷もんちゃん🐖♡*。",
-                "user_screen_name": "M0NCHAN_nl9",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1212702567169265668\/N1o7CDPT_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:49:06 +0000 2020",
-                "tweet_id": 1214227402093514759,
-                "text": "RT @ThisIsAMusic: 本日から仕事始めの方が多いと思われます。\n4日,5日とたくさんの方に音楽を通して出会えて、楽しい時間を過ごせました。\n現場で全力でパフォーマンスをする。\n不器用な分、それを大切に今年も頑張ります。\n\n明日はいよいよ地元での今年初ライブ。\nQu…",
-                "media": null,
-                "user_name": "TöICHI",
-                "user_screen_name": "ikumichi",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1159113034540781568\/KneUe4Wv_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:49:06 +0000 2020",
-                "tweet_id": 1214227400382238722,
-                "text": "RT @gerogero00001: 仕事始めでお疲れの社会人マスターを励ましてくれるレジライ\n#FGO #FateGO https:\/\/t.co\/Qo6ilMjAY2",
+                "created_at": "Tue Jan 07 11:25:22 +0000 2020",
+                "tweet_id": 1214508317508165632,
+                "text": "RT @cram_box: 仕事始めと冷たい雨。 https:\/\/t.co\/A0EIG0WMMU",
                 "media": [
                     {
-                        "id": 1214184870059970560,
-                        "id_str": "1214184870059970560",
+                        "id": 1214499565501435909,
+                        "id_str": "1214499565501435909",
                         "indices": [
-                            61,
-                            84
+                            25,
+                            48
                         ],
-                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENmmtM-UEAARjwO.png",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENmmtM-UEAARjwO.png",
-                        "url": "https:\/\/t.co\/Qo6ilMjAY2",
-                        "display_url": "pic.twitter.com\/Qo6ilMjAY2",
-                        "expanded_url": "https:\/\/twitter.com\/gerogero00001\/status\/1214184880247959552\/photo\/1",
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENrE642UUAUSOBF.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENrE642UUAUSOBF.jpg",
+                        "url": "https:\/\/t.co\/A0EIG0WMMU",
+                        "display_url": "pic.twitter.com\/A0EIG0WMMU",
+                        "expanded_url": "https:\/\/twitter.com\/cram_box\/status\/1214499574389198848\/photo\/1",
                         "type": "photo",
                         "sizes": {
-                            "large": {
-                                "w": 700,
-                                "h": 400,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 700,
-                                "h": 400,
-                                "resize": "fit"
-                            },
                             "thumb": {
                                 "w": 150,
                                 "h": 150,
                                 "resize": "crop"
                             },
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1536,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
                             "small": {
-                                "w": 680,
-                                "h": 389,
+                                "w": 510,
+                                "h": 680,
                                 "resize": "fit"
                             }
                         },
-                        "source_status_id": 1214184880247959552,
-                        "source_status_id_str": "1214184880247959552",
-                        "source_user_id": 717722317422333952,
-                        "source_user_id_str": "717722317422333952"
+                        "source_status_id": 1214499574389198848,
+                        "source_status_id_str": "1214499574389198848",
+                        "source_user_id": 172385031,
+                        "source_user_id_str": "172385031"
                     }
                 ],
-                "user_name": "まこみかん",
-                "user_screen_name": "REquiem_citrus",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1214029372404813826\/tu0REhyY_normal.jpg"
+                "user_name": "Hiro",
+                "user_screen_name": "hi_ro_pic",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1152872414717468672\/w3e1IMce_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:49:06 +0000 2020",
-                "tweet_id": 1214227399967035395,
+                "created_at": "Tue Jan 07 11:25:20 +0000 2020",
+                "tweet_id": 1214508312734994440,
                 "text": "RT @jun1chi: 48年前の東京市外電話局の仕事始め、着物姿の電話交換手がサイバーパンクみ感じる https:\/\/t.co\/1O3jndWKSe",
                 "media": [
                     {
@@ -662,37 +335,32 @@ module.exports={"twitter_result":[
                         "source_user_id_str": "14773121"
                     }
                 ],
-                "user_name": "お毛布。",
-                "user_screen_name": "emitsun321",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/748748884168413184\/u-g4WDpW_normal.jpg"
+                "user_name": "せー",
+                "user_screen_name": "sayla9797",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1138687768563933184\/Sd9pn40__normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:49:04 +0000 2020",
-                "tweet_id": 1214227392043995137,
-                "text": "RT @GAMEFREAK_info: あけましておめでとうございます！\n\nゲームフリークは今日が仕事始めです。\n\n今年の年賀状は子年（ねどし）にちなんだイラストになっています！ https:\/\/t.co\/VgB7k5Pa4i",
+                "created_at": "Tue Jan 07 11:25:19 +0000 2020",
+                "tweet_id": 1214508308549095425,
+                "text": "RT @jun1chi: 48年前の東京市外電話局の仕事始め、着物姿の電話交換手がサイバーパンクみ感じる https:\/\/t.co\/1O3jndWKSe",
                 "media": [
                     {
-                        "id": 1213980624211468291,
-                        "id_str": "1213980624211468291",
+                        "id": 1214005046213406721,
+                        "id_str": "1214005046213406721",
                         "indices": [
-                            90,
-                            113
+                            53,
+                            76
                         ],
-                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENjs8h5U4AMMS66.jpg",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENjs8h5U4AMMS66.jpg",
-                        "url": "https:\/\/t.co\/VgB7k5Pa4i",
-                        "display_url": "pic.twitter.com\/VgB7k5Pa4i",
-                        "expanded_url": "https:\/\/twitter.com\/GAMEFREAK_info\/status\/1214018752418762752\/photo\/1",
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENkDKE8U8AEvODQ.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENkDKE8U8AEvODQ.jpg",
+                        "url": "https:\/\/t.co\/1O3jndWKSe",
+                        "display_url": "pic.twitter.com\/1O3jndWKSe",
+                        "expanded_url": "https:\/\/twitter.com\/jun1chi\/status\/1214005057370247168\/photo\/1",
                         "type": "photo",
                         "sizes": {
                             "large": {
-                                "w": 1748,
-                                "h": 1181,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 459,
+                                "w": 630,
+                                "h": 403,
                                 "resize": "fit"
                             },
                             "thumb": {
@@ -701,616 +369,43 @@ module.exports={"twitter_result":[
                                 "resize": "crop"
                             },
                             "medium": {
-                                "w": 1200,
-                                "h": 811,
-                                "resize": "fit"
-                            }
-                        },
-                        "source_status_id": 1214018752418762752,
-                        "source_status_id_str": "1214018752418762752",
-                        "source_user_id": 1057217913369747462,
-                        "source_user_id_str": "1057217913369747462"
-                    }
-                ],
-                "user_name": "アジカンのベース",
-                "user_screen_name": "oruson__twi",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1181498021608951808\/kB_1VygH_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:49:02 +0000 2020",
-                "tweet_id": 1214227386767572992,
-                "text": "以前から職場環境に対してえぇ〜💦って思う事がたくさんあって、実際のところ今もそうなんだけど。\n我ら決して若くはないし、働けるだけありがたいのかもね。。\nなんて同じ立場の同僚としみじみ会話した仕事始めでした。",
-                "media": null,
-                "user_name": "MASA🍀",
-                "user_screen_name": "MASA36992989",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1213445827894448128\/SzM7J642_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:49:01 +0000 2020",
-                "tweet_id": 1214227381243662341,
-                "text": "@d_m_n_q 仕事始めお疲れ様でぇす！！！！！\nぐっない😴⭐️",
-                "media": null,
-                "user_name": "成沢くれは【Asterisk*zero】2\/8 2ndワンマン浅草花劇場",
-                "user_screen_name": "aste_908",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1210865945364688896\/iHXA9nvO_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:58 +0000 2020",
-                "tweet_id": 1214227367742197764,
-                "text": "RT @kyoukaraoreha_n: 「仕事始め」なのか「仕事初め」なのか、無難に「仕事はじめ」と打つか、悩み過ぎて「しごとはじめ」と打ってしまったか、そんなトレンド並び。\n\n探した辞書的には「仕事始め」が正解のようです。\n\n仕事始めの皆さん、いってらっしゃい👋\n#今日から…",
-                "media": null,
-                "user_name": "わら@おんがく企画する人",
-                "user_screen_name": "WARA_FUJIWARA",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1213770884663533568\/O2-js9ZC_normal.jpg"
-            }
-        ]
-    },
-    {
-        "trend_word": "X1解散",
-        "items": [
-            {
-                "created_at": "Mon Jan 06 16:49:12 +0000 2020",
-                "tweet_id": 1214227426860863489,
-                "text": "RT @smily88097827: 解散報道が出た次の日のx1のステージ\nほら見てよ！これを見てもx1解散って言いますか！？\nx1もウォニも誰も解散なんて望んでないよ\n\n#WeTrustX1 https:\/\/t.co\/o838X5b3wW",
-                "media": [
-                    {
-                        "id": 1214207361625153536,
-                        "id_str": "1214207361625153536",
-                        "indices": [
-                            97,
-                            120
-                        ],
-                        "media_url": "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1214207361625153536\/pu\/img\/x3FhxRAQpWimZWKT.jpg",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1214207361625153536\/pu\/img\/x3FhxRAQpWimZWKT.jpg",
-                        "url": "https:\/\/t.co\/o838X5b3wW",
-                        "display_url": "pic.twitter.com\/o838X5b3wW",
-                        "expanded_url": "https:\/\/twitter.com\/smily88097827\/status\/1214207430080356352\/video\/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 377,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 750,
-                                "h": 416,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 750,
-                                "h": 416,
-                                "resize": "fit"
-                            }
-                        },
-                        "source_status_id": 1214207430080356352,
-                        "source_status_id_str": "1214207430080356352",
-                        "source_user_id": 1168371543379832833,
-                        "source_user_id_str": "1168371543379832833"
-                    }
-                ],
-                "user_name": "ひいさる🙈🙉🙊",
-                "user_screen_name": "hii39421914",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1193563719071985664\/CdRS3Qou_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:49:07 +0000 2020",
-                "tweet_id": 1214227405151227904,
-                "text": "X1解散って本当なの。😢😢😢\nIZ*ONEだけ活動再開で騒いでる人達の気持ちも分かるけどファンにはどうしようも出来ないしそもそもお互いこんな不正なんて望んでない。個人的にはX1解散もかなりショック……FLASHのここめっちゃ好きだったのに。 https:\/\/t.co\/DThSOFzn1f",
-                "media": [
-                    {
-                        "id": 1214227359835930625,
-                        "id_str": "1214227359835930625",
-                        "indices": [
-                            121,
-                            144
-                        ],
-                        "media_url": "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1214227359835930625\/pu\/img\/mNufFWY1TL_wsOp_.jpg",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1214227359835930625\/pu\/img\/mNufFWY1TL_wsOp_.jpg",
-                        "url": "https:\/\/t.co\/DThSOFzn1f",
-                        "display_url": "pic.twitter.com\/DThSOFzn1f",
-                        "expanded_url": "https:\/\/twitter.com\/SMOKY000777\/status\/1214227405151227904\/video\/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 555,
+                                "w": 630,
+                                "h": 403,
                                 "resize": "fit"
                             },
                             "small": {
-                                "w": 680,
-                                "h": 315,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1280,
-                                "h": 592,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ],
-                "user_name": "💍린(りん)💍",
-                "user_screen_name": "SMOKY000777",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1185169954074554369\/3QqJOjBw_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:49:01 +0000 2020",
-                "tweet_id": 1214227381428211712,
-                "text": "X1が解散 投票不正操作問題で。(ﾟｰﾟ)",
-                "media": null,
-                "user_name": "マサぽん",
-                "user_screen_name": "masapon3109",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/464501391847739392\/cRA-CARX_normal.png"
-            },
-            {
-                "created_at": "Mon Jan 06 16:49:01 +0000 2020",
-                "tweet_id": 1214227380828430337,
-                "text": "X1解散？マジで？",
-                "media": null,
-                "user_name": "椎袮",
-                "user_screen_name": "ox_2mm",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1209584034017230850\/_rNZh_d4_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:59 +0000 2020",
-                "tweet_id": 1214227371655483392,
-                "text": "なんでX1解散なんですかあああなんでえええええええまだ語りたいことも見たい姿もたくさんあったのに何よりいろんな問題あって苦しい中でもデビューしたみんなはどうなるんですか、大人ってだめだ",
-                "media": null,
-                "user_name": "み",
-                "user_screen_name": "myk__do",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1184483807946084352\/LhL1EdCr_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:49 +0000 2020",
-                "tweet_id": 1214227331092377600,
-                "text": "X1が解散…？",
-                "media": null,
-                "user_name": "絹香",
-                "user_screen_name": "EslKsl",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1192964077389111297\/a8BzYtmq_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:48 +0000 2020",
-                "tweet_id": 1214227327493656579,
-                "text": "RT @Seungwoopy_Han: ユミ先生　インスタライブ\n意訳）今日、たくさんの方がｘ１の話をなさるのですが、実は今日解散するということを聞いて、残念な思いが大きかったです。なぜかというと、彼らが一生懸命準備して色々な気苦労をしたのに、結局はこうなるんだなって思いながら…",
-                "media": null,
-                "user_name": "서아",
-                "user_screen_name": "ad226ig",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1206852746789318656\/0oFpfFhT_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:36 +0000 2020",
-                "tweet_id": 1214227275987636224,
-                "text": "X1に解散して欲しくないけど不正に関わってない事務所が所属タレントを守りたいが故の「合意できない」の可能性もあるので合意しなかった事務所を責める気にもなれないんだよな…\nまずどこの事務所か分からないし…",
-                "media": null,
-                "user_name": "ちよ🐏🚀",
-                "user_screen_name": "chiyo_ddd",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1198992504856576000\/qC-NIC4L_normal.png"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:30 +0000 2020",
-                "tweet_id": 1214227251295735808,
-                "text": "RT @SDP_Ax101: 幸せな時間をありがとうドンピョヤ。\nドンピョは大変な時期もあったけど「大丈夫ってファンに伝えて！ありがとう」って言ってたね、強いねドンピョ。\n「X1解散」という文字を見た瞬間、言葉に表せないくらい悲しくて悔しくなった。\nソンドンピョを知れてよかった…",
-                "media": null,
-                "user_name": "oi",
-                "user_screen_name": "oi27038433",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1179997641960148992\/D3Ho5v3R_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:28 +0000 2020",
-                "tweet_id": 1214227241661419523,
-                "text": "年始からX1解散するしまいやん卒業しそうだしもう2020年嫌いです😌",
-                "media": null,
-                "user_name": "は る ☪︎",
-                "user_screen_name": "3739l",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1182952681477771264\/ZxwXM9zw_normal.jpg"
-            }
-        ]
-    },
-    {
-        "trend_word": "#はじめてのおつかい",
-        "items": [
-            {
-                "created_at": "Mon Jan 06 16:48:22 +0000 2020",
-                "tweet_id": 1214227215899955200,
-                "text": "ゆうとくんに本当に感動した！！！よく頑張ったよーー🥺\n#はじめてのおつかい https:\/\/t.co\/vvavwS4qOw",
-                "media": [
-                    {
-                        "id": 1214227212435521536,
-                        "id_str": "1214227212435521536",
-                        "indices": [
-                            38,
-                            61
-                        ],
-                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENnNN2nVAAAnQtX.jpg",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENnNN2nVAAAnQtX.jpg",
-                        "url": "https:\/\/t.co\/vvavwS4qOw",
-                        "display_url": "pic.twitter.com\/vvavwS4qOw",
-                        "expanded_url": "https:\/\/twitter.com\/f78998599\/status\/1214227215899955200\/photo\/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 750,
-                                "h": 467,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 750,
-                                "h": 467,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 423,
-                                "resize": "fit"
-                            }
-                        }
-                    }
-                ],
-                "user_name": "f",
-                "user_screen_name": "f78998599",
-                "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:13 +0000 2020",
-                "tweet_id": 1214227177723461634,
-                "text": "RT @riii76_supra: おねえちゃんのトランプを\n破ってしまって 喧嘩しちゃったから \n新しいトランプと ケーキを1人で\n買いに行った 花凛ちゃんが\n可愛すぎて やっぱり女の子って\nいいなぁと思った。\n\n#はじめてのおつかい https:\/\/t.co\/3W6k0vJ…",
-                "media": null,
-                "user_name": "みかちょん★",
-                "user_screen_name": "glay_kinbaku_17",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1125217297306492929\/KNUNRja3_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:47:37 +0000 2020",
-                "tweet_id": 1214227028859207680,
-                "text": "RT @yuua_sz: 面白すぎる爆笑爆笑爆笑爆笑爆笑 #はじめてのおつかい https:\/\/t.co\/OLGuVaVNtf",
-                "media": [
-                    {
-                        "id": 1214153888514768896,
-                        "id_str": "1214153888514768896",
-                        "indices": [
-                            40,
-                            63
-                        ],
-                        "media_url": "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1214153888514768896\/pu\/img\/Hftf36AeIsyX10tP.jpg",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1214153888514768896\/pu\/img\/Hftf36AeIsyX10tP.jpg",
-                        "url": "https:\/\/t.co\/OLGuVaVNtf",
-                        "display_url": "pic.twitter.com\/OLGuVaVNtf",
-                        "expanded_url": "https:\/\/twitter.com\/yuua_sz\/status\/1214154006445953025\/video\/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 675,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 383,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 1280,
-                                "h": 720,
-                                "resize": "fit"
-                            }
-                        },
-                        "source_status_id": 1214154006445953025,
-                        "source_status_id_str": "1214154006445953025",
-                        "source_user_id": 1209042474808643584,
-                        "source_user_id_str": "1209042474808643584"
-                    }
-                ],
-                "user_name": "イルフィ＠ななみん推し",
-                "user_screen_name": "ilfriede27",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/806467238463029248\/AqeabT13_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:45:54 +0000 2020",
-                "tweet_id": 1214226595495337985,
-                "text": "RT @china_alfafa: #はじめてのおつかい \n男の子が見覚えのあるリュックを背負ってて…あっ！ゴーオンジャーじゃん！うちの息子っちも持ってたよ。あのリュックを背負った後姿を何度も何度も何度も見ていた。もう10年以上も前。息子っちが初めてハマった戦闘モノだったのでゴ…",
-                "media": null,
-                "user_name": "ヤマゾンライダー",
-                "user_screen_name": "yamazon_rider",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/2565947543\/g9pcn8d4qmr8ut9rkgk3_normal.png"
-            },
-            {
-                "created_at": "Mon Jan 06 16:44:29 +0000 2020",
-                "tweet_id": 1214226240078401537,
-                "text": "録画してたのを観て\n涙😭\n #はじめてのおつかい",
-                "media": null,
-                "user_name": "wagamaman",
-                "user_screen_name": "wagamama1228",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/596344612920299522\/wm2vGosH_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:44:19 +0000 2020",
-                "tweet_id": 1214226198307328002,
-                "text": "RT @riii76_supra: おねえちゃんのトランプを\n破ってしまって 喧嘩しちゃったから \n新しいトランプと ケーキを1人で\n買いに行った 花凛ちゃんが\n可愛すぎて やっぱり女の子って\nいいなぁと思った。\n\n#はじめてのおつかい https:\/\/t.co\/3W6k0vJ…",
-                "media": null,
-                "user_name": "りｰと",
-                "user_screen_name": "otonashi_0827",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1186219786394431488\/--eqpZbI_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:42:14 +0000 2020",
-                "tweet_id": 1214225674996568064,
-                "text": "RT @ararai_ararai: コラーゲンを買わせたい日本代表\nVS\nただおつかいが楽しい3歳児\n#はじめてのおつかい https:\/\/t.co\/OgOZJl2KYh",
-                "media": [
-                    {
-                        "id": 1214153683270656000,
-                        "id_str": "1214153683270656000",
-                        "indices": [
-                            63,
-                            86
-                        ],
-                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENmKV5IUYAAyONq.jpg",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENmKV5IUYAAyONq.jpg",
-                        "url": "https:\/\/t.co\/OgOZJl2KYh",
-                        "display_url": "pic.twitter.com\/OgOZJl2KYh",
-                        "expanded_url": "https:\/\/twitter.com\/ararai_ararai\/status\/1214153704913301506\/photo\/1",
-                        "type": "photo",
-                        "sizes": {
-                            "large": {
-                                "w": 2048,
-                                "h": 1213,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 711,
-                                "resize": "fit"
-                            },
-                            "small": {
-                                "w": 680,
+                                "w": 630,
                                 "h": 403,
                                 "resize": "fit"
                             }
                         },
-                        "source_status_id": 1214153704913301506,
-                        "source_status_id_str": "1214153704913301506",
-                        "source_user_id": 3249683478,
-                        "source_user_id_str": "3249683478"
+                        "source_status_id": 1214005057370247168,
+                        "source_status_id_str": "1214005057370247168",
+                        "source_user_id": 14773121,
+                        "source_user_id_str": "14773121"
                     }
                 ],
-                "user_name": "ぴの",
-                "user_screen_name": "hiranon523",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1193552073805062146\/3RMvC5pO_normal.jpg"
+                "user_name": "ぎっちょ",
+                "user_screen_name": "gicchow",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1106393967673769986\/ItZP0fUb_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:41:41 +0000 2020",
-                "tweet_id": 1214225533304635392,
-                "text": "RT @ararai_ararai: 頼まれていない大根を何故買ったかって？\nお茶の間の期待に応えたのさ\n#はじめてのおつかい https:\/\/t.co\/ZnBAloNpOw",
+                "created_at": "Tue Jan 07 11:25:19 +0000 2020",
+                "tweet_id": 1214508306045140994,
+                "text": "RT @enako_cos: 2020年の仕事始めは『ゴー☆ジャス動画』の収録でした🌟\n\nたくさん動画撮ったので配信をお楽しみにლ(´ڡ`ლ)おなかいっぱ〜い！ https:\/\/t.co\/zhhhxYSRLD",
                 "media": [
                     {
-                        "id": 1214157189591388160,
-                        "id_str": "1214157189591388160",
+                        "id": 1214493891832860672,
+                        "id_str": "1214493891832860672",
                         "indices": [
-                            64,
-                            87
+                            81,
+                            104
                         ],
-                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENmNh_MU0AAh84t.jpg",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENmNh_MU0AAh84t.jpg",
-                        "url": "https:\/\/t.co\/ZnBAloNpOw",
-                        "display_url": "pic.twitter.com\/ZnBAloNpOw",
-                        "expanded_url": "https:\/\/twitter.com\/ararai_ararai\/status\/1214157210416058370\/photo\/1",
-                        "type": "photo",
-                        "sizes": {
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 382,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 2048,
-                                "h": 1151,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 675,
-                                "resize": "fit"
-                            }
-                        },
-                        "source_status_id": 1214157210416058370,
-                        "source_status_id_str": "1214157210416058370",
-                        "source_user_id": 3249683478,
-                        "source_user_id_str": "3249683478"
-                    }
-                ],
-                "user_name": "みかん",
-                "user_screen_name": "qLseX9WMQOQJmRj",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1213493400030175232\/TOX6SLeB_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:40:52 +0000 2020",
-                "tweet_id": 1214225329339781121,
-                "text": "RT @nanako_nsmr: #はじめてのおつかい  で思い出した。私が初めておつかいしたのは5歳。\nヨーカドーまでシャンプーを買ってきてと言われた。\nでも当時の私はめんどくさがって近くのコンビニへ行き2泊3日用のトラベルグッズのシャンプーとリンス、なぜかミルクティーを買っ…",
-                "media": null,
-                "user_name": "ゲソっち",
-                "user_screen_name": "gesochi",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1213661781417066496\/6TyV6a6l_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:40:47 +0000 2020",
-                "tweet_id": 1214225310813577216,
-                "text": "良い街、良い家族\n\n#はじめてのおつかい",
-                "media": null,
-                "user_name": "くたびれたエンジニア",
-                "user_screen_name": "tcp53",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1124007658854473731\/I9Fv9l2T_normal.jpg"
-            }
-        ]
-    },
-    {
-        "trend_word": "仕事初め",
-        "items": [
-            {
-                "created_at": "Mon Jan 06 16:49:11 +0000 2020",
-                "tweet_id": 1214227422289121280,
-                "text": "RT @nishida0528: あけましておめでとうございます！\n\n仕事納め、仕事初めは、ともになんばグランド花月で漫才やらせてもらいました\n\nどうぞ本年もよろしく、お願いいたします\n\n1月21日、なんばグランド花月でゲームコーナーのライブございますよってに！ 是非是非〜 h…",
-                "media": null,
-                "user_name": "みさおちゃん",
-                "user_screen_name": "misaomisao1124",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1013147998904201216\/t2xY6Kuv_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:49:10 +0000 2020",
-                "tweet_id": 1214227419688652803,
-                "text": "RT @odo_69: 仕事初めしたら色んな奴にこれ言いたくなる https:\/\/t.co\/EDATmeinCF",
-                "media": [
-                    {
-                        "id": 1213730841148325888,
-                        "id_str": "1213730841148325888",
-                        "indices": [
-                            33,
-                            56
-                        ],
-                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENgJxPeVAAALJhy.jpg",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENgJxPeVAAALJhy.jpg",
-                        "url": "https:\/\/t.co\/EDATmeinCF",
-                        "display_url": "pic.twitter.com\/EDATmeinCF",
-                        "expanded_url": "https:\/\/twitter.com\/odo_69\/status\/1213730845535567872\/photo\/1",
-                        "type": "photo",
-                        "sizes": {
-                            "large": {
-                                "w": 1334,
-                                "h": 750,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 680,
-                                "h": 382,
-                                "resize": "fit"
-                            },
-                            "medium": {
-                                "w": 1200,
-                                "h": 675,
-                                "resize": "fit"
-                            }
-                        },
-                        "source_status_id": 1213730845535567872,
-                        "source_status_id_str": "1213730845535567872",
-                        "source_user_id": 254611764,
-                        "source_user_id_str": "254611764"
-                    }
-                ],
-                "user_name": "しき",
-                "user_screen_name": "aeternitas_vox",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1151260475780239360\/ROVFNc-Z_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:49:06 +0000 2020",
-                "tweet_id": 1214227399967002624,
-                "text": "RT @funassyi: みんなー今日も一日お疲れ様なっしー♪ヾ(。゜▽゜)ノいよいよ仕事初めなっしなー♪無理せずマイペースで行こうなっしー♪\nなんかこの写真懐かしのゲームご当地プルプルを思い出すなっしー♪\n明日もみんな無理せず元気に過ごせますよう梨汁ブシャー:＊\nもやぷるー…",
-                "media": null,
-                "user_name": "やま",
-                "user_screen_name": "yamaimowww",
-                "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png"
-            },
-            {
-                "created_at": "Mon Jan 06 16:49:04 +0000 2020",
-                "tweet_id": 1214227394451521537,
-                "text": "RT @hoshihakase: 二十四節気・小寒の夜。次第に雲が広がる中、虹色を纏った月が見えていました。\n仕事初めで慌ただしかった1日、お休み前に月を見て、ちょっと穏やかな気持ちで終えてみてはいかがでしょう。 https:\/\/t.co\/js94Ky80Fq",
-                "media": [
-                    {
-                        "id": 1214183053662150656,
-                        "id_str": "1214183053662150656",
-                        "indices": [
-                            107,
-                            130
-                        ],
-                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENmlDeXU4AAsmPb.jpg",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENmlDeXU4AAsmPb.jpg",
-                        "url": "https:\/\/t.co\/js94Ky80Fq",
-                        "display_url": "pic.twitter.com\/js94Ky80Fq",
-                        "expanded_url": "https:\/\/twitter.com\/hoshihakase\/status\/1214183066307948545\/photo\/1",
-                        "type": "photo",
-                        "sizes": {
-                            "medium": {
-                                "w": 640,
-                                "h": 640,
-                                "resize": "fit"
-                            },
-                            "thumb": {
-                                "w": 150,
-                                "h": 150,
-                                "resize": "crop"
-                            },
-                            "small": {
-                                "w": 640,
-                                "h": 640,
-                                "resize": "fit"
-                            },
-                            "large": {
-                                "w": 640,
-                                "h": 640,
-                                "resize": "fit"
-                            }
-                        },
-                        "source_status_id": 1214183066307948545,
-                        "source_status_id_str": "1214183066307948545",
-                        "source_user_id": 1319315473,
-                        "source_user_id_str": "1319315473"
-                    }
-                ],
-                "user_name": "月花(ﾂｷｶ)",
-                "user_screen_name": "tukikac",
-                "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png"
-            },
-            {
-                "created_at": "Mon Jan 06 16:49:01 +0000 2020",
-                "tweet_id": 1214227382149627904,
-                "text": "RT @kudoharuka910: 仕事初めでした。\nあーー楽しかった！！！\n今年も楽しい1年になりそう！いや、なるね、絶対に。\n\nエレベーターの端っこに、林檎あった🍎 https:\/\/t.co\/ihymXSqmZO",
-                "media": [
-                    {
-                        "id": 1214157505925795840,
-                        "id_str": "1214157505925795840",
-                        "indices": [
-                            86,
-                            109
-                        ],
-                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENmN0ZoU0AA4zAz.jpg",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENmN0ZoU0AA4zAz.jpg",
-                        "url": "https:\/\/t.co\/ihymXSqmZO",
-                        "display_url": "pic.twitter.com\/ihymXSqmZO",
-                        "expanded_url": "https:\/\/twitter.com\/kudoharuka910\/status\/1214157522593927169\/photo\/1",
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENq_woyUUAAXwjR.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENq_woyUUAAXwjR.jpg",
+                        "url": "https:\/\/t.co\/zhhhxYSRLD",
+                        "display_url": "pic.twitter.com\/zhhhxYSRLD",
+                        "expanded_url": "https:\/\/twitter.com\/enako_cos\/status\/1214493900779343873\/photo\/1",
                         "type": "photo",
                         "sizes": {
                             "thumb": {
@@ -1334,60 +429,197 @@ module.exports={"twitter_result":[
                                 "resize": "fit"
                             }
                         },
-                        "source_status_id": 1214157522593927169,
-                        "source_status_id_str": "1214157522593927169",
-                        "source_user_id": 3693557304,
-                        "source_user_id_str": "3693557304"
+                        "source_status_id": 1214493900779343873,
+                        "source_status_id_str": "1214493900779343873",
+                        "source_user_id": 3061182559,
+                        "source_user_id_str": "3061182559"
                     }
                 ],
-                "user_name": "だいこん＠フォロバ810%バンドリデレステミリシタアズレン艦これシャドバ勢✨デレ7th大阪両日現地💜",
-                "user_screen_name": "DoSan_",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1127255989546147841\/FbvQycQb_normal.png"
+                "user_name": "あかりんごあおりんご",
+                "user_screen_name": "wakuwakuaklucky",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1098417240100110336\/snD2T6F__normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:49:00 +0000 2020",
-                "tweet_id": 1214227374738296833,
-                "text": "長い休みが終わってしまった😣仕事初め、マジで嫌。でもその前にWSで笑顔の光ちゃん見れるかと思うと起きられそう。そして何とか1日頑張れそう。ありがたや～😆",
-                "media": null,
-                "user_name": "ひまわり",
-                "user_screen_name": "kk_5124_dd",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1114501685848596480\/PM_LtL4a_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:59 +0000 2020",
-                "tweet_id": 1214227372066525197,
-                "text": "早速明日遅出(&gt;_&lt;)色々検索していて、とある動画できゅんに出会う(笑)\nプロ意識持って仕事してるの好き。\n太陽級の笑顔。ダンスも歌も上手い。ギャップずるい。そして受け口(笑)\n何だかんだやっぱり好きかもやで。\nあー早く郁人初めしたい(^^;",
-                "media": null,
-                "user_name": "はるルン@はるてゃん♪",
-                "user_screen_name": "haruruntofumito",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1068144796089249792\/BjaHZ9rM_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:58 +0000 2020",
-                "tweet_id": 1214227367742197764,
-                "text": "RT @kyoukaraoreha_n: 「仕事始め」なのか「仕事初め」なのか、無難に「仕事はじめ」と打つか、悩み過ぎて「しごとはじめ」と打ってしまったか、そんなトレンド並び。\n\n探した辞書的には「仕事始め」が正解のようです。\n\n仕事始めの皆さん、いってらっしゃい👋\n#今日から…",
-                "media": null,
-                "user_name": "わら@おんがく企画する人",
-                "user_screen_name": "WARA_FUJIWARA",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1213770884663533568\/O2-js9ZC_normal.jpg"
-            },
-            {
-                "created_at": "Mon Jan 06 16:48:57 +0000 2020",
-                "tweet_id": 1214227365645017088,
-                "text": "RT @bluehina4: 2020仕事初めでした🌱\n\nオープンからあんなに混んでるフレッシュ初めて見た。タイムキーパー大変、超並んでる人数かぞえた。 https:\/\/t.co\/azPnYRcwmi",
+                "created_at": "Tue Jan 07 11:25:18 +0000 2020",
+                "tweet_id": 1214508303440465920,
+                "text": "RT @jun1chi: 48年前の東京市外電話局の仕事始め、着物姿の電話交換手がサイバーパンクみ感じる https:\/\/t.co\/1O3jndWKSe",
                 "media": [
                     {
-                        "id": 1213792993049661440,
-                        "id_str": "1213792993049661440",
+                        "id": 1214005046213406721,
+                        "id_str": "1214005046213406721",
                         "indices": [
-                            77,
-                            100
+                            53,
+                            76
                         ],
-                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENhCS9WVUAAi5_p.jpg",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENhCS9WVUAAi5_p.jpg",
-                        "url": "https:\/\/t.co\/azPnYRcwmi",
-                        "display_url": "pic.twitter.com\/azPnYRcwmi",
-                        "expanded_url": "https:\/\/twitter.com\/bluehina4\/status\/1213792996874829825\/photo\/1",
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENkDKE8U8AEvODQ.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENkDKE8U8AEvODQ.jpg",
+                        "url": "https:\/\/t.co\/1O3jndWKSe",
+                        "display_url": "pic.twitter.com\/1O3jndWKSe",
+                        "expanded_url": "https:\/\/twitter.com\/jun1chi\/status\/1214005057370247168\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 630,
+                                "h": 403,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 630,
+                                "h": 403,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 630,
+                                "h": 403,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1214005057370247168,
+                        "source_status_id_str": "1214005057370247168",
+                        "source_user_id": 14773121,
+                        "source_user_id_str": "14773121"
+                    }
+                ],
+                "user_name": "皮",
+                "user_screen_name": "kawagopo",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1443929395\/___normal.PNG"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:12 +0000 2020",
+                "tweet_id": 1214508276978569216,
+                "text": "2020\/1\/8(水)\n【月齢12.9】月双子\n\n「今日から仕事始め！早め始動で」\n\n気分爽快、頭も冴えるし\n\n空模様的にも\n一気に動きやすさが出る\n\n“年末年始モード”から\n正式に切り替えられる感じ✨\n\n仕事や勉強が捗るので\n\n【予習\/先回り\/前倒し】\nやれるところまで進めちゃおう\n\nアポ取りも◎\n\n#明日の備忘録",
+                "media": null,
+                "user_name": "☪️ miraimiku @西洋占星術の入口",
+                "user_screen_name": "miraimiku_bot",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1208081583460106240\/Y-q2pbhy_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:12 +0000 2020",
+                "tweet_id": 1214508275888050176,
+                "text": "RT @jun1chi: 48年前の東京市外電話局の仕事始め、着物姿の電話交換手がサイバーパンクみ感じる https:\/\/t.co\/1O3jndWKSe",
+                "media": [
+                    {
+                        "id": 1214005046213406721,
+                        "id_str": "1214005046213406721",
+                        "indices": [
+                            53,
+                            76
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENkDKE8U8AEvODQ.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENkDKE8U8AEvODQ.jpg",
+                        "url": "https:\/\/t.co\/1O3jndWKSe",
+                        "display_url": "pic.twitter.com\/1O3jndWKSe",
+                        "expanded_url": "https:\/\/twitter.com\/jun1chi\/status\/1214005057370247168\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 630,
+                                "h": 403,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 630,
+                                "h": 403,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 630,
+                                "h": 403,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1214005057370247168,
+                        "source_status_id_str": "1214005057370247168",
+                        "source_user_id": 14773121,
+                        "source_user_id_str": "14773121"
+                    }
+                ],
+                "user_name": "クマシロ",
+                "user_screen_name": "kumasiro",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1197655926007721987\/6tcCX6Lc_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:11 +0000 2020",
+                "tweet_id": 1214508274441052160,
+                "text": "RT @gerogero00001: 仕事始めでお疲れの社会人マスターを励ましてくれるレジライ\n#FGO #FateGO https:\/\/t.co\/Qo6ilMjAY2",
+                "media": [
+                    {
+                        "id": 1214184870059970560,
+                        "id_str": "1214184870059970560",
+                        "indices": [
+                            61,
+                            84
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENmmtM-UEAARjwO.png",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENmmtM-UEAARjwO.png",
+                        "url": "https:\/\/t.co\/Qo6ilMjAY2",
+                        "display_url": "pic.twitter.com\/Qo6ilMjAY2",
+                        "expanded_url": "https:\/\/twitter.com\/gerogero00001\/status\/1214184880247959552\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 700,
+                                "h": 400,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 700,
+                                "h": 400,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 389,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1214184880247959552,
+                        "source_status_id_str": "1214184880247959552",
+                        "source_user_id": 717722317422333952,
+                        "source_user_id_str": "717722317422333952"
+                    }
+                ],
+                "user_name": "水都 碧",
+                "user_screen_name": "11Curcle",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1020993909005008897\/UblVQ8T9_normal.jpg"
+            }
+        ]
+    },
+    {
+        "trend_word": "#ら行でなぜモテないのか分かる",
+        "items": [
+            {
+                "created_at": "Tue Jan 07 11:25:23 +0000 2020",
+                "tweet_id": 1214508322621050882,
+                "text": "#ら行でなぜモテないのか分かる\nライオンズ\nリハビリ\nルーズ\nレディース\nログイン\n\nなんですか？これ？ https:\/\/t.co\/n22JjkBmA6",
+                "media": [
+                    {
+                        "id": 1214508311778746368,
+                        "id_str": "1214508311778746368",
+                        "indices": [
+                            53,
+                            76
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENrM3_RU4AA8YS5.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENrM3_RU4AA8YS5.jpg",
+                        "url": "https:\/\/t.co\/n22JjkBmA6",
+                        "display_url": "pic.twitter.com\/n22JjkBmA6",
+                        "expanded_url": "https:\/\/twitter.com\/take0215_reds\/status\/1214508322621050882\/photo\/1",
                         "type": "photo",
                         "sizes": {
                             "thumb": {
@@ -1397,12 +629,258 @@ module.exports={"twitter_result":[
                             },
                             "small": {
                                 "w": 680,
-                                "h": 510,
+                                "h": 383,
                                 "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ],
+                "user_name": "浦和人岳人81キロは早く退院したい。",
+                "user_screen_name": "take0215_reds",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1112318578777153539\/XYhCFbOB_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:16 +0000 2020",
+                "tweet_id": 1214508296289153024,
+                "text": "#ら行でなぜモテないのか分かる\n\nLIVE\nりんごちゃん\nるる\n連続オール\nろくに\n\n╭(°A°`)╮",
+                "media": null,
+                "user_name": "Mr.ℳ",
+                "user_screen_name": "M_pic7",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1049262666319982592\/RIUU_Khw_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:09 +0000 2020",
+                "tweet_id": 1214508266522202112,
+                "text": "RT @masyo_myuma: @yuumadon115291 LINE\n罹患\nるる\n歴史\nろくさい\n\nなんのこっちゃw\n#ら行でなぜモテないのか分かる",
+                "media": null,
+                "user_name": "ゆうまどん@覚醒",
+                "user_screen_name": "yuumadon115291",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1212124231640608768\/ItEQuRt0_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:24:59 +0000 2020",
+                "tweet_id": 1214508223413178368,
+                "text": "#ら行でなぜモテないのか分かる\nランクマ\nリッパーなんて\nルイージ\nレオ\nROAくん\n\n異物混入のお知らせ",
+                "media": null,
+                "user_name": "十歩",
+                "user_screen_name": "3oBEphF9R7cyLMd",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1156114421736853504\/6LbSz6OC_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:24:19 +0000 2020",
+                "tweet_id": 1214508055645130752,
+                "text": "#ら行でなぜモテないのか分かる\n\nランク\nリアル\nレベル\nルール\nログイン\n\nここ2週間で完全に染まってしまっている。(´Д` )おれはあいどるおたく",
+                "media": null,
+                "user_name": "ZUMU🐰B型推し発覚(´Д` )",
+                "user_screen_name": "zumu_1904",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/785151869089746945\/REPO46y__normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:24:08 +0000 2020",
+                "tweet_id": 1214508008266293248,
+                "text": "#ら行でなぜモテないのか分かる\n\nランダム\nリテイナー\nルレ\n霊\nログイン\n\n色気がないね",
+                "media": null,
+                "user_name": "Mirfak BlueMoon❖Gungnir",
+                "user_screen_name": "BlueMoon_FF14",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1190109560989798401\/toSgpdSj_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:24:07 +0000 2020",
+                "tweet_id": 1214508006202720256,
+                "text": "#ら行でなぜモテないのか分かる\n\nライザ\nリバイバル\nルナツー\n連休明け\nロングマガジン",
+                "media": null,
+                "user_name": "ねも",
+                "user_screen_name": "nemo8492",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1211321792536596480\/nvHp435j_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:23:34 +0000 2020",
+                "tweet_id": 1214507867740327936,
+                "text": "#ら行でなぜモテないのか分かる\n\n来週\n了解\nる\n列\nロック",
+                "media": null,
+                "user_name": "ゆにばっ。",
+                "user_screen_name": "sw_ujo",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1176910865607487490\/pzESDhEM_normal.png"
+            },
+            {
+                "created_at": "Tue Jan 07 11:23:26 +0000 2020",
+                "tweet_id": 1214507833737142272,
+                "text": "#ら行でなぜモテないのか分かる \n\nらひひひ推しが、😣\n\n？？？？？？？",
+                "media": null,
+                "user_name": "田篠 の 嫁 ((殴",
+                "user_screen_name": "Bebe_asaka",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1188313131346325505\/b5diSrSQ_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:23:15 +0000 2020",
+                "tweet_id": 1214507785729110017,
+                "text": "#ら行でなぜモテないのか分かる \nラー\nリリカの\nルーエン\nレイド\nろくくん\n\n彼氏がやってたから…",
+                "media": null,
+                "user_name": "あるかり@百鬼",
+                "user_screen_name": "Tsuki_Ririka",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1149569154703216640\/DFu1fhh5_normal.jpg"
+            }
+        ]
+    },
+    {
+        "trend_word": "七草粥",
+        "items": [
+            {
+                "created_at": "Tue Jan 07 11:25:25 +0000 2020",
+                "tweet_id": 1214508330355326976,
+                "text": "今年は七草を買ってきたので夜に七草粥を作ったら三女が「お粥ってなんか貧乏な感じ」って。どんなイメージやねん！",
+                "media": null,
+                "user_name": "カバコ＠ジェノゲスト服薬中",
+                "user_screen_name": "kabacomama",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1159838960866058241\/OJBUnTdU_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:25 +0000 2020",
+                "tweet_id": 1214508330225299456,
+                "text": "七草粥つくった https:\/\/t.co\/icIhu8OU2m",
+                "media": [
+                    {
+                        "id": 1214508326257512448,
+                        "id_str": "1214508326257512448",
+                        "indices": [
+                            8,
+                            31
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENrM41NVUAAMIko.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENrM41NVUAAMIko.jpg",
+                        "url": "https:\/\/t.co\/icIhu8OU2m",
+                        "display_url": "pic.twitter.com\/icIhu8OU2m",
+                        "expanded_url": "https:\/\/twitter.com\/Dq10_kuroyuki\/status\/1214508330225299456\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 828,
+                                "h": 713,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 828,
+                                "h": 713,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 586,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ],
+                "user_name": "ク口ユキヒメ@21個",
+                "user_screen_name": "Dq10_kuroyuki",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1072406369507164160\/WmZh42L8_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:24 +0000 2020",
+                "tweet_id": 1214508329701003264,
+                "text": "RT @Manager_Uni: 七草粥とかいう7種類の草が入ったお粥を食べて無病息災を祈ってる場合じゃないぞ！8倍の56種類の薬草が入っているドイツのお酒『イエーガーマイスター』を飲んで無敵になろうぜ✨ https:\/\/t.co\/PzxcMlCAbp",
+                "media": [
+                    {
+                        "id": 1214366554210463746,
+                        "id_str": "1214366554210463746",
+                        "indices": [
+                            103,
+                            126
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENpL8nLUcAI7k-J.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENpL8nLUcAI7k-J.jpg",
+                        "url": "https:\/\/t.co\/PzxcMlCAbp",
+                        "display_url": "pic.twitter.com\/PzxcMlCAbp",
+                        "expanded_url": "https:\/\/twitter.com\/Manager_Uni\/status\/1214366560732631040\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 478,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 847,
+                                "h": 596,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 847,
+                                "h": 596,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1214366560732631040,
+                        "source_status_id_str": "1214366560732631040",
+                        "source_user_id": 67321520,
+                        "source_user_id_str": "67321520"
+                    }
+                ],
+                "user_name": "なお",
+                "user_screen_name": "nnaotnn",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1192849520612167680\/yfcpwxtM_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:24 +0000 2020",
+                "tweet_id": 1214508329671618562,
+                "text": "テレビで551の肉まんとかやるから食べたくなったじゃねえか…やめろよ今日は七草粥で慎ましく終わるつもりなんだよやめろよ",
+                "media": null,
+                "user_name": "いちか",
+                "user_screen_name": "kiri_ichi",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1139495764386648064\/-8oJb2sl_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:24 +0000 2020",
+                "tweet_id": 1214508329579491328,
+                "text": "RT @lunar037: 我が家恒例のマンドラゴラのおかゆ作りました。今回はトッピング3匹 (OxO)ｱｯｵｰ #七草粥 #FF14 https:\/\/t.co\/wUNQBmlaDp",
+                "media": [
+                    {
+                        "id": 1214474862351147008,
+                        "id_str": "1214474862351147008",
+                        "indices": [
+                            68,
+                            91
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENquc-cU4AAFdNV.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENquc-cU4AAFdNV.jpg",
+                        "url": "https:\/\/t.co\/wUNQBmlaDp",
+                        "display_url": "pic.twitter.com\/wUNQBmlaDp",
+                        "expanded_url": "https:\/\/twitter.com\/lunar037\/status\/1214474875856777218\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
                             },
                             "large": {
                                 "w": 2048,
                                 "h": 1536,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
                                 "resize": "fit"
                             },
                             "medium": {
@@ -1411,38 +889,38 @@ module.exports={"twitter_result":[
                                 "resize": "fit"
                             }
                         },
-                        "source_status_id": 1213792996874829825,
-                        "source_status_id_str": "1213792996874829825",
-                        "source_user_id": 1123488385320931328,
-                        "source_user_id_str": "1123488385320931328"
+                        "source_status_id": 1214474875856777218,
+                        "source_status_id_str": "1214474875856777218",
+                        "source_user_id": 257828561,
+                        "source_user_id_str": "257828561"
                     }
                 ],
-                "user_name": "James",
-                "user_screen_name": "KidLacoste",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/463700890742837248\/RQj44Ho7_normal.png"
+                "user_name": "いなり",
+                "user_screen_name": "17ry_overdrive",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1214214347200712704\/PSnpZ78A_normal.png"
             },
             {
-                "created_at": "Mon Jan 06 16:48:54 +0000 2020",
-                "tweet_id": 1214227350755278848,
-                "text": "RT @odo_69: 仕事初めしたら色んな奴にこれ言いたくなる https:\/\/t.co\/EDATmeinCF",
+                "created_at": "Tue Jan 07 11:25:24 +0000 2020",
+                "tweet_id": 1214508327952011264,
+                "text": "RT @Manager_Uni: 七草粥とかいう7種類の草が入ったお粥を食べて無病息災を祈ってる場合じゃないぞ！8倍の56種類の薬草が入っているドイツのお酒『イエーガーマイスター』を飲んで無敵になろうぜ✨ https:\/\/t.co\/PzxcMlCAbp",
                 "media": [
                     {
-                        "id": 1213730841148325888,
-                        "id_str": "1213730841148325888",
+                        "id": 1214366554210463746,
+                        "id_str": "1214366554210463746",
                         "indices": [
-                            33,
-                            56
+                            103,
+                            126
                         ],
-                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENgJxPeVAAALJhy.jpg",
-                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENgJxPeVAAALJhy.jpg",
-                        "url": "https:\/\/t.co\/EDATmeinCF",
-                        "display_url": "pic.twitter.com\/EDATmeinCF",
-                        "expanded_url": "https:\/\/twitter.com\/odo_69\/status\/1213730845535567872\/photo\/1",
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENpL8nLUcAI7k-J.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENpL8nLUcAI7k-J.jpg",
+                        "url": "https:\/\/t.co\/PzxcMlCAbp",
+                        "display_url": "pic.twitter.com\/PzxcMlCAbp",
+                        "expanded_url": "https:\/\/twitter.com\/Manager_Uni\/status\/1214366560732631040\/photo\/1",
                         "type": "photo",
                         "sizes": {
-                            "large": {
-                                "w": 1334,
-                                "h": 750,
+                            "small": {
+                                "w": 680,
+                                "h": 478,
                                 "resize": "fit"
                             },
                             "thumb": {
@@ -1450,216 +928,347 @@ module.exports={"twitter_result":[
                                 "h": 150,
                                 "resize": "crop"
                             },
-                            "small": {
-                                "w": 680,
-                                "h": 382,
+                            "large": {
+                                "w": 847,
+                                "h": 596,
                                 "resize": "fit"
                             },
                             "medium": {
-                                "w": 1200,
-                                "h": 675,
+                                "w": 847,
+                                "h": 596,
                                 "resize": "fit"
                             }
                         },
-                        "source_status_id": 1213730845535567872,
-                        "source_status_id_str": "1213730845535567872",
-                        "source_user_id": 254611764,
-                        "source_user_id_str": "254611764"
+                        "source_status_id": 1214366560732631040,
+                        "source_status_id_str": "1214366560732631040",
+                        "source_user_id": 67321520,
+                        "source_user_id_str": "67321520"
                     }
                 ],
-                "user_name": "みのりちゃん",
-                "user_screen_name": "Yu_1102_dear",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1171043010185838593\/NAq-xUwj_normal.jpg"
+                "user_name": "とあるNPKのpso2垢",
+                "user_screen_name": "NPK_game",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/947273674746355712\/FtUkt3Cm_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:24 +0000 2020",
+                "tweet_id": 1214508326907609089,
+                "text": "RT @KanColle_STAFF: 提督の皆さん、お疲れさまです！\n\n今日は七草粥の日！年末年始で傷んだ胃腸を早春の七草で優しく整えていきたいですね。「艦これ」母港でも、本日未明より「鎮守府カウンターバー」や「年末年始の提督大奮発」が何気に七草粥modeとなっています。本日…",
+                "media": null,
+                "user_name": "いせわん",
+                "user_screen_name": "Seijin13",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/510209540621467648\/1tOsgUoi_normal.jpeg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:23 +0000 2020",
+                "tweet_id": 1214508325255016449,
+                "text": "今日は七草粥じゃなくて生協で買った冷凍の「かにぞうすい」。\nこの中に大根と白菜と春菊とネギと卵を入れて具沢山になりました。",
+                "media": null,
+                "user_name": "☆Ake☆",
+                "user_screen_name": "akemoco",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/958978196405329922\/lCRtEbka_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:23 +0000 2020",
+                "tweet_id": 1214508324940472320,
+                "text": "うちの自称七草粥は何草入ってんだろ",
+                "media": null,
+                "user_name": "ちいやん",
+                "user_screen_name": "edasora",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/542961935327567872\/CBEN4jx7_normal.jpeg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:23 +0000 2020",
+                "tweet_id": 1214508324697198592,
+                "text": "🍚七草粥🍚10連ガチャ\n\nN お湯\nN 塩\nSR 牛タン\nR せり\nSR 赤かぶ\nN 塩\nR せり\nN 塩\nN お湯\nN 塩\n#七草がゆ10連ガチャ #shindanmaker\nhttps:\/\/t.co\/gDoZVxBML9",
+                "media": null,
+                "user_name": "クリアファイルなかったモルモット",
+                "user_screen_name": "mol__v",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1112697378908180480\/fPhl5Rvk_normal.png"
             }
         ]
     },
     {
-        "trend_word": "#絶対零度",
+        "trend_word": "#スマホを落としただけなのに",
         "items": [
             {
-                "created_at": "Mon Jan 06 16:49:12 +0000 2020",
-                "tweet_id": 1214227425950724096,
-                "text": "RT @modelpress: 【プレゼント❤】本田翼、直筆サイン入りチェキを1名様に🎁\n\n①モデルプレスをフォロー＆このツイートをRT\n②このツイートにリプ\nで応募完了✌\n\n1\/20 22時〆切！当選通知はDMにて💌\n\nインタビューはこちら🔻 \nhttps:\/\/t.co\/hy…",
+                "created_at": "Tue Jan 07 11:25:04 +0000 2020",
+                "tweet_id": 1214508243227004930,
+                "text": "RT @sumaho_otoshita: ＼完成披露試写会決定⚡／\n\n1月29日(水)  \n『#スマホを落としただけなのに 囚われの殺人鬼』\n完成披露試写会を開催いたします📱\n\n当日はスタッフ・キャストによる舞台挨拶を予定しております！\n皆様のご応募お待ちしております💥\n\n #…",
                 "media": null,
-                "user_name": "たいやん",
-                "user_screen_name": "taiya7974",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/898917828136288256\/71JbgBgC_normal.jpg"
+                "user_name": "てけちゃん",
+                "user_screen_name": "teketan_piochan",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/924700679129546753\/QYGyfBfZ_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:48:56 +0000 2020",
-                "tweet_id": 1214227360263753729,
-                "text": "RT @modelpress: 【プレゼント❤】本田翼、直筆サイン入りチェキを1名様に🎁\n\n①モデルプレスをフォロー＆このツイートをRT\n②このツイートにリプ\nで応募完了✌\n\n1\/20 22時〆切！当選通知はDMにて💌\n\nインタビューはこちら🔻 \nhttps:\/\/t.co\/hy…",
+                "created_at": "Tue Jan 07 11:25:00 +0000 2020",
+                "tweet_id": 1214508226462416896,
+                "text": "#わろてんか  では儚げ兄さんと隼也は、おじさん、甥っ子のはずなのにな（兄さん早逝してしまったけど）\n\n#スマホを落としただけなのに  では刑事と犯人",
                 "media": null,
-                "user_name": "🍠suzu",
-                "user_screen_name": "JD93SdL19RF7FJO",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1142403831994568704\/kMZxM9ri_normal.jpg"
+                "user_name": "猫使い",
+                "user_screen_name": "uedamomoneko",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1209944664272330752\/uLY-U11y_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:48:54 +0000 2020",
-                "tweet_id": 1214227351053062144,
-                "text": "RT @modelpress: 【プレゼント❤】本田翼、直筆サイン入りチェキを1名様に🎁\n\n①モデルプレスをフォロー＆このツイートをRT\n②このツイートにリプ\nで応募完了✌\n\n1\/20 22時〆切！当選通知はDMにて💌\n\nインタビューはこちら🔻 \nhttps:\/\/t.co\/hy…",
+                "created_at": "Tue Jan 07 11:24:55 +0000 2020",
+                "tweet_id": 1214508207533543424,
+                "text": "RT @sumaho_otoshita: ＼完成披露試写会決定⚡／\n\n1月29日(水)  \n『#スマホを落としただけなのに 囚われの殺人鬼』\n完成披露試写会を開催いたします📱\n\n当日はスタッフ・キャストによる舞台挨拶を予定しております！\n皆様のご応募お待ちしております💥\n\n #…",
                 "media": null,
-                "user_name": "ぺ⊿",
-                "user_screen_name": "umemayosishou",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/944594024320548869\/8GglXV9v_normal.jpg"
+                "user_name": "えてぃ(98DEAD)",
+                "user_screen_name": "ety_61",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1071056668962607105\/KdScPv6I_normal.png"
             },
             {
-                "created_at": "Mon Jan 06 16:48:44 +0000 2020",
-                "tweet_id": 1214227308120137728,
-                "text": "RT @modelpress: 【プレゼント❤】本田翼、直筆サイン入りチェキを1名様に🎁\n\n①モデルプレスをフォロー＆このツイートをRT\n②このツイートにリプ\nで応募完了✌\n\n1\/20 22時〆切！当選通知はDMにて💌\n\nインタビューはこちら🔻 \nhttps:\/\/t.co\/hy…",
+                "created_at": "Tue Jan 07 11:24:06 +0000 2020",
+                "tweet_id": 1214508002608218112,
+                "text": "RT @ameba_official: #LiLiCo さんがブログを更新😆📝🌈\n映画📽️『#スマホを落としただけなのに』に出演している #千葉雄大 さん #成田凌 さんとの写真を公開😍💜💙💜\n\n「しかしふたりとも可愛いなぉ😍」❤️❤️❤️\n\nブログはこちら⬇️\nhttps:\/…",
                 "media": null,
-                "user_name": "しょう💫🔭",
-                "user_screen_name": "yukiriiinufan",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1077924513029881856\/WumhuTeB_normal.jpg"
+                "user_name": "玄米茶_for_K",
+                "user_screen_name": "ol_brt",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1177689294233686016\/aWzmx6QK_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:48:33 +0000 2020",
-                "tweet_id": 1214227262796513280,
-                "text": "RT @modelpress: 【プレゼント❤】本田翼、直筆サイン入りチェキを1名様に🎁\n\n①モデルプレスをフォロー＆このツイートをRT\n②このツイートにリプ\nで応募完了✌\n\n1\/20 22時〆切！当選通知はDMにて💌\n\nインタビューはこちら🔻 \nhttps:\/\/t.co\/hy…",
+                "created_at": "Tue Jan 07 11:23:49 +0000 2020",
+                "tweet_id": 1214507930793283585,
+                "text": "RT @sumaho_otoshita: ＼完成披露試写会決定⚡／\n\n1月29日(水)  \n『#スマホを落としただけなのに 囚われの殺人鬼』\n完成披露試写会を開催いたします📱\n\n当日はスタッフ・キャストによる舞台挨拶を予定しております！\n皆様のご応募お待ちしております💥\n\n #…",
                 "media": null,
-                "user_name": "ゆうき⌬",
-                "user_screen_name": "rinaruto09251",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/456780080811745280\/hVKjT9x0_normal.jpeg"
+                "user_name": "菫",
+                "user_screen_name": "cILYIrMRH5RoxXb",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1203463316829458433\/XdYrCyft_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:48:25 +0000 2020",
-                "tweet_id": 1214227231725121536,
-                "text": "RT @modelpress: 【プレゼント❤】本田翼、直筆サイン入りチェキを1名様に🎁\n\n①モデルプレスをフォロー＆このツイートをRT\n②このツイートにリプ\nで応募完了✌\n\n1\/20 22時〆切！当選通知はDMにて💌\n\nインタビューはこちら🔻 \nhttps:\/\/t.co\/hy…",
+                "created_at": "Tue Jan 07 11:23:12 +0000 2020",
+                "tweet_id": 1214507775675387904,
+                "text": "#スマホを落としただけなのに \n怖すぎ。\nあと40分くらい残ってる。\n成田凌が悪いやつということは\n分かったくらいのとこまで見た。\nお店の中で景子ちゃんが、\n薬？かなんか飲み物に入れられて、\n倒れたとこまで。\n\nでも、ここから\nもっと怖くなりそう。",
                 "media": null,
-                "user_name": "サーモン",
-                "user_screen_name": "H9XkSKAgPPpkjm3",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1162954937275310081\/QgY_AzO3_normal.jpg"
+                "user_name": "あずず Ё♛︎",
+                "user_screen_name": "azuzu_happiness",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1198103498593730561\/1KqHRYOP_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:48:21 +0000 2020",
-                "tweet_id": 1214227211609231360,
-                "text": "RT @modelpress: 【プレゼント❤】本田翼、直筆サイン入りチェキを1名様に🎁\n\n①モデルプレスをフォロー＆このツイートをRT\n②このツイートにリプ\nで応募完了✌\n\n1\/20 22時〆切！当選通知はDMにて💌\n\nインタビューはこちら🔻 \nhttps:\/\/t.co\/hy…",
+                "created_at": "Tue Jan 07 11:22:47 +0000 2020",
+                "tweet_id": 1214507669966315520,
+                "text": "RT @ameba_official: #LiLiCo さんがブログを更新😆📝🌈\n映画📽️『#スマホを落としただけなのに』に出演している #千葉雄大 さん #成田凌 さんとの写真を公開😍💜💙💜\n\n「しかしふたりとも可愛いなぉ😍」❤️❤️❤️\n\nブログはこちら⬇️\nhttps:\/…",
                 "media": null,
-                "user_name": "ほにほに",
-                "user_screen_name": "honyohonyomaru",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1149339858927673349\/n2CxAU0W_normal.jpg"
+                "user_name": "chihayafull",
+                "user_screen_name": "NobuFCB1",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/633634294297026561\/fRuf7W8h_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:47:59 +0000 2020",
-                "tweet_id": 1214227119728807937,
-                "text": "RT @modelpress: 【プレゼント❤】本田翼、直筆サイン入りチェキを1名様に🎁\n\n①モデルプレスをフォロー＆このツイートをRT\n②このツイートにリプ\nで応募完了✌\n\n1\/20 22時〆切！当選通知はDMにて💌\n\nインタビューはこちら🔻 \nhttps:\/\/t.co\/hy…",
+                "created_at": "Tue Jan 07 11:22:30 +0000 2020",
+                "tweet_id": 1214507596914126853,
+                "text": "RT @sumaho_otoshita: ＼完成披露試写会決定⚡／\n\n1月29日(水)  \n『#スマホを落としただけなのに 囚われの殺人鬼』\n完成披露試写会を開催いたします📱\n\n当日はスタッフ・キャストによる舞台挨拶を予定しております！\n皆様のご応募お待ちしております💥\n\n #…",
                 "media": null,
-                "user_name": "モノノフ戦士@ももクリ両日参戦",
-                "user_screen_name": "daikif5555",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/967076715670388736\/d_p-tCBn_normal.jpg"
+                "user_name": "おーじー",
+                "user_screen_name": "oga459",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1133468646221606912\/0d3zBeqV_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:47:55 +0000 2020",
-                "tweet_id": 1214227105874989056,
-                "text": "RT @KO6IoFJdp7pjTab: 1話まとめ\n・前作の記憶がほぼないTL\n・柄本親子\n・おっぱい横山くん\n・天才子役森永くん\n・水野さんの超絶アクション\n・犯人クソすぎて殺されてしまえ\n・沢村一樹、本格的にヤバイ\n・粗品、粗品のような出番の少なさ\n・ニッポンノワール、教…",
+                "created_at": "Tue Jan 07 11:22:26 +0000 2020",
+                "tweet_id": 1214507582322163712,
+                "text": "RT @sumaho_otoshita: #スマホを落としただけなのに 地上波初放送のご視聴、ありがとうございました！✨\n\n続編『スマホを落としただけなのに 囚われの殺人鬼』は2\/21公開！⚡\n\n加賀谷(#千葉雄大)とその彼女・美乃里(#白石麻衣)の身に降りかかる新たな事件とは…",
                 "media": null,
-                "user_name": "ユウキ",
-                "user_screen_name": "jg6k0fXH4QuNVzA",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1207853866852552704\/TvhdYFHv_normal.jpg"
+                "user_name": "3・4カスのロサリオ族罰ポイントやば寿司系キス手裏ポッポ獅子竜かっきーすちすち鉄ちゃん",
+                "user_screen_name": "KakiMijutan46",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1211464810145054721\/P7is5dGe_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:47:50 +0000 2020",
-                "tweet_id": 1214227082424664065,
-                "text": "RT @modelpress: 【プレゼント❤】本田翼、直筆サイン入りチェキを1名様に🎁\n\n①モデルプレスをフォロー＆このツイートをRT\n②このツイートにリプ\nで応募完了✌\n\n1\/20 22時〆切！当選通知はDMにて💌\n\nインタビューはこちら🔻 \nhttps:\/\/t.co\/hy…",
+                "created_at": "Tue Jan 07 11:22:12 +0000 2020",
+                "tweet_id": 1214507524130369536,
+                "text": "RT @sumaho_otoshita: ＼完成披露試写会決定⚡／\n\n1月29日(水)  \n『#スマホを落としただけなのに 囚われの殺人鬼』\n完成披露試写会を開催いたします📱\n\n当日はスタッフ・キャストによる舞台挨拶を予定しております！\n皆様のご応募お待ちしております💥\n\n #…",
                 "media": null,
-                "user_name": "ファルコ",
-                "user_screen_name": "ivzxnc4mO8s6gcd",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1110324954032029696\/PjRzXRDf_normal.jpg"
+                "user_name": "ユウ",
+                "user_screen_name": "YKYK_cbyd",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1001466946066333696\/LXiAHzf9_normal.jpg"
             }
         ]
     },
     {
-        "trend_word": "限界突破",
+        "trend_word": "名古屋人",
         "items": [
             {
-                "created_at": "Mon Jan 06 16:49:14 +0000 2020",
-                "tweet_id": 1214227433882177537,
-                "text": "ゆきぼうの性欲の強さは………\n\n【9999999999999999999999999999999999999999999999999999999】\n__________________\n0～20：健全\n21～40：普通\n41～60：スケベ\n61～100：変態\n100～限界突破：😇やべーやつ😇\n#性欲の強さはこのくらい #shindanmaker\nhttps:\/\/t.co\/c4W1Qlkyu6\n\nカンストはゲーマーの嗜み",
+                "created_at": "Tue Jan 07 11:25:23 +0000 2020",
+                "tweet_id": 1214508324370051072,
+                "text": "名古屋の魅力発信！安藤周人選手とボイメン・水野勝さんがサウナ初体験！ ｜ 名古屋ダイヤモンドドルフィンズ https:\/\/t.co\/5cjebq7Hzc",
                 "media": null,
-                "user_name": "ゆきぼう",
-                "user_screen_name": "dosei2010",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1209945605637730304\/2AcJJ6wl_normal.jpg"
+                "user_name": "MIYAKO",
+                "user_screen_name": "chiro537",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/741482552217587712\/dM8ds2ze_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:49:04 +0000 2020",
-                "tweet_id": 1214227392207540224,
-                "text": "Licoriceの性欲の強さは………\n\n【95】\n__________________\n0～20：健全\n21～40：普通\n41～60：スケベ\n61～100：変態\n100～限界突破：😇やべーやつ😇\n#性欲の強さはこのくらい #shindanmaker\nhttps:\/\/t.co\/QIhFbnA8dU\n\nほかの人(🦍)でもっとやべー人いるから普通に見えるww",
+                "created_at": "Tue Jan 07 11:25:19 +0000 2020",
+                "tweet_id": 1214508307819286530,
+                "text": "ただいま名古屋〜。\n人少ない〜、すきぃ〜……泣",
                 "media": null,
-                "user_name": "リコリス・ネルソン",
-                "user_screen_name": "Licorice_Nelson",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1213423457112711168\/zhG03r7R_normal.jpg"
+                "user_name": "透架@ほぼ一般人",
+                "user_screen_name": "TokaTokizuki000",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1132620535634903040\/D0_CqCkv_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:48:44 +0000 2020",
-                "tweet_id": 1214227310670278656,
-                "text": "ぱぱうえの性欲の強さは………\n\n【1793】\n__________________\n0～20：健全\n21～40：普通\n41～60：スケベ\n61～100：変態\n100～限界突破：😇やべーやつ😇\n#性欲の強さはこのくらい #shindanmaker\nhttps:\/\/t.co\/mzmzHJmVEK",
+                "created_at": "Tue Jan 07 11:25:15 +0000 2020",
+                "tweet_id": 1214508291146911744,
+                "text": "名古屋公演めっちゃ盛り上がるとよいなぁ。\n是非たくさんの人にタオル回しして欲しい\n他アーのLIVEに比べて圧倒的に少なくていつも切なくなる…\n会場中でたくさんタオル回ってるとこ見たら二人もめちゃくちゃ嬉しいと思うんだよなぁ…\nタオルでもハンカチでも何でも良いから布製品回して欲しいなぁ",
                 "media": null,
-                "user_name": "パパうえ",
-                "user_screen_name": "mizugamiouka",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/586122478994333696\/t5OeGiQM_normal.jpg"
+                "user_name": "あや",
+                "user_screen_name": "svt_tvxq_a",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/939054582751158272\/ZhS6U3KY_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:48:02 +0000 2020",
-                "tweet_id": 1214227133611954179,
-                "text": "ゆーじ@課金クソ野郎の性欲の強さは………\n\n【47590】\n__________________\n0～20：健全\n21～40：普通\n41～60：スケベ\n61～100：変態\n100～限界突破：😇やべーやつ😇\n#性欲の強さはこのくらい #shindanmaker\nhttps:\/\/t.co\/075saEq4NE\nちょっとやそっとじゃ勝てないぜ…",
+                "created_at": "Tue Jan 07 11:25:15 +0000 2020",
+                "tweet_id": 1214508291050504192,
+                "text": "10問中、8問正解です！名古屋人 | 【激ムズ】 \nいや、名古屋人じゃないですけど\n#名古屋人にしか解けないクイズ https:\/\/t.co\/n1boE8cnSb",
                 "media": null,
-                "user_name": "ゆーじ@課金兄さん🍣🌛",
-                "user_screen_name": "zippoyuyan",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/988300050844368896\/2Wt-hFo5_normal.jpg"
+                "user_name": "しも",
+                "user_screen_name": "shimo3608",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1163015868416008193\/WtdJLn48_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:47:54 +0000 2020",
-                "tweet_id": 1214227100007190528,
-                "text": "そろそろ稼働域限界臨界突破します……😇",
+                "created_at": "Tue Jan 07 11:25:11 +0000 2020",
+                "tweet_id": 1214508271358185472,
+                "text": "@suga_julia_2424 人少ないが故にテンション低めだったよ！場所が少し変わるだけで全然人集まらんのやなって思った！\n来ればよかったのに！！名古屋住みだからレアキャラやで😂笑",
                 "media": null,
-                "user_name": "花厳@創作･企画用垢",
-                "user_screen_name": "KazaRi_sosaku",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1213866527436312577\/5KApWJhB_normal.jpg"
+                "user_name": "たくみ",
+                "user_screen_name": "takkupiano",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1191662541019049984\/ygO6ey2t_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:47:39 +0000 2020",
-                "tweet_id": 1214227036803227649,
-                "text": "あおの性欲の強さは………\n\n【598】\n__________________\n0～20：健全\n21～40：普通\n41～60：スケベ\n61～100：変態\n100～限界突破：😇やべーやつ😇\n#性欲の強さはこのくらい #shindanmaker\nhttps:\/\/t.co\/0N15hU6f0Z\n\nふっ、最強じゃね？",
+                "created_at": "Tue Jan 07 11:25:09 +0000 2020",
+                "tweet_id": 1214508264928337920,
+                "text": "名古屋人でなく尾張人だから、知らんがな。\n\n10問中、7問正解です！新入り | 【激ムズ】 #名古屋人にしか解けないクイズ https:\/\/t.co\/dudmXJx3w2",
                 "media": null,
-                "user_name": "あお@DQ10",
-                "user_screen_name": "dq10_blue",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/795400190454706176\/8NLJuRBY_normal.jpg"
+                "user_name": "あけみん(真山 あけみ)",
+                "user_screen_name": "AkemiMayama",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1132403484572078080\/AMdTs7aR_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:47:20 +0000 2020",
-                "tweet_id": 1214226957052727299,
-                "text": "@hair_ping お酒弱すぎてすぐに酔っちゃう…\n絶対に絶対にへあぴんさんの方が限界突破の性欲だと思うw",
+                "created_at": "Tue Jan 07 11:25:05 +0000 2020",
+                "tweet_id": 1214508248520245248,
+                "text": "10問中、10問正解です！真の名古屋人 | 【激ムズ】 #名古屋人にしか解けないクイズ　https:\/\/t.co\/4I176NxPN5",
                 "media": null,
-                "user_name": "*さと*",
-                "user_screen_name": "satonyannyan",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1191277616864432128\/Kxmcnh0P_normal.jpg"
+                "user_name": "mizz",
+                "user_screen_name": "SkeSaintGermain",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1082630330870185984\/kteo9yNx_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:47:04 +0000 2020",
-                "tweet_id": 1214226889385988096,
-                "text": "#控えめに言って大好きな人\n1位　【✟魔界公式✟】限界突破よーたろーまる超ドラゴンボール赤髪黒魔サイヤ人零式改✡️⛩🍌🦍🏝🏯\n2位　坂東遥🎧今日O-EASTワンマンたのしいたけしようなあ\n3位　˚✧ ₊天音らむ✟ギルドール…\n https:\/\/t.co\/MNKBa7QVVh",
+                "created_at": "Tue Jan 07 11:25:02 +0000 2020",
+                "tweet_id": 1214508236071530496,
+                "text": "10問中、10問正解です！真の名古屋人 | 【激ムズ】 #名古屋人にしか解けないクイズ https:\/\/t.co\/D2Gssgznlf",
                 "media": null,
-                "user_name": "たかちゃんぐむ@病みの実食す←",
-                "user_screen_name": "takapoko27",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/454288169647616000\/mc2_F-95_normal.jpeg"
+                "user_name": "乃愛@ﾉﾑﾗ⋆⸜(* ॑꒳ ॑* )⸝ 7\/7ロータリー魂🍙",
+                "user_screen_name": "RX7_BLITZ_MR2",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1199350387624382465\/QQ6ORP17_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:46:37 +0000 2020",
-                "tweet_id": 1214226776244666368,
-                "text": "今日限界突破します",
+                "created_at": "Tue Jan 07 11:24:56 +0000 2020",
+                "tweet_id": 1214508211320942592,
+                "text": "RT @katooon0118: 1月12日静岡ぬまずのどっか\n1月13日山梨のどっか\n1月15日名古屋の栄あたり\n1月27日名古屋の栄あたり\n1月29日大阪の北新地あたりにいますので\n事前にメモ魔ほしい人いってください\n当日言われてももってないこともあります。\n\n2月は名古屋…",
                 "media": null,
-                "user_name": "☪︎ m i k a ☪︎",
-                "user_screen_name": "mika_guxx",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1214206567127478272\/aXWP6TTE_normal.jpg"
+                "user_name": "カトゥーン(加藤遼)@ネオぼうずめくりクラファン\/春ゲムマ出展します",
+                "user_screen_name": "katooon0118",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1201332681641848832\/yXAVPpL__normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:46:29 +0000 2020",
-                "tweet_id": 1214226742480523264,
-                "text": "あきの性欲の強さは………\n\n【28340】\n__________________\n0～20：健全\n21～40：普通\n41～60：スケベ\n61～100：変態\n100～限界突破：😇やべーやつ😇\n#性欲の強さはこのくらい #shindanmaker\nhttps:\/\/t.co\/X3wqu2rJji\nWow…",
+                "created_at": "Tue Jan 07 11:24:35 +0000 2020",
+                "tweet_id": 1214508122129088514,
+                "text": "10問中、9問正解です！名古屋人 | 【激ムズ】 #名古屋人にしか解けないクイズ https:\/\/t.co\/HkC1LayxRU",
                 "media": null,
-                "user_name": "あき",
-                "user_screen_name": "aki1215kuratu",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1028447932830236672\/_RGgHbj3_normal.jpg"
+                "user_name": "ShiLo🅟🍞",
+                "user_screen_name": "ksnm_2525",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1181662351948271616\/m2mx-J4Y_normal.jpg"
+            }
+        ]
+    },
+    {
+        "trend_word": "x1解散",
+        "items": [
+            {
+                "created_at": "Tue Jan 07 11:25:26 +0000 2020",
+                "tweet_id": 1214508334897758208,
+                "text": "RT @Syy19962724: 解散なんて考えられません\n#엑스원_새그룹_결성지지\nみんなでX1を助けましょう\n#X1_new_beginning\nみたらRTお願いします",
+                "media": null,
+                "user_name": "水野",
+                "user_screen_name": "x1_kyh_kdh",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1214497621953265664\/2MSww-Eq_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:26 +0000 2020",
+                "tweet_id": 1214508334771949569,
+                "text": "RT @YHN__KM22: 戻ってきてよねえねえ\n#새로운_비상을_기다려\nお願いだよ本当に本当に\n#reboot_X1 \nX1が生き甲斐なんです\n#WeTrustX1\n解散なんていけないよ\n#사랑하는_엑스원_고마워 \nわたしは信じて待ちます\n#no_disband_X1…",
+                "media": null,
+                "user_name": "きよ",
+                "user_screen_name": "___9724",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1095276902502154240\/bzlFRJP6_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:26 +0000 2020",
+                "tweet_id": 1214508334331490304,
+                "text": "X1活動再開してください\n#새로운_비상을_기다려\nX1の解散なんて誰も嬉しくない\n#reboot_X1\nメンバー11人の笑顔がみたい\n#WeTrustX1 \nウォニと一緒に花道を歩こう\n#사랑하는_엑스원_고마워\nX1が今まで頑張ってくれたから\n#no_disband_X1\n次はウォニが全力で頑張る番だと思う",
+                "media": null,
+                "user_name": "さあや",
+                "user_screen_name": "0Hl8ccjDKhaFJ5L",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1189578453823025152\/hSBvEhG3_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:25 +0000 2020",
+                "tweet_id": 1214508334054658050,
+                "text": "RT @YHN__KM22: 戻ってきてよねえねえ\n#새로운_비상을_기다려\nお願いだよ本当に本当に\n#reboot_X1 \nX1が生き甲斐なんです\n#WeTrustX1\n解散なんていけないよ\n#사랑하는_엑스원_고마워 \nわたしは信じて待ちます\n#no_disband_X1…",
+                "media": null,
+                "user_name": "えりな🍭",
+                "user_screen_name": "erina3543",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1211557237845413888\/YNNxG80W_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:25 +0000 2020",
+                "tweet_id": 1214508334025330688,
+                "text": "RT @a____nX1: X1はこんなにも愛されてるんだよ\n#reboot_X1\nこのまま解散はゆるさない\n#WeTrustX1 \n何がなんでも5年間ちゃんと活動させるから\n#사랑하는_엑스원_고마워\nもっとそばにいてください\n#no_disband_X1\nfly high…",
+                "media": null,
+                "user_name": "pipi",
+                "user_screen_name": "pi___sang26",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1178359645854765056\/gZIXJcq6_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:25 +0000 2020",
+                "tweet_id": 1214508333412958208,
+                "text": "RT @cha_79j: 彼らに出会って自分の生きがいになりました\n#엑스원_새그룹_결성지지\nつらいことがあってもメンバーの笑顔を見たら元気出て\n#X1_new_beginning\nまた頑張ろうって思えました\n#WeTrustX1\nあなた達はまだ解散する時じゃない\n#rebo…",
+                "media": null,
+                "user_name": "ウソクのお隣",
+                "user_screen_name": "r75mUnBPffOp7j3",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1165192974415753217\/VGaHDRXn_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:25 +0000 2020",
+                "tweet_id": 1214508331399692289,
+                "text": "RT @a____nX1: X1はこんなにも愛されてるんだよ\n#reboot_X1\nこのまま解散はゆるさない\n#WeTrustX1 \n何がなんでも5年間ちゃんと活動させるから\n#사랑하는_엑스원_고마워\nもっとそばにいてください\n#no_disband_X1\nfly high…",
+                "media": null,
+                "user_name": "ゆいか",
+                "user_screen_name": "yuika_x1",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1206075392710205445\/OCgmJyHT_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:24 +0000 2020",
+                "tweet_id": 1214508329780666368,
+                "text": "RT @Minato_seungwoo: こんな素敵なグループ\n#엑스원_새그룹_결성지지\n解散していいわけがない\n#X1_new_beginning\nうぉにの力見せよう",
+                "media": null,
+                "user_name": "ゆち",
+                "user_screen_name": "yuchi_H1130",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1187344349954134017\/GvhkuE33_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:24 +0000 2020",
+                "tweet_id": 1214508326261645312,
+                "text": "RT @ONEIT18379068: 解散発表から一日経ったけど\n#새로운_비상을_기다려 \nまだまだ諦めてないよ\n#reboot_X1\n今反対してる事務所が\n#WeTurstX1 \n活動再開に同意するまでは\n#사랑하는_엑스원_고마워\nそしてまた輝く姿を見せてほしい\n#no_…",
+                "media": null,
+                "user_name": "차",
+                "user_screen_name": "therefore_1x1",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1201152157665202180\/7BEXXdZH_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:24 +0000 2020",
+                "tweet_id": 1214508326152634368,
+                "text": "RT @x1_im_nopi: 言わなくてもよかったけど自分の本業が作曲家なのでウォニとして自分ができるならなにかなって考えてみてずっと作ってる途中だったリミックスを載せます　正直ぼーーっと生きてて去年プエクとX1にハマって　毎日ほんとに楽しいので　どうか解散しないで　お願いし…",
+                "media": null,
+                "user_name": "オトメ勇者(交換垢)",
+                "user_screen_name": "hiy0k0mame2",
+                "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png"
             }
         ]
     },
@@ -1667,100 +1276,795 @@ module.exports={"twitter_result":[
         "trend_word": "#あ行で女子力か行で男子力がわかる",
         "items": [
             {
-                "created_at": "Mon Jan 06 16:49:11 +0000 2020",
-                "tweet_id": 1214227423228620800,
-                "text": "#あ行で女子力か行で男子力がわかる\n\nありがとう\nいや\n嬉しい\nえれふぁんと\n大阪\n\nが\n雲母坂 ←？\nく ←内容が嫌だったからナシ。\n結果\n小麦粉",
+                "created_at": "Tue Jan 07 11:25:25 +0000 2020",
+                "tweet_id": 1214508331999453187,
+                "text": "#あ行で女子力か行で男子力がわかる ありがとうございます\nイートンさん\nうらぎった\n円\n思います\n\nから\nキャラシ\n草\nゲーム\nございます\n\nイートンさんは女子力",
                 "media": null,
-                "user_name": "ﾐｻｯﾁｬﾝ🧸",
-                "user_screen_name": "__no_33",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1187766585080963075\/u19it5xU_normal.jpg"
+                "user_name": "ぴよチェック",
+                "user_screen_name": "miyamakuwakuwa",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1201793345724600320\/Ei-iEoNL_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:49:11 +0000 2020",
-                "tweet_id": 1214227421915779072,
-                "text": "#あ行で女子力か行で男子力がわかる\nありがたい\nいい\n羨ましい\n絵描き\nお願い\n✌(◔౪◔ )✌",
+                "created_at": "Tue Jan 07 11:25:25 +0000 2020",
+                "tweet_id": 1214508330850250752,
+                "text": "#あ行で女子力か行で男子力がわかる \n\nあたし\n今\nうちの子\nえ？\nおっぱい\n\nが\n今日\nクリスマス\nけど\n今年もよろしくね\n\nおっぱい(´･ω･｀)",
                 "media": null,
-                "user_name": "やかん",
-                "user_screen_name": "Yakan_12345",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1208713433668939782\/6P27O5at_normal.jpg"
+                "user_name": "なぁ♍️@GAME OVER",
+                "user_screen_name": "naa415_haise",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1214423857458663424\/1OFqdkhK_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:49:02 +0000 2020",
-                "tweet_id": 1214227385442127872,
-                "text": "#あ行で女子力か行で男子力がわかる\n\niPhone\nいいね\n運営\n円\nお願い\n\nが\n極醒\nください\nゲーセン\nございます",
+                "created_at": "Tue Jan 07 11:25:17 +0000 2020",
+                "tweet_id": 1214508299032203264,
+                "text": "#あ行で女子力か行で男子力がわかる\n便乗やぞ！\n\nありがとう\nいい\n嬉しい\nえっ\nおいら\n\n()\n今日\nくん\nけど\nございます\n\nいや分かんねーよ",
                 "media": null,
-                "user_name": "жぷりん@趣味垢 🅙",
-                "user_screen_name": "PRN_touhou_0423",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1190754460131307526\/W2VHuU9m_normal.jpg"
+                "user_name": "桃太郎のお供",
+                "user_screen_name": "bq8MuHi4OEhLwEB",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1202867091881127937\/KxE5OBYX_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:49:02 +0000 2020",
-                "tweet_id": 1214227384418750466,
-                "text": "明日\nいい\nうた\nえ、\nおはよーございます\n\nから\n気にしない\nくらいに\n喧嘩する\nこちら\n\n#あ行で女子力か行で男子力がわかる",
+                "created_at": "Tue Jan 07 11:25:15 +0000 2020",
+                "tweet_id": 1214508290907852802,
+                "text": "#あ行で女子力か行で男子力がわかる\n\nα\nいや\n上は\nえらいのか\n折り返し\n\n()\nキヤノン\nくらいは\n権威的には\n心得よ\n\n？",
                 "media": null,
-                "user_name": "べる@DQX垢",
-                "user_screen_name": "bell_moko_DQX",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1166041666815291392\/UbSA5Q8d_normal.jpg"
+                "user_name": "日向ユウ",
+                "user_screen_name": "south_alone",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1203953798202318848\/WU60ro1B_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:49:02 +0000 2020",
-                "tweet_id": 1214227383248535552,
-                "text": "RT @U3_the_world: #あ行で女子力か行で男子力がわかる\n荒木飛呂彦\n岩切\nウスイホン\n絵\n大柳\n\n川尻浩作\n吉良吉影\n空条\n拳\n五郎\n\n女子力というよりジョジョ力のありそなラインナップだが…？",
+                "created_at": "Tue Jan 07 11:25:14 +0000 2020",
+                "tweet_id": 1214508287887982592,
+                "text": "#あ行で女子力か行で男子力がわかる\n新しい\n今津\n梅田\nエンジン\nオーシャン\n\n歓迎\n木\n配られてないから\nケンタッキー\nこれから",
                 "media": null,
-                "user_name": "ガマゆき",
-                "user_screen_name": "gama_yuki",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1180815882374672384\/Du8NzmFz_normal.jpg"
+                "user_name": "鳥海まや\/不知火あさひ",
+                "user_screen_name": "akishojyun",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1171988768158433280\/ItJYzvRm_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:48:58 +0000 2020",
-                "tweet_id": 1214227368249675776,
-                "text": "#あ行で女子力か行で男子力がわかる \n\nありがとう\n今\n嬉しい\n円\nお願いします\n\nかわいい\n厳しい\nください\n結構\n購入\n\n男子力も女子力もねぇじゃねーかよ",
+                "created_at": "Tue Jan 07 11:25:10 +0000 2020",
+                "tweet_id": 1214508270754287618,
+                "text": "#あ行で女子力か行で男子力がわかる\n\nある\n以下\n美しい\n絵\n親\n\nカシャ\n気\n国\n決定\n恋\n\n美しいは美少年探偵団のせいですね",
                 "media": null,
-                "user_name": "いゔ【もえたんっ💗】🍊⭐",
-                "user_screen_name": "Eve4510471",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1201895471175720960\/W0DDeX1t_normal.jpg"
+                "user_name": "名護鈴音🥼💜@イシン4に向けて",
+                "user_screen_name": "nago_rion",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1199188389028696064\/IURIQpPV_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:48:56 +0000 2020",
-                "tweet_id": 1214227361631096834,
-                "text": "RT @tamakimaki505: #あ行で女子力か行で男子力がわかる\n\n愛あふれる\n一番飛びきりの\n美しい\n笑顔で\n推しを叫ぶ‼️\n\n地球の救世主 佐藤和也氏\nhttps:\/\/t.co\/vmM42Z0nGP\n\n目指せレスキュー隊❗️👩‍🚒🚑🥼",
+                "created_at": "Tue Jan 07 11:25:05 +0000 2020",
+                "tweet_id": 1214508248939683841,
+                "text": "#あ行で女子力か行で男子力がわかる\nありがとう\nいいよ\nうん！\nエース\nおやすみ\n\n飼って\n気のせい\nクリア\nけど\nこんばんは\n\nエース…おやすみ",
                 "media": null,
-                "user_name": "如月　拓馬",
-                "user_screen_name": "kisaragitakuma",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1028949848165240832\/2Zd0_rMQ_normal.jpg"
+                "user_name": "青桔梗",
+                "user_screen_name": "dZkqXEXRONuJZWK",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1210879950204502017\/fatVcLna_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:48:51 +0000 2020",
-                "tweet_id": 1214227337669038082,
-                "text": "あ\nいる\n上\n絵\n俺\n\n頑張って\n今日\n草\n結構\n効率\n\n草を打つのを自重しようと思った。\n #あ行で女子力か行で男子力がわかる",
+                "created_at": "Tue Jan 07 11:25:03 +0000 2020",
+                "tweet_id": 1214508241331163137,
+                "text": "#あ行で女子力か行で男子力がわかる\n\nあ、\n今は\nうちの\nエスメ\nOS\n\nが\n今日の\nクリスタの\n軽減\n5",
                 "media": null,
-                "user_name": "おこるり学校レジ",
-                "user_screen_name": "okoruri",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1210191632647065600\/I9v-mgrr_normal.jpg"
+                "user_name": "あると@黒くーな",
+                "user_screen_name": "RxAke",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1212338013050531840\/BLJBmgez_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:48:50 +0000 2020",
-                "tweet_id": 1214227333764141059,
-                "text": "#あ行で女子力か行で男子力がわかる \n\nありがとう\nいや\nうー\nえずくね？\n♪\n\n頑張って\n逆\nください\n結構\nコスにぃ\n\n( 'ω')ふぁっ",
+                "created_at": "Tue Jan 07 11:25:01 +0000 2020",
+                "tweet_id": 1214508229792649216,
+                "text": "ありがとう\n意味不明\nうぉに\nえ\nOK\n\n活動期間\nきっと2人は続けたかったんだろうよ\nく\nけど\nございます\n\n #あ行で女子力か行で男子力がわかる",
                 "media": null,
-                "user_name": "あみみ",
-                "user_screen_name": "LECvzliN6ekvuSU",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1209396086944591874\/H1XnhsMq_normal.jpg"
+                "user_name": "유리🐰",
+                "user_screen_name": "WONYOUNG__LOVE",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1193167144155901953\/-yTZBiav_normal.jpg"
             },
             {
-                "created_at": "Mon Jan 06 16:48:48 +0000 2020",
-                "tweet_id": 1214227325698445312,
-                "text": "明後日\nいや\n嬉しい\n映画\nオタク\n\nカフェ\n今日\nくらい\nけど\n今回\n #あ行で女子力か行で男子力がわかる\nうじうじ男子",
+                "created_at": "Tue Jan 07 11:24:56 +0000 2020",
+                "tweet_id": 1214508208489824256,
+                "text": "#あ行で女子力か行で男子力がわかる\n怪しい\n急げ\n薄い\nえちえち\nおｋ\n\n硬\n今日\n食い\nゲームセンター\n炬燵\n\nだめだこりゃ…",
                 "media": null,
-                "user_name": "アデリー*今年の目標：体力をつける",
-                "user_screen_name": "adelie227",
-                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1111804252135944197\/GlQwClkn_normal.jpg"
+                "user_name": "±20(コミケ全通)",
+                "user_screen_name": "puramai20",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1212915532426436608\/pOaZezP3_normal.jpg"
+            }
+        ]
+    },
+    {
+        "trend_word": "ローソン",
+        "items": [
+            {
+                "created_at": "Tue Jan 07 11:25:27 +0000 2020",
+                "tweet_id": 1214508338932699137,
+                "text": "RT @akiko_lawson: ＼ #プレミアムロールケーキ無料プレゼント ！／\nフォロー＆リツイートで10日間連続、毎日1万名様に、ふんわり生地とクリームの絶妙なバランス！「プレミアムロールケーキ」が当たります(^^)\n7日目は1\/8 10:59まで！ #ローソン #ウチ…",
+                "media": null,
+                "user_name": "いくちゃん@1920CDJ31",
+                "user_screen_name": "smkGa1tosho65",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1188401308815900672\/9t_GpCJi_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:26 +0000 2020",
+                "tweet_id": 1214508338110701569,
+                "text": "@chocoxminto おめでとうございます！当選しました！！\nプレミアムロールケーキ無料クーポンはメッセージでお送りします♪また明日も参加をお待ちしています(^^)\nhttps:\/\/t.co\/Gz4vUg8WD8 #ローソン #ウチカフェ https:\/\/t.co\/6t2a1x5k5Q",
+                "media": [
+                    {
+                        "id": 1209744527457738753,
+                        "id_str": "1209744527457738753",
+                        "indices": [
+                            122,
+                            145
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/EMngPPwXYAEzx-c.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/EMngPPwXYAEzx-c.jpg",
+                        "url": "https:\/\/t.co\/6t2a1x5k5Q",
+                        "display_url": "pic.twitter.com\/6t2a1x5k5Q",
+                        "expanded_url": "https:\/\/twitter.com\/japan_lawson\/status\/1214508338110701569\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ],
+                "user_name": "ローソン公式返信用アカウント",
+                "user_screen_name": "japan_lawson",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1145955827401945088\/IP9gtgGL_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:26 +0000 2020",
+                "tweet_id": 1214508338051977216,
+                "text": "@roba19751 抽選結果をお伝えします。「ウチカフェスイーツ20円引クーポン」を差し上げます！ご利用は1\/14まで♪レジでクーポンをご提示ください。使い方は⇒https:\/\/t.co\/skVLMJprjd\n #ローソン #ウチカフェ https:\/\/t.co\/MCvSZI8ocP",
+                "media": [
+                    {
+                        "id": 1209744590770778112,
+                        "id_str": "1209744590770778112",
+                        "indices": [
+                            120,
+                            143
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/EMngS7nXsAAHY9Z.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/EMngS7nXsAAHY9Z.jpg",
+                        "url": "https:\/\/t.co\/MCvSZI8ocP",
+                        "display_url": "pic.twitter.com\/MCvSZI8ocP",
+                        "expanded_url": "https:\/\/twitter.com\/japan_lawson\/status\/1214508338051977216\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ],
+                "user_name": "ローソン公式返信用アカウント",
+                "user_screen_name": "japan_lawson",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1145955827401945088\/IP9gtgGL_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:26 +0000 2020",
+                "tweet_id": 1214508335849828357,
+                "text": "RT @akiko_lawson: ＼ #プレミアムロールケーキ無料プレゼント ！／\nフォロー＆リツイートで10日間連続、毎日1万名様に、ふんわり生地とクリームの絶妙なバランス！「プレミアムロールケーキ」が当たります(^^)\n7日目は1\/8 10:59まで！ #ローソン #ウチ…",
+                "media": null,
+                "user_name": "ソメイヨシノ",
+                "user_screen_name": "someiyoshino_k",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/956419363023634433\/KdF9Y-zJ_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:26 +0000 2020",
+                "tweet_id": 1214508335757611008,
+                "text": "~明日(1月8日)午前のトレジャー出現場所(キングダイヤ・ヒカりん・ハイぷれドラ②)~\nローソンLTF相模原麻溝台店付近:ハイぷれドラ\n\n#パズドラレーダー\n#パズドレ",
+                "media": null,
+                "user_name": "パズドラレーダー明日のトレジャー@非公式",
+                "user_screen_name": "padr59p5dc",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1213862531481030657\/gKnKqsnM_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:26 +0000 2020",
+                "tweet_id": 1214508335724138496,
+                "text": "@v1dypj21zLEzYLb 抽選結果をお伝えします。「ウチカフェスイーツ20円引クーポン」を差し上げます！ご利用は1\/14まで♪レジでクーポンをご提示ください。使い方は⇒https:\/\/t.co\/skVLMJprjd\n #ローソン #ウチカフェ https:\/\/t.co\/QWkYd85A1O",
+                "media": [
+                    {
+                        "id": 1209744590770778112,
+                        "id_str": "1209744590770778112",
+                        "indices": [
+                            126,
+                            149
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/EMngS7nXsAAHY9Z.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/EMngS7nXsAAHY9Z.jpg",
+                        "url": "https:\/\/t.co\/QWkYd85A1O",
+                        "display_url": "pic.twitter.com\/QWkYd85A1O",
+                        "expanded_url": "https:\/\/twitter.com\/japan_lawson\/status\/1214508335724138496\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ],
+                "user_name": "ローソン公式返信用アカウント",
+                "user_screen_name": "japan_lawson",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1145955827401945088\/IP9gtgGL_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:26 +0000 2020",
+                "tweet_id": 1214508335111778305,
+                "text": "@kokomi1985 抽選結果をお伝えします。「ウチカフェスイーツ20円引クーポン」を差し上げます！ご利用は1\/14まで♪レジでクーポンをご提示ください。使い方は⇒https:\/\/t.co\/skVLMJprjd\n #ローソン #ウチカフェ https:\/\/t.co\/ltlNgLcNsx",
+                "media": [
+                    {
+                        "id": 1209744590770778112,
+                        "id_str": "1209744590770778112",
+                        "indices": [
+                            121,
+                            144
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/EMngS7nXsAAHY9Z.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/EMngS7nXsAAHY9Z.jpg",
+                        "url": "https:\/\/t.co\/ltlNgLcNsx",
+                        "display_url": "pic.twitter.com\/ltlNgLcNsx",
+                        "expanded_url": "https:\/\/twitter.com\/japan_lawson\/status\/1214508335111778305\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ],
+                "user_name": "ローソン公式返信用アカウント",
+                "user_screen_name": "japan_lawson",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1145955827401945088\/IP9gtgGL_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:26 +0000 2020",
+                "tweet_id": 1214508335074041857,
+                "text": "@Mu5Yi7e9QERizSU 抽選結果をお伝えします。「ウチカフェスイーツ20円引クーポン」を差し上げます！ご利用は1\/14まで♪レジでクーポンをご提示ください。使い方は⇒https:\/\/t.co\/skVLMJprjd\n #ローソン #ウチカフェ https:\/\/t.co\/ZHeYcIcxxk",
+                "media": [
+                    {
+                        "id": 1209744590770778112,
+                        "id_str": "1209744590770778112",
+                        "indices": [
+                            126,
+                            149
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/EMngS7nXsAAHY9Z.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/EMngS7nXsAAHY9Z.jpg",
+                        "url": "https:\/\/t.co\/ZHeYcIcxxk",
+                        "display_url": "pic.twitter.com\/ZHeYcIcxxk",
+                        "expanded_url": "https:\/\/twitter.com\/japan_lawson\/status\/1214508335074041857\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ],
+                "user_name": "ローソン公式返信用アカウント",
+                "user_screen_name": "japan_lawson",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1145955827401945088\/IP9gtgGL_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:26 +0000 2020",
+                "tweet_id": 1214508335011119106,
+                "text": "@Re03046819 抽選結果をお伝えします。「ウチカフェスイーツ20円引クーポン」を差し上げます！ご利用は1\/14まで♪レジでクーポンをご提示ください。使い方は⇒https:\/\/t.co\/skVLMJprjd\n #ローソン #ウチカフェ https:\/\/t.co\/v2MbFIZ1wP",
+                "media": [
+                    {
+                        "id": 1209744590770778112,
+                        "id_str": "1209744590770778112",
+                        "indices": [
+                            121,
+                            144
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/EMngS7nXsAAHY9Z.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/EMngS7nXsAAHY9Z.jpg",
+                        "url": "https:\/\/t.co\/v2MbFIZ1wP",
+                        "display_url": "pic.twitter.com\/v2MbFIZ1wP",
+                        "expanded_url": "https:\/\/twitter.com\/japan_lawson\/status\/1214508335011119106\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ],
+                "user_name": "ローソン公式返信用アカウント",
+                "user_screen_name": "japan_lawson",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1145955827401945088\/IP9gtgGL_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:26 +0000 2020",
+                "tweet_id": 1214508334247792640,
+                "text": "@shylf_naptera 抽選結果をお伝えします。「ウチカフェスイーツ20円引クーポン」を差し上げます！ご利用は1\/14まで♪レジでクーポンをご提示ください。使い方は⇒https:\/\/t.co\/ttf2DnqxrH\n #ローソン #ウチカフェ https:\/\/t.co\/Dvteyz1HcS",
+                "media": [
+                    {
+                        "id": 1209744590770778112,
+                        "id_str": "1209744590770778112",
+                        "indices": [
+                            124,
+                            147
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/EMngS7nXsAAHY9Z.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/EMngS7nXsAAHY9Z.jpg",
+                        "url": "https:\/\/t.co\/Dvteyz1HcS",
+                        "display_url": "pic.twitter.com\/Dvteyz1HcS",
+                        "expanded_url": "https:\/\/twitter.com\/japan_lawson\/status\/1214508334247792640\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ],
+                "user_name": "ローソン公式返信用アカウント",
+                "user_screen_name": "japan_lawson",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1145955827401945088\/IP9gtgGL_normal.jpg"
+            }
+        ]
+    },
+    {
+        "trend_word": "#終わり方が最高に好きな映画",
+        "items": [
+            {
+                "created_at": "Tue Jan 07 11:25:25 +0000 2020",
+                "tweet_id": 1214508331466813442,
+                "text": "RT @hiranokohta: #終わり方が最高に好きな映画\n誰一人不幸にならない\nとにかく観ると腹が減る\nあのジョン・レグイザモまでもが最後の最後まで超いい人\nツイッターこわい https:\/\/t.co\/dTTaJvedaa",
+                "media": [
+                    {
+                        "id": 1214386465456574465,
+                        "id_str": "1214386465456574465",
+                        "indices": [
+                            91,
+                            114
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENpeDmWU0AEbInm.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENpeDmWU0AEbInm.jpg",
+                        "url": "https:\/\/t.co\/dTTaJvedaa",
+                        "display_url": "pic.twitter.com\/dTTaJvedaa",
+                        "expanded_url": "https:\/\/twitter.com\/hiranokohta\/status\/1214386932395864067\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 600,
+                                "h": 550,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 600,
+                                "h": 550,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 550,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1214386932395864067,
+                        "source_status_id_str": "1214386932395864067",
+                        "source_user_id": 141941002,
+                        "source_user_id_str": "141941002"
+                    }
+                ],
+                "user_name": "あゆ(ㅎ.ㅎ )",
+                "user_screen_name": "ayumajiro01",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1188398333502472192\/Z92NXMEW_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:23 +0000 2020",
+                "tweet_id": 1214508322163806209,
+                "text": "RT @gx7071g: 沢山あるけど\nフィールドオブドリームス最高です。\n大人になってみると　また至極\n\n #終わり方が最高に好きな映画 https:\/\/t.co\/gjlkWEaLFC",
+                "media": [
+                    {
+                        "id": 1214494035747885056,
+                        "id_str": "1214494035747885056",
+                        "indices": [
+                            70,
+                            93
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENq_5A6VUAAraCZ.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENq_5A6VUAAraCZ.jpg",
+                        "url": "https:\/\/t.co\/gjlkWEaLFC",
+                        "display_url": "pic.twitter.com\/gjlkWEaLFC",
+                        "expanded_url": "https:\/\/twitter.com\/gx7071g\/status\/1214494041695408128\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 639,
+                                "h": 426,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 639,
+                                "h": 426,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 639,
+                                "h": 426,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1214494041695408128,
+                        "source_status_id_str": "1214494041695408128",
+                        "source_user_id": 733884945811132416,
+                        "source_user_id_str": "733884945811132416"
+                    }
+                ],
+                "user_name": "ヒャギー",
+                "user_screen_name": "runprest",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/579320724403331072\/k5zM8HS4_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:22 +0000 2020",
+                "tweet_id": 1214508320398069760,
+                "text": "RT @anzaioden: ゾンビコップ\n#終わり方が最高に好きな映画 https:\/\/t.co\/WfHq1y8fyf",
+                "media": [
+                    {
+                        "id": 1214407440898281472,
+                        "id_str": "1214407440898281472",
+                        "indices": [
+                            37,
+                            60
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENpxIh9VUAAZcvy.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENpxIh9VUAAZcvy.jpg",
+                        "url": "https:\/\/t.co\/WfHq1y8fyf",
+                        "display_url": "pic.twitter.com\/WfHq1y8fyf",
+                        "expanded_url": "https:\/\/twitter.com\/anzaioden\/status\/1214407456341643265\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 560,
+                                "h": 344,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 560,
+                                "h": 344,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 560,
+                                "h": 344,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1214407456341643265,
+                        "source_status_id_str": "1214407456341643265",
+                        "source_user_id": 74993590,
+                        "source_user_id_str": "74993590"
+                    }
+                ],
+                "user_name": "ちょご＠タイムリープ異能バトル連載中",
+                "user_screen_name": "chogo2009",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1199944088004390912\/rSeXDGj4_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:22 +0000 2020",
+                "tweet_id": 1214508317504000000,
+                "text": "RT @ao_zooora: #終わり方が最高に好きな映画\n\n『トランスフォーマー』\n\nオプティマス『種族は違えど人間も、我等と同じように目に見える以上の力を持っているのだ。私はオプティマスプライム。生き残り、宇宙に散ったオートボットの同志たちにこのメッセージを送る。我々はここ…",
+                "media": null,
+                "user_name": "ichiro",
+                "user_screen_name": "Okgsuhshsjs",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1205571631696924672\/L69ZvOfP_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:20 +0000 2020",
+                "tweet_id": 1214508310717595649,
+                "text": "RT @mhk1202180718: #終わり方が最高に好きな映画\n『パルプ・フィクション』\n\n初めて観た時の衝撃は忘れられません。\nこのラストがバチッとハマった瞬間､心の中で拍手喝采してました。映画の楽しさ､醍醐味をふんだんに味あわせてくれた最高の作品です。 https:\/\/…",
+                "media": null,
+                "user_name": "じんた\/インテ3号館E13b",
+                "user_screen_name": "jintarov",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1212609100653064192\/u7z9k1O2_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:19 +0000 2020",
+                "tweet_id": 1214508307290808320,
+                "text": "インセプション\nダークナイトライジング\n\n#終わり方が最高に好きな映画\n\nクリストファー・ノーランばっかりやんけ！というツッコミは認める",
+                "media": null,
+                "user_name": "Yuha",
+                "user_screen_name": "Johnny_Bucky",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1054511886786486272\/TGPSyZVD_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:17 +0000 2020",
+                "tweet_id": 1214508298012987392,
+                "text": "RT @necosensei0413: #終わり方が最高に好きな映画\nエンディングがNG集 https:\/\/t.co\/DaViKaduca",
+                "media": [
+                    {
+                        "id": 1214312935691931648,
+                        "id_str": "1214312935691931648",
+                        "indices": [
+                            46,
+                            69
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENobLmoUUAAFfRZ.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENobLmoUUAAFfRZ.jpg",
+                        "url": "https:\/\/t.co\/DaViKaduca",
+                        "display_url": "pic.twitter.com\/DaViKaduca",
+                        "expanded_url": "https:\/\/twitter.com\/necosensei0413\/status\/1214312938271432706\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 296,
+                                "h": 418,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 296,
+                                "h": 418,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 296,
+                                "h": 418,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1214312938271432706,
+                        "source_status_id_str": "1214312938271432706",
+                        "source_user_id": 4681125620,
+                        "source_user_id_str": "4681125620"
+                    }
+                ],
+                "user_name": "しろいちょこ（絵描き屋）",
+                "user_screen_name": "sshiroichokoo",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1213970524138655744\/tOtqml-2_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:17 +0000 2020",
+                "tweet_id": 1214508297614610433,
+                "text": "RT @hiranokohta: #終わり方が最高に好きな映画\n誰一人不幸にならない\nとにかく観ると腹が減る\nあのジョン・レグイザモまでもが最後の最後まで超いい人\nツイッターこわい https:\/\/t.co\/dTTaJvedaa",
+                "media": [
+                    {
+                        "id": 1214386465456574465,
+                        "id_str": "1214386465456574465",
+                        "indices": [
+                            91,
+                            114
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENpeDmWU0AEbInm.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENpeDmWU0AEbInm.jpg",
+                        "url": "https:\/\/t.co\/dTTaJvedaa",
+                        "display_url": "pic.twitter.com\/dTTaJvedaa",
+                        "expanded_url": "https:\/\/twitter.com\/hiranokohta\/status\/1214386932395864067\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 600,
+                                "h": 550,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 600,
+                                "h": 550,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 550,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1214386932395864067,
+                        "source_status_id_str": "1214386932395864067",
+                        "source_user_id": 141941002,
+                        "source_user_id_str": "141941002"
+                    }
+                ],
+                "user_name": "ムト",
+                "user_screen_name": "muto_tom",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/790349495053590528\/i4LOh1um_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:16 +0000 2020",
+                "tweet_id": 1214508296322707456,
+                "text": "RT @hiranokohta: #終わり方が最高に好きな映画\n誰一人不幸にならない\nとにかく観ると腹が減る\nあのジョン・レグイザモまでもが最後の最後まで超いい人\nツイッターこわい https:\/\/t.co\/dTTaJvedaa",
+                "media": [
+                    {
+                        "id": 1214386465456574465,
+                        "id_str": "1214386465456574465",
+                        "indices": [
+                            91,
+                            114
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/ENpeDmWU0AEbInm.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/ENpeDmWU0AEbInm.jpg",
+                        "url": "https:\/\/t.co\/dTTaJvedaa",
+                        "display_url": "pic.twitter.com\/dTTaJvedaa",
+                        "expanded_url": "https:\/\/twitter.com\/hiranokohta\/status\/1214386932395864067\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 600,
+                                "h": 550,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 600,
+                                "h": 550,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 550,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1214386932395864067,
+                        "source_status_id_str": "1214386932395864067",
+                        "source_user_id": 141941002,
+                        "source_user_id_str": "141941002"
+                    }
+                ],
+                "user_name": "田原 剛志@Tkc",
+                "user_screen_name": "tkc0000",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/815798032717344768\/ulRGotGT_normal.jpg"
+            },
+            {
+                "created_at": "Tue Jan 07 11:25:13 +0000 2020",
+                "tweet_id": 1214508282120851457,
+                "text": "#終わり方が最高に好きな映画\nインターステラー\n銀河鉄道の夜\nかな〜😚",
+                "media": null,
+                "user_name": "sou",
+                "user_screen_name": "KusabaS",
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1181168875158695936\/f5wuM9Mi_normal.jpg"
             }
         ]
     }
 ],"youtube_result":{
  "kind": "youtube#videoListResponse",
- "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/1WcQRFrRSRP6TOfyUtPbjfMYTGQ\"",
+ "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/shVLUXj7jNC-WAmKzce-74LOVys\"",
  "nextPageToken": "CAoQAA",
  "pageInfo": {
   "totalResults": 200,
@@ -1769,570 +2073,586 @@ module.exports={"twitter_result":[
  "items": [
   {
    "kind": "youtube#video",
-   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/0AzDGcqXj0q6bEe9m4p-Ez1ahAY\"",
-   "id": "nvfcVvjETnw",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/YadpR_2AX0qDaXu068PjTyaF5MA\"",
+   "id": "Omnx5fZtaL8",
    "snippet": {
-    "publishedAt": "2020-01-05T11:00:09.000Z",
-    "channelId": "UCG937GJ3sH_WLE06qGqwulg",
-    "title": "もうこんなん新婚旅行やん",
-    "description": "マブタチえみりん\nhttps://www.youtube.com/channel/UCq3YtFr5JWvID4iK9HyrM3Q\n\nさんこいち\nhttps://www.youtube.com/channel/UCMOWCrRrcdSRT7dCR_dB7qA\n\n\nやっぴ\n◯twitter\nhttp://twitter.com/1016kn\n\n◯instagram\nhttps://www.instagram.com/\n\n#やっぴ #エミリンチャンネル",
+    "publishedAt": "2020-01-06T09:30:01.000Z",
+    "channelId": "UCooWyCyYTVKol_rM5-Ls7BA",
+    "title": "【漫画】地味だけど金持ちの私が美人のサークル仲間に合コンに誘われて参加したら…【スカッとする話】",
+    "description": "毎日のストレス解消に　スカッとする話を毎日お届け中\nチャンネル登録をよろしくお願いします→https://goo.gl/VRSS32\n\n高評価やコメントをいただけると嬉しいです。\n\n\n▼今、最も熱い『ぱんどらの希望おすすめ動画』はこちら\nhttp://ur2.link/Wi5K\n\n\n\n\n◆音楽引用（フリー音源）\n・DOVA-SYNDROME：https://dova-s.jp/bgm/\n\n・YouTubeオーディオライブラリー\n\n・効果音ラボ：https://soundeffect-lab.info/\n\n・OtoLogic：https://otologic.jp\n\n\n※ナレーションが不要な方はミュートにしてお楽しみください。\n※動画のスピードの調節は右上の設定から再生速度を変更できます。\n\n\n#漫画　#マンガ　#スカッとする話",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/nvfcVvjETnw/default.jpg",
+      "url": "https://i.ytimg.com/vi/Omnx5fZtaL8/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/nvfcVvjETnw/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/Omnx5fZtaL8/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/nvfcVvjETnw/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/Omnx5fZtaL8/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/nvfcVvjETnw/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/Omnx5fZtaL8/sddefault.jpg",
       "width": 640,
       "height": 480
      },
      "maxres": {
-      "url": "https://i.ytimg.com/vi/nvfcVvjETnw/maxresdefault.jpg",
+      "url": "https://i.ytimg.com/vi/Omnx5fZtaL8/maxresdefault.jpg",
       "width": 1280,
       "height": 720
      }
     },
-    "channelTitle": "やっぴ先生の美容研究所",
+    "channelTitle": "ぱんどらの希望",
     "tags": [
-     "さんこいち",
-     "やっぴ",
-     "オカマ",
-     "美容",
-     "メイク",
-     "スキンケア",
-     "女装"
-    ],
-    "categoryId": "26",
-    "liveBroadcastContent": "none",
-    "localized": {
-     "title": "もうこんなん新婚旅行やん",
-     "description": "マブタチえみりん\nhttps://www.youtube.com/channel/UCq3YtFr5JWvID4iK9HyrM3Q\n\nさんこいち\nhttps://www.youtube.com/channel/UCMOWCrRrcdSRT7dCR_dB7qA\n\n\nやっぴ\n◯twitter\nhttp://twitter.com/1016kn\n\n◯instagram\nhttps://www.instagram.com/\n\n#やっぴ #エミリンチャンネル"
-    }
-   }
-  },
-  {
-   "kind": "youtube#video",
-   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/IU_rIC-cYaTliF8B9uOTCMKZTh8\"",
-   "id": "rImVPiYkdZ0",
-   "snippet": {
-    "publishedAt": "2020-01-05T10:00:12.000Z",
-    "channelId": "UCxc0F7BSsl3d4V2aoietV9A",
-    "title": "【遊戯王】先着１名限定の２００万円福袋の中身が豪華過ぎて大興奮！！！！！【福袋2020】",
-    "description": "2020年新春400万円福袋→https://www.youtube.com/watch?v=qVgfBAzQJL8&t=5s\n\nみさわ娯楽ちゃんねる\nhttps://www.youtube.com/channel/UCLKfi-8GJykpBNn0ROZWEqA\n\nみさわ公式LINEスタンプ絶賛発売中！\nhttps://line.me/S/sticker/3995240\n\nみさわオリジナルグッズ絶賛発売中！\nhttps://muuu.com/users/aa7b91a659512f7d\n\n【Twitter】\nhttps://twitter.com/misawa338338\n\n【ファンレター・提供品等はコチラ】\n〒106-6134 \n東京都港区六本木6-10-1 六本木ヒルズ森タワー 37F UUUM株式会社 \nみさわ宛\n\n楽曲提供：UUUMUSIC\n◆本動画内の音楽については、DOVA-SYNDROMEの許可を頂いております。",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/rImVPiYkdZ0/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/rImVPiYkdZ0/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/rImVPiYkdZ0/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/rImVPiYkdZ0/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "みさわ",
-    "tags": [
-     "遊戯王",
-     "ポケカ",
-     "ポケモン",
-     "SDBH",
-     "ドラゴンボール",
-     "デュエマ",
-     "MTG",
-     "くじ",
-     "オリパ",
-     "開封",
-     "神回",
-     "福袋2020",
-     "豪華",
-     "限定",
-     "絶版",
-     "大量",
-     "福袋",
-     "高額",
-     "希少",
-     "奇跡",
-     "対戦"
+     "漫画",
+     "スカッとする話",
+     "ぱんどらの希望"
     ],
     "categoryId": "24",
     "liveBroadcastContent": "none",
     "localized": {
-     "title": "【遊戯王】先着１名限定の２００万円福袋の中身が豪華過ぎて大興奮！！！！！【福袋2020】",
-     "description": "2020年新春400万円福袋→https://www.youtube.com/watch?v=qVgfBAzQJL8&t=5s\n\nみさわ娯楽ちゃんねる\nhttps://www.youtube.com/channel/UCLKfi-8GJykpBNn0ROZWEqA\n\nみさわ公式LINEスタンプ絶賛発売中！\nhttps://line.me/S/sticker/3995240\n\nみさわオリジナルグッズ絶賛発売中！\nhttps://muuu.com/users/aa7b91a659512f7d\n\n【Twitter】\nhttps://twitter.com/misawa338338\n\n【ファンレター・提供品等はコチラ】\n〒106-6134 \n東京都港区六本木6-10-1 六本木ヒルズ森タワー 37F UUUM株式会社 \nみさわ宛\n\n楽曲提供：UUUMUSIC\n◆本動画内の音楽については、DOVA-SYNDROMEの許可を頂いております。"
-    }
+     "title": "【漫画】地味だけど金持ちの私が美人のサークル仲間に合コンに誘われて参加したら…【スカッとする話】",
+     "description": "毎日のストレス解消に　スカッとする話を毎日お届け中\nチャンネル登録をよろしくお願いします→https://goo.gl/VRSS32\n\n高評価やコメントをいただけると嬉しいです。\n\n\n▼今、最も熱い『ぱんどらの希望おすすめ動画』はこちら\nhttp://ur2.link/Wi5K\n\n\n\n\n◆音楽引用（フリー音源）\n・DOVA-SYNDROME：https://dova-s.jp/bgm/\n\n・YouTubeオーディオライブラリー\n\n・効果音ラボ：https://soundeffect-lab.info/\n\n・OtoLogic：https://otologic.jp\n\n\n※ナレーションが不要な方はミュートにしてお楽しみください。\n※動画のスピードの調節は右上の設定から再生速度を変更できます。\n\n\n#漫画　#マンガ　#スカッとする話"
+    },
+    "defaultAudioLanguage": "ja"
    }
   },
   {
    "kind": "youtube#video",
-   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/sEPfvTPHDsD1ZIr6JHbGETiKJfM\"",
-   "id": "46lru89-nYQ",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/ZHTziWoHZyytE4JJ4w-eG0Nlq84\"",
+   "id": "hxmW7ZmvY7A",
    "snippet": {
-    "publishedAt": "2020-01-05T11:00:01.000Z",
-    "channelId": "UCVP_Fma2_-BEKWYc79JVQDw",
-    "title": "【過酷大食い】30分以内で6.5kgラーメン！本気大食いチャレンジ！神盛り二郎インスパイア系デカ盛り完食なるか！？【⚠ズルズル音】【ロシアン佐藤】【Russian Sato】",
-    "description": "GOD盛りチャレンジ。\n年始1発目のガチのラーメンチャレンジです！\nお見苦しい箇所が多々あるかと思いますので、\n苦手な方はご視聴をお控えくださいませ！\n\n\nいろいろ作戦を立てて食べているので、無言ですが\n作戦テロップ入れています。\nこんな事考えながら食べているんだなぁ。と感じていただければ！\n\n\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n大食い・早食いチャレンジは、\n体に負荷の掛かる大変危険な行為です。\n決して安易に真似しないで下さい。\n窒息、内臓への裂傷、\n火傷など命に関わる怪我のリスクがあります。\n楽しく見るだけにしてくださいね！\nロシアン佐藤より :)\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n\n\n★店舗情報\n\n店名\n　爆龍麺 （バクリュウメン）\nジャンル\n　ラーメン、つけ麺\n電話\n　0293-44-0503\n住所\n　茨城県北茨城市華川町中妻525-1\n営業時間\n　[水～月]\n　11:00～14:00\n　17:00〜20:00\n　火曜日定休\n\nWeb\n　https://bakuryumen.business.site/\n\n★坪和さんの動画はこちら！\n\nhttps://youtu.be/WBAjZluBO4k\n\n自郎インスパイア系ラーメン画像 \ncheetah (https://www.photo-ac.com/profile/847939)さん https://www.photo-ac.com/profile/847939\n\nhttps://www.photo-ac.com/ \nフリー画像お借りしました。\n\n\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n大食いなでしこ、大口モンスター\nロシアン佐藤です。食べること、美味しいごはんが大好きです！\n\n【お仕事のご依頼は、エッジニアのお問い合わせまで👇】\nhttps://edgeneer.com/contact/\n\nロシアン佐藤 SNS\n【instagram】\n普段食べているものとか・グルメとか\nhttps://instagram.com/i_am_hito.chin/　@i_am_hito.chin\n\n【twitter】\n最新情報とくだらないつぶやき\nhttps://twitter.com/RussianSato　@RussianSato\n\nグッズできました！\n「Moreish!」\nhttps://ry627.app.goo.gl/QXYe\n\n【お手紙などはリンク先の宛先に👇】\nhttps://edgeneer.com/russiansato_/#contact\n\n\n\n個性的なメンバー4人で送る「食とおもてなし」のチャンネル\n『Party Kitchen』\n\n【YouTube】\nhttps://www.youtube.com/channel/UCmpuIDDF9WL_w-MXYyZRzFg\n【Web】\nhttps://partykitchen.jp\n【Twitter】\nhttps://twitter.com/PartyKitchenJPN\n【instagram】\nhttps://www.instagram.com/partykitchen_jpn/\n【facebook】\nhttps://www.facebook.com/PartyKitchenJPN/\n\n＜BGM・効果音 著作者様＞\npanicpumpkin 様\nhttp://pansound.com/panicpumpkin/\n効果音ラボ 様\nhttp://soundeffect-lab.info/\nスキップモア 様\nhttp://www.skipmore.com/sound/\n零式マテリアル 様\nhttp://www.zero-matter.com/\nDOVA-SYNDROME 様\nhttp://dova-s.jp/\nMusic is VFR 様\nhttp://musicisvfr.com/\n※動画によってはすべての著作元様の音源を使用していない場合がございます。\n\n#ロシアン佐藤 \n#おなかがすいたらモンスター\n#大食い",
+    "publishedAt": "2020-01-06T10:00:17.000Z",
+    "channelId": "UCAne8GG-iUcTzUkpQG4N7jw",
+    "title": "しばなん、ガチでワンちゃんを飼い始めました♡",
+    "description": "しばなんのサブチャンネルです⭐\r\nゆったりまったり楽しんでね〜\r\n見てくれてありがとう！\r\n\r\nあやなんのTwitter\r\nhttps://twitter.com/ayachan0619\r\n\r\nしばゆーのTwitter\r\nhttps://twitter.com/TOKAI_ONAIR\r\n\r\nチャンネル登録よろしくお願いします！！\r\n\r\n「しばなんちゃんねる」はこちら\r\n→https://www.youtube.com/channel/UColoXxvhfz54o0icqQRPzYw",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/46lru89-nYQ/default.jpg",
+      "url": "https://i.ytimg.com/vi/hxmW7ZmvY7A/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/46lru89-nYQ/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/hxmW7ZmvY7A/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/46lru89-nYQ/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/hxmW7ZmvY7A/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/46lru89-nYQ/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/hxmW7ZmvY7A/sddefault.jpg",
       "width": 640,
       "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/46lru89-nYQ/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
      }
     },
-    "channelTitle": "ロシアン佐藤『おなかがすいたらMONSTER!』",
+    "channelTitle": "しばなんといっしょ!",
     "tags": [
-     "ロシアン佐藤",
-     "大食い",
-     "MUKBANG",
-     "レシピ",
-     "フードファイター",
-     "俄羅斯佐藤",
-     "大胃王",
-     "俄罗斯佐藤",
-     "爆龍麺",
-     "茨城",
-     "北茨城市"
+     "家族",
+     "ポンス",
+     "しばなん",
+     "カップル",
+     "Youtuber",
+     "しばゆー",
+     "あやなん",
+     "東海オンエア",
+     "キッズチャンネル",
+     "子どもが喜ぶ",
+     "子ども",
+     "赤ちゃん",
+     "しばなんチャンネル"
     ],
     "categoryId": "24",
     "liveBroadcastContent": "none",
     "defaultLanguage": "ja",
     "localized": {
-     "title": "【過酷大食い】30分以内で6.5kgラーメン！本気大食いチャレンジ！神盛り二郎インスパイア系デカ盛り完食なるか！？【⚠ズルズル音】【ロシアン佐藤】【Russian Sato】",
-     "description": "GOD盛りチャレンジ。\n年始1発目のガチのラーメンチャレンジです！\nお見苦しい箇所が多々あるかと思いますので、\n苦手な方はご視聴をお控えくださいませ！\n\n\nいろいろ作戦を立てて食べているので、無言ですが\n作戦テロップ入れています。\nこんな事考えながら食べているんだなぁ。と感じていただければ！\n\n\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n大食い・早食いチャレンジは、\n体に負荷の掛かる大変危険な行為です。\n決して安易に真似しないで下さい。\n窒息、内臓への裂傷、\n火傷など命に関わる怪我のリスクがあります。\n楽しく見るだけにしてくださいね！\nロシアン佐藤より :)\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n\n\n★店舗情報\n\n店名\n　爆龍麺 （バクリュウメン）\nジャンル\n　ラーメン、つけ麺\n電話\n　0293-44-0503\n住所\n　茨城県北茨城市華川町中妻525-1\n営業時間\n　[水～月]\n　11:00～14:00\n　17:00〜20:00\n　火曜日定休\n\nWeb\n　https://bakuryumen.business.site/\n\n★坪和さんの動画はこちら！\n\nhttps://youtu.be/WBAjZluBO4k\n\n自郎インスパイア系ラーメン画像 \ncheetah (https://www.photo-ac.com/profile/847939)さん https://www.photo-ac.com/profile/847939\n\nhttps://www.photo-ac.com/ \nフリー画像お借りしました。\n\n\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n大食いなでしこ、大口モンスター\nロシアン佐藤です。食べること、美味しいごはんが大好きです！\n\n【お仕事のご依頼は、エッジニアのお問い合わせまで👇】\nhttps://edgeneer.com/contact/\n\nロシアン佐藤 SNS\n【instagram】\n普段食べているものとか・グルメとか\nhttps://instagram.com/i_am_hito.chin/　@i_am_hito.chin\n\n【twitter】\n最新情報とくだらないつぶやき\nhttps://twitter.com/RussianSato　@RussianSato\n\nグッズできました！\n「Moreish!」\nhttps://ry627.app.goo.gl/QXYe\n\n【お手紙などはリンク先の宛先に👇】\nhttps://edgeneer.com/russiansato_/#contact\n\n\n\n個性的なメンバー4人で送る「食とおもてなし」のチャンネル\n『Party Kitchen』\n\n【YouTube】\nhttps://www.youtube.com/channel/UCmpuIDDF9WL_w-MXYyZRzFg\n【Web】\nhttps://partykitchen.jp\n【Twitter】\nhttps://twitter.com/PartyKitchenJPN\n【instagram】\nhttps://www.instagram.com/partykitchen_jpn/\n【facebook】\nhttps://www.facebook.com/PartyKitchenJPN/\n\n＜BGM・効果音 著作者様＞\npanicpumpkin 様\nhttp://pansound.com/panicpumpkin/\n効果音ラボ 様\nhttp://soundeffect-lab.info/\nスキップモア 様\nhttp://www.skipmore.com/sound/\n零式マテリアル 様\nhttp://www.zero-matter.com/\nDOVA-SYNDROME 様\nhttp://dova-s.jp/\nMusic is VFR 様\nhttp://musicisvfr.com/\n※動画によってはすべての著作元様の音源を使用していない場合がございます。\n\n#ロシアン佐藤 \n#おなかがすいたらモンスター\n#大食い"
-    },
-    "defaultAudioLanguage": "ja"
+     "title": "しばなん、ガチでワンちゃんを飼い始めました♡",
+     "description": "しばなんのサブチャンネルです⭐\r\nゆったりまったり楽しんでね〜\r\n見てくれてありがとう！\r\n\r\nあやなんのTwitter\r\nhttps://twitter.com/ayachan0619\r\n\r\nしばゆーのTwitter\r\nhttps://twitter.com/TOKAI_ONAIR\r\n\r\nチャンネル登録よろしくお願いします！！\r\n\r\n「しばなんちゃんねる」はこちら\r\n→https://www.youtube.com/channel/UColoXxvhfz54o0icqQRPzYw"
+    }
    }
   },
   {
    "kind": "youtube#video",
-   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/N4XWiJHwXTzaFmUQ8-LX7BNJe4U\"",
-   "id": "vkascsEHn5A",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/xHXEqvn-lPeKX-ANpTm2DJJVobg\"",
+   "id": "mgQNOgrj4bU",
    "snippet": {
-    "publishedAt": "2020-01-05T04:00:11.000Z",
-    "channelId": "UCFdBehO71GQaIom4WfVeGSw",
-    "title": "正月休み最終日に【ヤると人生変わること】",
-    "description": "▶︎ 焦りと時間ストレスから自由になる超時間術 →https://www.nicovideo.jp/watch/1523752379\n\n\n▶︎人生が超充実するオススメ本\n\u202aM.チクセントミハイ の フロー体験入門―楽しみと創造の心理学 を Amazon でチェック！ https://amzn.to/2ZQogJk \u202c\n\n\u202aスティーヴ コトラー の 超人の秘密　エクストリームスポーツとフロー体験 (早川書房) を Amazon でチェック！ https://amzn.to/2QqiATr \u202c\n\n\n▶︎参考\nhttps://link.springer.com/article/10.1007%2Fs11482-009-9091-9\nhttps://www.sciencedirect.com/science/article/pii/S0261517714000685\nhttps://www.ncbi.nlm.nih.gov/pubmed/18377107\nhttp://journals.sagepub.com/doi/abs/10.1177/1470595812452633\nhttp://journals.sagepub.com/doi/abs/10.1177/1948550613514456\n\nリサーチ協力 Yu Suzuki http://www.nicovideo.jp/paleo\n この動画は、参考資料から考察した科学の面白さを伝えるエンタメです。あくまで一説であり、真偽を確定するものではありません。",
+    "publishedAt": "2020-01-06T10:30:02.000Z",
+    "channelId": "UCaminwG9MTO4sLYeC3s6udA",
+    "title": "売り切れ続出？鬼滅の刃一番くじ見つけるまで帰れません！したら気付けば朝を迎えてた…",
+    "description": "Q.鬼滅の刃で好きなキャラクターは？\n\nA.ヒカル　宇髄 天元\n　まえっさん　煉獄 杏寿郎\n　ロケマサ　冨岡 義勇\n　名人　読んでません\n\nヒカルまえっさん名人ロケマサの4人の動画シリーズ！\nhttps://www.youtube.com/watch?v=p6bcRMvo4Yo&list=PLcxHm0kSGuEDqWyKseg-8tbfviRq0avqw\n\n★チャンネル登録はこちら\nhttps://www.youtube.com/channel/UCaminwG9MTO4sLYeC3s6udA?sub_confirmation=1\n\nヒカルが愛用してる洋服の購入はこちらから！\nhttps://rezard.jp/?utm_source=twitter&utm_medium=post&utm_campaign=h1127\n\n「ReZARD」に関する情報は下のTwitterでお知らせします。\nそれとDM解放してるので質問などあればそこでお願いします。\nhttps://twitter.com/Rezard_official\n\nヒカルのグッズ通販サイトはこちら\nhttps://hikarukouza.thebase.in/\n\nヒカルの公式サイトはこちら\nhttps://hikaruchannel.net/\n\n新曲はこちらです。\nhttps://www.youtube.com/watch?v=nRkmpaNQyZA&t=22s\n\nヒカルのZepp東京のライブ映像はこちらです。\nhttps://www.youtube.com/watch?v=Oocgc5EYqfg\n\n曲をまとめて聞きたい方はこちらから！\nhttps://www.youtube.com/watch?v=yrXuKm6JtYA&list=PLcxHm0kSGuEBGW8gmYNOM-2Ah1B9t6Gax\n\n【Twitterアカウント】\n★ヒカルのTwitter\nhttps://twitter.com/kinnpatuhikaru\n\n★ヒカルのサブ1のTwitter\nhttps://twitter.com/tadanokarisuma?lang=ja\n\n★ヒカルのサブ2のTwitter\nhttps://twitter.com/1chan_hikaru?lang=ja\n\n★まえっさんのTwitterはこちら\nhttps://twitter.com/1chan_maessan\n\n★名人のTwitterはこちら\nhttps://twitter.com/1chan_meijin\n\n★ロケマサのTwitterはこちら\nhttps://twitter.com/1chan_rokemasa\n\n★ヒカルのゲーム実況チャンネル\nhttps://www.youtube.com/user/kinnpatuhikaru\n\n★ヒカルの公式Twitterはこちら（動画通知、お知らせ等）\nhttps://twitter.com/hikaru2nd1031\n\n★カルxピンの公式Twitterはこちら（ライブ、グッズのお知らせ等）\nhttps://twitter.com/karu_x_pin\n\n★ヒカルのインスタグラム\nhttps://www.instagram.com/tadanokarisuma/\n\n★ヒカルへの仕事のお問い合わせはこちら\ninfo@hikaruchannel.net\n\nマネージャー高橋のDMまでお願いします。\nhttps://twitter.com/takahashisan69\n\n#ヒカル",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/vkascsEHn5A/default.jpg",
+      "url": "https://i.ytimg.com/vi/mgQNOgrj4bU/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/vkascsEHn5A/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/mgQNOgrj4bU/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/vkascsEHn5A/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/mgQNOgrj4bU/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/vkascsEHn5A/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/mgQNOgrj4bU/sddefault.jpg",
       "width": 640,
       "height": 480
      },
      "maxres": {
-      "url": "https://i.ytimg.com/vi/vkascsEHn5A/maxresdefault.jpg",
+      "url": "https://i.ytimg.com/vi/mgQNOgrj4bU/maxresdefault.jpg",
       "width": 1280,
       "height": 720
      }
     },
-    "channelTitle": "メンタリスト DaiGo",
+    "channelTitle": "ヒカル（Hikaru）",
     "tags": [
-     "連休",
-     "新年",
-     "正月",
-     "集中力",
-     "心理学",
-     "メンタリスト"
-    ],
-    "categoryId": "26",
-    "liveBroadcastContent": "none",
-    "localized": {
-     "title": "正月休み最終日に【ヤると人生変わること】",
-     "description": "▶︎ 焦りと時間ストレスから自由になる超時間術 →https://www.nicovideo.jp/watch/1523752379\n\n\n▶︎人生が超充実するオススメ本\n\u202aM.チクセントミハイ の フロー体験入門―楽しみと創造の心理学 を Amazon でチェック！ https://amzn.to/2ZQogJk \u202c\n\n\u202aスティーヴ コトラー の 超人の秘密　エクストリームスポーツとフロー体験 (早川書房) を Amazon でチェック！ https://amzn.to/2QqiATr \u202c\n\n\n▶︎参考\nhttps://link.springer.com/article/10.1007%2Fs11482-009-9091-9\nhttps://www.sciencedirect.com/science/article/pii/S0261517714000685\nhttps://www.ncbi.nlm.nih.gov/pubmed/18377107\nhttp://journals.sagepub.com/doi/abs/10.1177/1470595812452633\nhttp://journals.sagepub.com/doi/abs/10.1177/1948550613514456\n\nリサーチ協力 Yu Suzuki http://www.nicovideo.jp/paleo\n この動画は、参考資料から考察した科学の面白さを伝えるエンタメです。あくまで一説であり、真偽を確定するものではありません。"
-    },
-    "defaultAudioLanguage": "ja"
-   }
-  },
-  {
-   "kind": "youtube#video",
-   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/Erk9ytgB3Ase6gLBbDTiTWuQPP8\"",
-   "id": "qiJDEcuj018",
-   "snippet": {
-    "publishedAt": "2020-01-05T10:00:12.000Z",
-    "channelId": "UCQ_MqAw18jFTlBB-f8BP7dw",
-    "title": "【知識 × 推理】Googleロゴのあれ、クイズ王なら即分かる？【検証】",
-    "description": "東大生がGoogleのロゴクイズに挑戦！\n知識があれば一瞬で解答することができるのか？！\n\n画像提供：Google\nDoodle アーカイブサイト↓\nhttps://www.google.com/doodles#archive\n\n今日の一問の答えはこちら↓\n【3分で常識力チェック！】大人の常識Knock vol.171\nhttps://quizknock.com/joshiki-knock-171\nーーーーーーーーーーーーーーーーーーーー\n◆QuizKnockサブチャンネル\nhttps://www.youtube.com/channel/UCdvci38aZHC_5qKPyL8BPcA\n未公開シーン、質問コーナー、会議のこぼれ話など、ゆるーくやっていきます。\n◆Twitter\n伊沢拓司＠tax_i_ (https://twitter.com/tax_i_)\n河村拓哉@kawamura_domo (https://twitter.com/kawamura_domo)\n川上拓朗@Kawakami_q (https://twitter.com/Kawakami_q)\n須貝駿貴@Sugai_Shunki (https://twitter.com/Sugai_Shunki)\nこうちゃん@Miracle_Fusion (https://twitter.com/Miracle_Fusion)\n山本祥彰@quiz_yamamoto (https://twitter.com/quiz_yamamoto)\nふくらP @fukura_p (https://twitter.com/fukura_p)\nクイズノック＠QuizKnock (https://twitter.com/QuizKnock)\n◆お問い合わせ\nこちら→qk_support@baton8.com\n※勉強法など個別の質問はサブチャンネルのコメント欄へお願いします。\n◆字幕協力はこちら\nhttps://goo.gl/mZiJDv\n◆提供\nPowered by QuizKnock (https://quizknock.com)\n一部音源は下記サイト様音源を使用しています。\nOtoLogic様→https://otologic.jp\nポケットサウンド様→https://pocket-se.info/\n魔王魂様→https://maoudamashii.jokersounds.com/\nフリーBGM・音楽素材 MusMus様→http://musmus.main.jp/",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/qiJDEcuj018/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/qiJDEcuj018/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/qiJDEcuj018/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/qiJDEcuj018/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/qiJDEcuj018/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "QuizKnock",
-    "tags": [
-     "クイズ",
-     "東大",
-     "伊沢拓司",
-     "クイズノック",
-     "quizknock"
+     "ヒカル",
+     "Hikaru",
+     "トーク",
+     "ドッキリ",
+     "おもしろ",
+     "まえっさん",
+     "まえす",
+     "名人",
+     "ロケマサ",
+     "鬼滅の刃",
+     "いちばんくじ",
+     "コンビニ",
+     "帰れません",
+     "朝",
+     "売り切れ"
     ],
     "categoryId": "24",
     "liveBroadcastContent": "none",
     "localized": {
-     "title": "【知識 × 推理】Googleロゴのあれ、クイズ王なら即分かる？【検証】",
-     "description": "東大生がGoogleのロゴクイズに挑戦！\n知識があれば一瞬で解答することができるのか？！\n\n画像提供：Google\nDoodle アーカイブサイト↓\nhttps://www.google.com/doodles#archive\n\n今日の一問の答えはこちら↓\n【3分で常識力チェック！】大人の常識Knock vol.171\nhttps://quizknock.com/joshiki-knock-171\nーーーーーーーーーーーーーーーーーーーー\n◆QuizKnockサブチャンネル\nhttps://www.youtube.com/channel/UCdvci38aZHC_5qKPyL8BPcA\n未公開シーン、質問コーナー、会議のこぼれ話など、ゆるーくやっていきます。\n◆Twitter\n伊沢拓司＠tax_i_ (https://twitter.com/tax_i_)\n河村拓哉@kawamura_domo (https://twitter.com/kawamura_domo)\n川上拓朗@Kawakami_q (https://twitter.com/Kawakami_q)\n須貝駿貴@Sugai_Shunki (https://twitter.com/Sugai_Shunki)\nこうちゃん@Miracle_Fusion (https://twitter.com/Miracle_Fusion)\n山本祥彰@quiz_yamamoto (https://twitter.com/quiz_yamamoto)\nふくらP @fukura_p (https://twitter.com/fukura_p)\nクイズノック＠QuizKnock (https://twitter.com/QuizKnock)\n◆お問い合わせ\nこちら→qk_support@baton8.com\n※勉強法など個別の質問はサブチャンネルのコメント欄へお願いします。\n◆字幕協力はこちら\nhttps://goo.gl/mZiJDv\n◆提供\nPowered by QuizKnock (https://quizknock.com)\n一部音源は下記サイト様音源を使用しています。\nOtoLogic様→https://otologic.jp\nポケットサウンド様→https://pocket-se.info/\n魔王魂様→https://maoudamashii.jokersounds.com/\nフリーBGM・音楽素材 MusMus様→http://musmus.main.jp/"
-    },
-    "defaultAudioLanguage": "ja"
+     "title": "売り切れ続出？鬼滅の刃一番くじ見つけるまで帰れません！したら気付けば朝を迎えてた…",
+     "description": "Q.鬼滅の刃で好きなキャラクターは？\n\nA.ヒカル　宇髄 天元\n　まえっさん　煉獄 杏寿郎\n　ロケマサ　冨岡 義勇\n　名人　読んでません\n\nヒカルまえっさん名人ロケマサの4人の動画シリーズ！\nhttps://www.youtube.com/watch?v=p6bcRMvo4Yo&list=PLcxHm0kSGuEDqWyKseg-8tbfviRq0avqw\n\n★チャンネル登録はこちら\nhttps://www.youtube.com/channel/UCaminwG9MTO4sLYeC3s6udA?sub_confirmation=1\n\nヒカルが愛用してる洋服の購入はこちらから！\nhttps://rezard.jp/?utm_source=twitter&utm_medium=post&utm_campaign=h1127\n\n「ReZARD」に関する情報は下のTwitterでお知らせします。\nそれとDM解放してるので質問などあればそこでお願いします。\nhttps://twitter.com/Rezard_official\n\nヒカルのグッズ通販サイトはこちら\nhttps://hikarukouza.thebase.in/\n\nヒカルの公式サイトはこちら\nhttps://hikaruchannel.net/\n\n新曲はこちらです。\nhttps://www.youtube.com/watch?v=nRkmpaNQyZA&t=22s\n\nヒカルのZepp東京のライブ映像はこちらです。\nhttps://www.youtube.com/watch?v=Oocgc5EYqfg\n\n曲をまとめて聞きたい方はこちらから！\nhttps://www.youtube.com/watch?v=yrXuKm6JtYA&list=PLcxHm0kSGuEBGW8gmYNOM-2Ah1B9t6Gax\n\n【Twitterアカウント】\n★ヒカルのTwitter\nhttps://twitter.com/kinnpatuhikaru\n\n★ヒカルのサブ1のTwitter\nhttps://twitter.com/tadanokarisuma?lang=ja\n\n★ヒカルのサブ2のTwitter\nhttps://twitter.com/1chan_hikaru?lang=ja\n\n★まえっさんのTwitterはこちら\nhttps://twitter.com/1chan_maessan\n\n★名人のTwitterはこちら\nhttps://twitter.com/1chan_meijin\n\n★ロケマサのTwitterはこちら\nhttps://twitter.com/1chan_rokemasa\n\n★ヒカルのゲーム実況チャンネル\nhttps://www.youtube.com/user/kinnpatuhikaru\n\n★ヒカルの公式Twitterはこちら（動画通知、お知らせ等）\nhttps://twitter.com/hikaru2nd1031\n\n★カルxピンの公式Twitterはこちら（ライブ、グッズのお知らせ等）\nhttps://twitter.com/karu_x_pin\n\n★ヒカルのインスタグラム\nhttps://www.instagram.com/tadanokarisuma/\n\n★ヒカルへの仕事のお問い合わせはこちら\ninfo@hikaruchannel.net\n\nマネージャー高橋のDMまでお願いします。\nhttps://twitter.com/takahashisan69\n\n#ヒカル"
+    }
    }
   },
   {
    "kind": "youtube#video",
-   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/6vEbi03SNCkZTKBeoqFwxiVZV3k\"",
-   "id": "_H0gNCO-S7g",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/vxr7F-4N6nhfyCCo3G1p8IlqLZs\"",
+   "id": "M9vYu4tMcnU",
    "snippet": {
-    "publishedAt": "2020-01-05T10:41:08.000Z",
-    "channelId": "UCSSkv6tmPpi8d1IrWegypsA",
-    "title": "【漫画】ドルヲタの友人がお目当てのアイドルの限定ライブの抽選に漏れた結果ｗｗｗｗｗw",
-    "description": "今回の漫画の主人公は大学生のソラ。\nソラの友人たちの間では、超人気アイドル「モナリ坂46」の限定ライブの話題でもちきりになっていた！\n特殊な抽選方法の限定ライブについて友人たちと盛り上がっているとモナリ坂46の信者であるエンジが現れ、盛り上がるソラたちに水を差すようなことばかりを話して去っていった。\nエンジは応募券入りのCDを箱買いし抽選に絶対の自信があったようだが、見事に抽選漏れしてしまいその後狂人と化すのだった…\n\n\n『モナ・リザの戯言』ではスカッと爽快な漫画をたくさん投稿していきますので、是非チャンネル登録をお願いします！\n\nhttp://www.youtube.com/channel/UCSSkv6tmPpi8d1IrWegypsA?sub_confirmation=1\n\n\n皆様からのコメントもたくさんお待ちしております！\n是非ともチャンネル登録と高評価もお願いします！\n次回の漫画もお楽しみに！\n\nモナ・リザより\n\n今回の漫画動画にご協力頂いたクリエーターの皆様\n声優　有村\n編集　preTTy_cut_A\nBGM　Batch / こんとどぅふぇ HiLi / 甘茶の音楽工房\nOP, ED　Ayamumin / Batch\n監督　モナ・リザ（ @monalisatalk ）\n\n\n『モナ・リザの戯言』では、動画制作にご協力頂けるイラストレーター・漫画家・絵師様を常時募集しております！また、漫画動画のネタとなるおもしろスカッと体験談も募集しております！\nご興味ある方は、過去作品やマンガ動画の制作実績、希望単価を明記の上、モナ・リザTwitterのDMまでご連絡下さい。",
+    "publishedAt": "2020-01-06T09:00:01.000Z",
+    "channelId": "UCY5fcqgSrQItPAX_Z5Frmwg",
+    "title": "「ひぐらしのなく頃に」新プロジェクト始動",
+    "description": "「ひぐらしのなく頃に」新プロジェクト始動―\n\n\n【スタッフ】\n原作\n竜騎士07/07th Expansion\n\nキャラクターデザイン\n渡辺明夫\n\nプロデュース\nインフィニット\n\nアニメーション制作\nパッショーネ\n\n公式サイト\nhttps://higurashianime.com\n\n公式Twitter\n＠higu_anime\n\n©２０２０竜騎士０７／ひぐらしのなく頃に製作委員会",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/_H0gNCO-S7g/default.jpg",
+      "url": "https://i.ytimg.com/vi/M9vYu4tMcnU/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/_H0gNCO-S7g/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/M9vYu4tMcnU/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/_H0gNCO-S7g/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/M9vYu4tMcnU/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/_H0gNCO-S7g/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/M9vYu4tMcnU/sddefault.jpg",
       "width": 640,
       "height": 480
      },
      "maxres": {
-      "url": "https://i.ytimg.com/vi/_H0gNCO-S7g/maxresdefault.jpg",
+      "url": "https://i.ytimg.com/vi/M9vYu4tMcnU/maxresdefault.jpg",
       "width": 1280,
       "height": 720
      }
     },
-    "channelTitle": "モナ・リザの戯言",
+    "channelTitle": "KADOKAWAanime",
     "tags": [
-     "漫画",
-     "マンガ",
-     "漫画動画",
-     "マンガ動画",
-     "アニメ",
-     "声優",
-     "モナリザ",
-     "スカッと",
-     "ソラちゃん"
+     "UCY5fcqgSrQItPAX_Z5Frmwg",
+     "ひぐらしのなく頃に",
+     "竜騎士07",
+     "字幕",
+     "前原圭一"
     ],
     "categoryId": "1",
     "liveBroadcastContent": "none",
     "localized": {
-     "title": "【漫画】ドルヲタの友人がお目当てのアイドルの限定ライブの抽選に漏れた結果ｗｗｗｗｗw",
-     "description": "今回の漫画の主人公は大学生のソラ。\nソラの友人たちの間では、超人気アイドル「モナリ坂46」の限定ライブの話題でもちきりになっていた！\n特殊な抽選方法の限定ライブについて友人たちと盛り上がっているとモナリ坂46の信者であるエンジが現れ、盛り上がるソラたちに水を差すようなことばかりを話して去っていった。\nエンジは応募券入りのCDを箱買いし抽選に絶対の自信があったようだが、見事に抽選漏れしてしまいその後狂人と化すのだった…\n\n\n『モナ・リザの戯言』ではスカッと爽快な漫画をたくさん投稿していきますので、是非チャンネル登録をお願いします！\n\nhttp://www.youtube.com/channel/UCSSkv6tmPpi8d1IrWegypsA?sub_confirmation=1\n\n\n皆様からのコメントもたくさんお待ちしております！\n是非ともチャンネル登録と高評価もお願いします！\n次回の漫画もお楽しみに！\n\nモナ・リザより\n\n今回の漫画動画にご協力頂いたクリエーターの皆様\n声優　有村\n編集　preTTy_cut_A\nBGM　Batch / こんとどぅふぇ HiLi / 甘茶の音楽工房\nOP, ED　Ayamumin / Batch\n監督　モナ・リザ（ @monalisatalk ）\n\n\n『モナ・リザの戯言』では、動画制作にご協力頂けるイラストレーター・漫画家・絵師様を常時募集しております！また、漫画動画のネタとなるおもしろスカッと体験談も募集しております！\nご興味ある方は、過去作品やマンガ動画の制作実績、希望単価を明記の上、モナ・リザTwitterのDMまでご連絡下さい。"
-    }
+     "title": "「ひぐらしのなく頃に」新プロジェクト始動",
+     "description": "「ひぐらしのなく頃に」新プロジェクト始動―\n\n\n【スタッフ】\n原作\n竜騎士07/07th Expansion\n\nキャラクターデザイン\n渡辺明夫\n\nプロデュース\nインフィニット\n\nアニメーション制作\nパッショーネ\n\n公式サイト\nhttps://higurashianime.com\n\n公式Twitter\n＠higu_anime\n\n©２０２０竜騎士０７／ひぐらしのなく頃に製作委員会"
+    },
+    "defaultAudioLanguage": "ja"
    }
   },
   {
    "kind": "youtube#video",
-   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/30j4xE4eUVGdNBkHG3Od8NVdqfo\"",
-   "id": "SPBf4X-KRVY",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/TuiJc0CACmHoZUrmhecp_JxFfNQ\"",
+   "id": "gHUzyjSiKBA",
    "snippet": {
-    "publishedAt": "2020-01-05T13:17:59.000Z",
-    "channelId": "UC9bet8Rcj620A9n_qBj4nUg",
-    "title": "自社ブランドの福袋に、物申す。【MOUSSY福袋2020】",
-    "description": "福袋って感じだったけど、MOUSSYのデニムは本当に綺麗でかっこいいので、お店を見かけたらぜひ一度履いてみてほしい☺︎\n\nMOUSSY Instagram\nhttps://www.instagram.com/moussyofficial/\n\n\n__________________________________\n\n『かんだま劇場 スペシャルステージ\n〜20代のうちにしたい5つのこと〜』\n\n【日程】\n3/20(金祝)  OPEN 16:00 /START 17:00\n※約2時間を予定しております\n\n【会場】\nVeats SHIBUYA\n東京都渋谷区宇田川町33-1\n\n【チケット】\n一般 4,400円 / 大学生 3,500円 / 中高生 2,000円 / 小学生以下は無料\n※入場時に1ドリンク代が別途かかります。\n\n【チケット発売日】\n2/1(土)10:00〜\n\n【プレイガイド】\nローソンチケット / イープラス / ぴあ\n※先行発売あります。随時発表していきます。\n※購入時の混乱を防ぐため、念のため抽選としております。\n\n【ご注意】\n※写真・動画撮影、録音などは禁止とさせていただきます。\n※未就学児童はチケット無しでご入場できますが、必ず保護者同伴でお願い致します。また観覧場所に関して安全面を考慮の上、スタッフからの指定場所になることがございます。\n\n企画制作:AKA株式会社 / 制作:ALL DAYS\n_________________________________\n\nチャンネル登録よろしくお願いします◎\n\nタレント活動をしつつ、その傍らOLとしても仕事中のかんだまが\n様々なことに挑戦していくYouTubeチャンネルです。\n_________________________________\n\n▽Twitter\nhttps://twitter.com/KOIKE_WEEKEND\n▽Instagram\nhttps://www.instagram.com/koike_weekend/\n_________________________________\n#かんだま\n#だまfashion",
+    "publishedAt": "2020-01-06T12:05:58.000Z",
+    "channelId": "UCynIYcsBwTrwBIecconPN2A",
+    "title": "てつやに大腸ガンの疑いがあるので検査します",
+    "description": "〜病院の検査なにかと辛すぎ問題〜\n僕が針を持って、そこらへんを歩いている人をつつきまくったら多分めっちゃ叱られます。針が刺さると痛くて嫌な気持ちになるからです。\nしかし、｢検査｣という大義名分があるだけで、人に針を刺してもOKになります。麻酔で昏倒させたり、口に管を入れてオエオエさせたり、尻に棒を突っ込んだり、おっぱいを触ってもOKです。\n\nもちろん僕は｢お医者さんとか看護師さんとかヤバくね？w｣という結論に持っていきたいわけではありません。これらの行為は僕たちの命を守ることにつながります。僕たちは望んで針を刺されているわけです。こんなひねくれた捉え方をしては失礼です。謝りなさい。ごめんなさい。\n\n僕は｢『検査』という大義名分すごくね？｣と思ったのです。もしお医者さんが｢大腸の検査をするからケツの穴がっぽり広げて屁をこいてみて｣とおっしゃいましたら、多分僕は｢こんなことでわかることもあるんだ…｣とか思って何も疑わずにケツの穴をがっぽり広げて屁をこくことでしょう。\nつまりですよ？病院とお医者さんと看護師さん(偽でも可)の協力があれば、人の体にいろんないたずらをする動画を撮れ…\nだから！医療をそんなおふざけのカモフラージュにしてはいけませんってば！謝りなさい！ごめんなさい！\n\n東海オンエアの控え室へようこそ。\r\nぜひチャンネル登録お願いします！\r\nhttps://www.youtube.com/channel/UCynIYcsBwTrwBIecconPN2A\r\n\r\nメインチャンネルはこちらの【東海オンエア】です！\r\nhttps://www.youtube.com/channel/UCutJqz56653xV2wwSvut_hQ\r\n\r\nグッズ購入はこちらから！！\r\nhttps://goo.gl/YtauZW\r\n\r\nお仕事の依頼はこちらから\r\nhttps://www.uuum.co.jp/inquiry_promotion\r\n\r\nファンレターはこちらへ\r\n〒106-6137 東京都港区六本木 6-10-1 六本木ヒルズ森タワー 37階UUUM株式会社　東海オンエア宛\r\n\r\n【Twitterアカウント】\r\nてつや→https://twitter.com/TO_TETSUYA\r\nとしみつ→https://twitter.com/TO_TOSHIMITSU\r\nしばゆー→https://twitter.com/TOKAI_ONAIR\r\nりょう→https://twitter.com/TO_RYOO\r\nゆめまる→https://twitter.com/TO_yumemarucas\r\n虫眼鏡→https://twitter.com/TO_ZAWAKUN",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/SPBf4X-KRVY/default.jpg",
+      "url": "https://i.ytimg.com/vi/gHUzyjSiKBA/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/SPBf4X-KRVY/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/gHUzyjSiKBA/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/SPBf4X-KRVY/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/gHUzyjSiKBA/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/SPBf4X-KRVY/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/gHUzyjSiKBA/sddefault.jpg",
       "width": 640,
       "height": 480
      },
      "maxres": {
-      "url": "https://i.ytimg.com/vi/SPBf4X-KRVY/maxresdefault.jpg",
+      "url": "https://i.ytimg.com/vi/gHUzyjSiKBA/maxresdefault.jpg",
       "width": 1280,
       "height": 720
      }
     },
-    "channelTitle": "かんだま劇場",
+    "channelTitle": "東海オンエアの控え室",
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "てつやに大腸ガンの疑いがあるので検査します",
+     "description": "〜病院の検査なにかと辛すぎ問題〜\n僕が針を持って、そこらへんを歩いている人をつつきまくったら多分めっちゃ叱られます。針が刺さると痛くて嫌な気持ちになるからです。\nしかし、｢検査｣という大義名分があるだけで、人に針を刺してもOKになります。麻酔で昏倒させたり、口に管を入れてオエオエさせたり、尻に棒を突っ込んだり、おっぱいを触ってもOKです。\n\nもちろん僕は｢お医者さんとか看護師さんとかヤバくね？w｣という結論に持っていきたいわけではありません。これらの行為は僕たちの命を守ることにつながります。僕たちは望んで針を刺されているわけです。こんなひねくれた捉え方をしては失礼です。謝りなさい。ごめんなさい。\n\n僕は｢『検査』という大義名分すごくね？｣と思ったのです。もしお医者さんが｢大腸の検査をするからケツの穴がっぽり広げて屁をこいてみて｣とおっしゃいましたら、多分僕は｢こんなことでわかることもあるんだ…｣とか思って何も疑わずにケツの穴をがっぽり広げて屁をこくことでしょう。\nつまりですよ？病院とお医者さんと看護師さん(偽でも可)の協力があれば、人の体にいろんないたずらをする動画を撮れ…\nだから！医療をそんなおふざけのカモフラージュにしてはいけませんってば！謝りなさい！ごめんなさい！\n\n東海オンエアの控え室へようこそ。\r\nぜひチャンネル登録お願いします！\r\nhttps://www.youtube.com/channel/UCynIYcsBwTrwBIecconPN2A\r\n\r\nメインチャンネルはこちらの【東海オンエア】です！\r\nhttps://www.youtube.com/channel/UCutJqz56653xV2wwSvut_hQ\r\n\r\nグッズ購入はこちらから！！\r\nhttps://goo.gl/YtauZW\r\n\r\nお仕事の依頼はこちらから\r\nhttps://www.uuum.co.jp/inquiry_promotion\r\n\r\nファンレターはこちらへ\r\n〒106-6137 東京都港区六本木 6-10-1 六本木ヒルズ森タワー 37階UUUM株式会社　東海オンエア宛\r\n\r\n【Twitterアカウント】\r\nてつや→https://twitter.com/TO_TETSUYA\r\nとしみつ→https://twitter.com/TO_TOSHIMITSU\r\nしばゆー→https://twitter.com/TOKAI_ONAIR\r\nりょう→https://twitter.com/TO_RYOO\r\nゆめまる→https://twitter.com/TO_yumemarucas\r\n虫眼鏡→https://twitter.com/TO_ZAWAKUN"
+    },
+    "defaultAudioLanguage": "ja"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/T2yTuQg2eLo75_1qZnuK4gF5USM\"",
+   "id": "hHWwdy-4TFg",
+   "snippet": {
+    "publishedAt": "2020-01-06T11:00:10.000Z",
+    "channelId": "UC26ZU-55UPc7lVR9inHWayA",
+    "title": "【選抜編】大物YouTuberに、お年玉もらえるまで帰れま１０！！【Season2!!】",
+    "description": "突撃編は、1月7日公開。\n\nFischer's→https://www.youtube.com/user/MASAIandHamzael\n東海オンエア→https://www.youtube.com/user/TokaiOnAir\n水溜りボンド→https://www.youtube.com/channel/UCpOjLndjOqMoffA-fr8cbKA\nはじめしゃちょーの畑→https://www.youtube.com/channel/UClKeJXipXwX7_ZGxOBnMQyw\nカジサックさん→https://www.youtube.com/channel/UC642pLj4GXSj-0Ybdx3ytmA\nきまぐれクック→https://www.youtube.com/user/toruteli\nスカイピース→https://www.youtube.com/channel/UC8_wmm5DX9mb4jrLiw8ZYzw\nヒカルさん→https://www.youtube.com/channel/UCaminwG9MTO4sLYeC3s6udA\n\r\n【最新情報】\r\nアバみ - MV\r\nhttps://www.youtube.com/watch?v=5V747QqYsfA\r\n\r\n--\r\n少しでもニヤけたらチャンネル登録！\r\nPlease subscribe!\r\n\r\n腹筋崩壊 ドッキリシリーズ\r\nhttps://www.youtube.com/watch?v=5_8BBYNBTsQ&list=PLVY34uKX42qf-ev486JP_LUNVkKMbt0Ye&index=1\r\n\r\nアバンティーズ ドラマシリーズ「ペンは権よりもツヨシ」\r\nhttps://www.youtube.com/watch?v=YaiBwk-w1y4&list=PLVY34uKX42qdMepb_jauEFaHnF8giF6wN&index=1\r\n\r\n** SNS - Follow us!! **\r\nアバンティーズ公式\r\nhttps://twitter.com/avntisdouga\r\nhttps://instagram.com/avntisdouga\r\n\r\nそらちぃ\r\nhttps://twitter.com/soraciavntis\r\nhttps://instagram.com/sora_fdmr1\r\n\r\nエイジ\r\nhttps://twitter.com/avntiskami\r\nhttps://instagram.com/avntis_eiji\r\n\r\nリクヲ\r\nhttps://twitter.com/avntisrikuwo\r\nhttps://www.instagram.com/avntis_rikuwo\r\n\r\nツリメ\r\nhttps://twitter.com/turime1996\r\nhttps://www.instagram.com/turime1996\r\n\r\n- HP (UUUM)\r\nhttps://www.uuum.jp/creator/avantis\r\n\r\n** NOTE **\r\nIt would be \"REALLY\" appreciated if you can help us to make video subtitles, especially from Japanese to English translated version. (Anyone can participate!! See: https://support.google.com/youtube/answer/6054623?hl=en) We're always needing your massive community power to boost the evolution!\r\n\r\n動画の字幕作成にご協力ください！日本語への文字起こしはもちろん、英語への翻訳字幕へ協力いただけると非常に助かります！\r\n方法についてはこちら: https://support.google.com/youtube/answer/6054623?hl=ja",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hHWwdy-4TFg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hHWwdy-4TFg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hHWwdy-4TFg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hHWwdy-4TFg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/hHWwdy-4TFg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "アバンティーズ",
     "tags": [
-     "かんだま",
-     "女子力",
-     "OL",
-     "アラサー",
-     "福袋",
-     "開封",
-     "当たり",
-     "外れ",
-     "MOUSSY",
-     "マウジー",
-     "アパレル",
-     "ブランド",
-     "ファッション",
-     "fashion",
-     "コーデ",
-     "コーディネート",
-     "着回し"
+     "アバンティーズ",
+     "そらちぃ",
+     "エイジ",
+     "ツリメ",
+     "リクヲ",
+     "funny",
+     "crazy",
+     "japanese",
+     "チャレンジ",
+     "おもしろ",
+     "面白動画",
+     "衝撃",
+     "驚き",
+     "ビックリ",
+     "YouTuber",
+     "UUUM",
+     "ウーム",
+     "お年玉",
+     "ヒカル",
+     "カジサック",
+     "水溜りボンド",
+     "東海オンエア",
+     "はじめしゃちょー",
+     "きまぐれクック",
+     "シルクロード",
+     "フィッシャーズ",
+     "スカイピース"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "【選抜編】大物YouTuberに、お年玉もらえるまで帰れま１０！！【Season2!!】",
+     "description": "突撃編は、1月7日公開。\n\nFischer's→https://www.youtube.com/user/MASAIandHamzael\n東海オンエア→https://www.youtube.com/user/TokaiOnAir\n水溜りボンド→https://www.youtube.com/channel/UCpOjLndjOqMoffA-fr8cbKA\nはじめしゃちょーの畑→https://www.youtube.com/channel/UClKeJXipXwX7_ZGxOBnMQyw\nカジサックさん→https://www.youtube.com/channel/UC642pLj4GXSj-0Ybdx3ytmA\nきまぐれクック→https://www.youtube.com/user/toruteli\nスカイピース→https://www.youtube.com/channel/UC8_wmm5DX9mb4jrLiw8ZYzw\nヒカルさん→https://www.youtube.com/channel/UCaminwG9MTO4sLYeC3s6udA\n\r\n【最新情報】\r\nアバみ - MV\r\nhttps://www.youtube.com/watch?v=5V747QqYsfA\r\n\r\n--\r\n少しでもニヤけたらチャンネル登録！\r\nPlease subscribe!\r\n\r\n腹筋崩壊 ドッキリシリーズ\r\nhttps://www.youtube.com/watch?v=5_8BBYNBTsQ&list=PLVY34uKX42qf-ev486JP_LUNVkKMbt0Ye&index=1\r\n\r\nアバンティーズ ドラマシリーズ「ペンは権よりもツヨシ」\r\nhttps://www.youtube.com/watch?v=YaiBwk-w1y4&list=PLVY34uKX42qdMepb_jauEFaHnF8giF6wN&index=1\r\n\r\n** SNS - Follow us!! **\r\nアバンティーズ公式\r\nhttps://twitter.com/avntisdouga\r\nhttps://instagram.com/avntisdouga\r\n\r\nそらちぃ\r\nhttps://twitter.com/soraciavntis\r\nhttps://instagram.com/sora_fdmr1\r\n\r\nエイジ\r\nhttps://twitter.com/avntiskami\r\nhttps://instagram.com/avntis_eiji\r\n\r\nリクヲ\r\nhttps://twitter.com/avntisrikuwo\r\nhttps://www.instagram.com/avntis_rikuwo\r\n\r\nツリメ\r\nhttps://twitter.com/turime1996\r\nhttps://www.instagram.com/turime1996\r\n\r\n- HP (UUUM)\r\nhttps://www.uuum.jp/creator/avantis\r\n\r\n** NOTE **\r\nIt would be \"REALLY\" appreciated if you can help us to make video subtitles, especially from Japanese to English translated version. (Anyone can participate!! See: https://support.google.com/youtube/answer/6054623?hl=en) We're always needing your massive community power to boost the evolution!\r\n\r\n動画の字幕作成にご協力ください！日本語への文字起こしはもちろん、英語への翻訳字幕へ協力いただけると非常に助かります！\r\n方法についてはこちら: https://support.google.com/youtube/answer/6054623?hl=ja"
+    },
+    "defaultAudioLanguage": "ja"
+   }
+  },
+  {
+   "kind": "youtube#video",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/LP9LJuhCTIkSG8KOdhgl_mqmBh8\"",
+   "id": "3rr3DRFa1YE",
+   "snippet": {
+    "publishedAt": "2020-01-06T11:00:01.000Z",
+    "channelId": "UC8_wmm5DX9mb4jrLiw8ZYzw",
+    "title": "【オリジナル福袋】価値が100万円以上する福袋を作ってプレゼントしてみたw w w w w w",
+    "description": "毎日20:00に更新中！\nチャンネル登録よろしくお願いします！\nhttps://www.youtube.com/channel/UC8_wmm5DX9mb4jrLiw8ZYzw\n\n- スカイピース -\n■ Twitter ⇒ https://twitter.com/skypeace_teojin\n■ 連絡先 ⇒ inaka72kuu@yahoo.co.jp\n■ YouTubeサブ ⇒ https://www.youtube.com/channel/UCn_cpHcrXjG_XnH9N3fO6qA/videos\n\n- テオくん -\n■ Twitter ⇒ https://twitter.com/teokun711\n■ Instagram ⇒ https://www.instagram.com/teokun.711/\n■ YouTube ⇒ https://www.youtube.com/channel/UCj6_0tBpVpmyYSGu6f-uKqw\n\n- ☆イニ☆(じん) -\n■ Twitter ⇒ https://twitter.com/JINJIN1027\n■ Instagram ⇒ https://www.instagram.com/jinjin10272/\n■ YouTube ⇒ https://www.youtube.com/channel/UC5VZjrV5x9J9mTyGODzu0dQ\n\nメンバーシップの登録\nhttps://www.youtube.com/channel/UC8_wmm5DX9mb4jrLiw8ZYzw/join\n\n- 提供BGM -\nSTUDIO PUPPY\n■ Twitter ⇒ https://twitter.com/i_k_p\n\nもやしさらだ\n■ Twitter ⇒ https://twitter.com/moyasisarada\n■ YouTube ⇒ https://www.youtube.com/watch?v=6F2kbuou8O8&feature=youtu.be",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3rr3DRFa1YE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3rr3DRFa1YE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3rr3DRFa1YE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3rr3DRFa1YE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/3rr3DRFa1YE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "スカイピース",
+    "tags": [
+     "スカイピース"
     ],
     "categoryId": "22",
     "liveBroadcastContent": "none",
     "localized": {
-     "title": "自社ブランドの福袋に、物申す。【MOUSSY福袋2020】",
-     "description": "福袋って感じだったけど、MOUSSYのデニムは本当に綺麗でかっこいいので、お店を見かけたらぜひ一度履いてみてほしい☺︎\n\nMOUSSY Instagram\nhttps://www.instagram.com/moussyofficial/\n\n\n__________________________________\n\n『かんだま劇場 スペシャルステージ\n〜20代のうちにしたい5つのこと〜』\n\n【日程】\n3/20(金祝)  OPEN 16:00 /START 17:00\n※約2時間を予定しております\n\n【会場】\nVeats SHIBUYA\n東京都渋谷区宇田川町33-1\n\n【チケット】\n一般 4,400円 / 大学生 3,500円 / 中高生 2,000円 / 小学生以下は無料\n※入場時に1ドリンク代が別途かかります。\n\n【チケット発売日】\n2/1(土)10:00〜\n\n【プレイガイド】\nローソンチケット / イープラス / ぴあ\n※先行発売あります。随時発表していきます。\n※購入時の混乱を防ぐため、念のため抽選としております。\n\n【ご注意】\n※写真・動画撮影、録音などは禁止とさせていただきます。\n※未就学児童はチケット無しでご入場できますが、必ず保護者同伴でお願い致します。また観覧場所に関して安全面を考慮の上、スタッフからの指定場所になることがございます。\n\n企画制作:AKA株式会社 / 制作:ALL DAYS\n_________________________________\n\nチャンネル登録よろしくお願いします◎\n\nタレント活動をしつつ、その傍らOLとしても仕事中のかんだまが\n様々なことに挑戦していくYouTubeチャンネルです。\n_________________________________\n\n▽Twitter\nhttps://twitter.com/KOIKE_WEEKEND\n▽Instagram\nhttps://www.instagram.com/koike_weekend/\n_________________________________\n#かんだま\n#だまfashion"
+     "title": "【オリジナル福袋】価値が100万円以上する福袋を作ってプレゼントしてみたw w w w w w",
+     "description": "毎日20:00に更新中！\nチャンネル登録よろしくお願いします！\nhttps://www.youtube.com/channel/UC8_wmm5DX9mb4jrLiw8ZYzw\n\n- スカイピース -\n■ Twitter ⇒ https://twitter.com/skypeace_teojin\n■ 連絡先 ⇒ inaka72kuu@yahoo.co.jp\n■ YouTubeサブ ⇒ https://www.youtube.com/channel/UCn_cpHcrXjG_XnH9N3fO6qA/videos\n\n- テオくん -\n■ Twitter ⇒ https://twitter.com/teokun711\n■ Instagram ⇒ https://www.instagram.com/teokun.711/\n■ YouTube ⇒ https://www.youtube.com/channel/UCj6_0tBpVpmyYSGu6f-uKqw\n\n- ☆イニ☆(じん) -\n■ Twitter ⇒ https://twitter.com/JINJIN1027\n■ Instagram ⇒ https://www.instagram.com/jinjin10272/\n■ YouTube ⇒ https://www.youtube.com/channel/UC5VZjrV5x9J9mTyGODzu0dQ\n\nメンバーシップの登録\nhttps://www.youtube.com/channel/UC8_wmm5DX9mb4jrLiw8ZYzw/join\n\n- 提供BGM -\nSTUDIO PUPPY\n■ Twitter ⇒ https://twitter.com/i_k_p\n\nもやしさらだ\n■ Twitter ⇒ https://twitter.com/moyasisarada\n■ YouTube ⇒ https://www.youtube.com/watch?v=6F2kbuou8O8&feature=youtu.be"
     }
    }
   },
   {
    "kind": "youtube#video",
-   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/cDKl_g8s54L2PKX5xYq_g33vV9Q\"",
-   "id": "GpfzZ7qdosM",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/u-OPZbTaw7KPudb7pwOqTxnyV9Y\"",
+   "id": "AAsMApAIh98",
    "snippet": {
-    "publishedAt": "2020-01-05T10:23:06.000Z",
-    "channelId": "UCFKSFhVMtIu7akVuxPtXtQw",
-    "title": "【過酷】自販機で買って来たもの3人一致するまで飲み続ける！！KEEP Drinking until 3 people GET same drinks!!",
-    "description": "きょんのTwitter個人垢↓↓↓↓\r\nhttps://mobile.twitter.com/kyonchandayo_\r\n\r\nくまのTwitter個人垢↓↓↓↓\r\nhttps://mobile.twitter.com/kuma_chandesu\r\n\r\nえいじ\r\nhttps://twitter.com/eiji_egachan\r\n\r\n田尻\r\nhttps://twitter.com/yuta_tajiri1120\r\n\r\n⭐twitter （きょんくま）\r\n  ↓↓↓↓\r\nhttps://twitter.com/kyonkuma_main\r\n\r\nサブチャンネル\r\nhttps://www.youtube.com/channel/UCVKQO4lPAI6QV5iAukIRKXw\r\n\r\nきょんくま メインチャンネル\r\nhttps://www.youtube.com/channel/UCFKSFhVMtIu7akVuxPtXtQw\r\n\r\nペットチャンネル\r\nhttps://www.youtube.com/channel/UCNmjwhgOA8QM9-gqypc1S_w\r\n\r\n\r\n⭐お仕事の依頼はUUUMにお問い合わせください\r\n\r\n⭐ファンレター宛先\r\n  ↓↓↓↓↓\r\n106-6134\r\n東京都港区六本木6-10-1\r\n六本木ヒルズ森タワー37階\r\nUUUM株式会社 きょんくま宛",
+    "publishedAt": "2020-01-06T06:33:27.000Z",
+    "channelId": "UCg4nOl7_gtStrLwF0_xoV0A",
+    "title": "セイキン家の年末年始に密着",
+    "description": "#ヒカキン #セイキン #年末年始\n▼モーリーファンタジー\nhttps://www.fantasy.co.jp/\n\n▼取扱店舗一覧\nhttps://www.fantasy.co.jp/wp-content/uploads/2019/12/U-FES5_HIKAKIN_SEIKIN.pdf\n-------------------------------------------------------------\nヒカキン & セイキン - 夢 ［公式ミュージックビデオ］\nhttps://www.youtube.com/watch?v=qBQ5w7RwVnI\n\n【各種配信サービス】\n◆ダウンロード\n・iTunes Store\nhttps://music.apple.com/jp/album/%E5%A4%A2-single/1490069275?app=itunes\n\n・レコチョク\nhttps://recochoku.jp/song/S1008658483/?affiliate=4350010258\n\n◆サブスクリプション\n・Apple Music\nhttps://music.apple.com/jp/album/%E5%A4%A2-single/1490069275?app=music\n\n・LINE MUSIC\nhttps://music.line.me/artist/mi000000001210e9c2\n\n・Spotify\nhttps://open.spotify.com/album/4NZ2n4VnSiuOgoQghEUGAW\n-------------------------------------------------------------\n是非【チャンネル登録】してね！\n▼SeikinTV チャンネル登録　　\nhttps://www.youtube.com/user/seikintv?sub_confirmation=1\n\n▼SeikinGames チャンネル登録\nhttps://www.youtube.com/user/seikingames?sub_confirmation=1\n\n▼SEIKIN公式Twitter\nhttp://twitter.com/SeikinTV\n\n▼Instagram(インスタグラム)\nSEIKIN\nhttps://www.instagram.com/seikin_official/\nポンちゃん\nhttps://www.instagram.com/ponchan.yomepon/\n\n▼お問い合わせはこちらまでお願いいたします（UUUM株式会社）\nhttps://www.uuum.co.jp/inquiry_promotion\n\n▼BGM 楽曲提供\nProduction Music by http://www.epidemicsound.com\nhttp://dova-s.jp/\n-------------------------------------------------------------\n今 / ヒカキン & セイキン \n▼ミュージックビデオ \nhttps://youtu.be/1fiDau5i0Zg\n\n▼楽曲配信はこちら\niTunes \nhttps://itunes.apple.com/jp/album/%E4%BB%8A-single/1441399800?app=itunes\nレコチョク\nhttp://recochoku.jp/song/S1007481875/\n-------------------------------------------------------------\n雑草 / ヒカキン & セイキン\n▼ミュージックビデオ \nhttps://youtu.be/UyV9ud-akdw \n\n▼楽曲配信はこちら\niTunes\nhttps://itunes.apple.com/jp/album/id1297144234?app=itunes\n\nレコチョク\nhttp://recochoku.jp/song/S1005951237/\n-------------------------------------------------------------\nYouTubeテーマソング\n▼ミュージックビデオ \nhttps://www.youtube.com/watch?v=WJzSBLCaKc8\n\n▼楽曲配信はこちら\niTunes\nhttps://itunes.apple.com/jp/album/youtubetemasongu-ep/id1029707577?app=itunes&ls=1\n\nレコチョク\nhttp://recochoku.jp/album/A1002653096/\n-------------------------------------------------------------\n▼SEIKIN / Keep Your Head Up\n▼ミュージックビデオ \nhttps://youtu.be/HxRDfrz6whk\n\n▼楽曲配信はこちら\niTunes\nhttps://itunes.apple.com/jp/album/id1138225554?app=itunes\n\nレコチョク\nhttp://recochoku.jp/album/A1004639577/\n-------------------------------------------------------------\n▼SEIKIN / Just Do It Now\n▼ミュージックビデオ \nhttps://youtu.be/qR2sYu7jOwY\n\n▼楽曲配信はこちら\niTunes\nhttps://itunes.apple.com/jp/album/id1055969464?app=itunes&ls=1\n\nレコチョク\nhttp://recochoku.jp/album/A1003128625/",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/GpfzZ7qdosM/default.jpg",
+      "url": "https://i.ytimg.com/vi/AAsMApAIh98/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/GpfzZ7qdosM/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/AAsMApAIh98/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/GpfzZ7qdosM/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/AAsMApAIh98/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/GpfzZ7qdosM/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/AAsMApAIh98/sddefault.jpg",
       "width": 640,
       "height": 480
      },
      "maxres": {
-      "url": "https://i.ytimg.com/vi/GpfzZ7qdosM/maxresdefault.jpg",
+      "url": "https://i.ytimg.com/vi/AAsMApAIh98/maxresdefault.jpg",
       "width": 1280,
       "height": 720
      }
     },
-    "channelTitle": "きょんくま",
+    "channelTitle": "SeikinTV",
     "tags": [
-     "きょんくま",
-     "自販機",
-     "一致するまで",
-     "大食い",
-     "面白い",
-     "ダンス",
-     "dance",
-     "動画",
-     "ビデオ",
-     "さのす",
-     "無料",
-     "チンチラ",
-     "ハムスター",
-     "YouTube",
-     "ユーチューブ",
-     "お隣のきょんくま",
-     "ハリネズミ",
-     "タヌちゃん",
-     "２４時間生活",
-     "踊ってみた",
-     "ダンサーが踊る",
+     "セイキン",
+     "seikin",
+     "SeikinTV",
+     "TV",
+     "せいきん",
+     "セイキンTV",
+     "せいきんTV",
      "YouTuber",
-     "２倍速",
-     "１万円企画",
-     "バク転",
-     "drink",
-     "keep",
-     "same",
-     "drinks"
+     "ユーチューバー",
+     "歌",
+     "UUUM",
+     "ウーム",
+     "兄",
+     "弟",
+     "兄弟",
+     "HIKAKIN & SEIKIN",
+     "ヒカキン & セイキン",
+     "ヒカキン",
+     "HikakinTV",
+     "HIKAKIN",
+     "ひかきん",
+     "年末年始",
+     "正月",
+     "家族",
+     "プライベート",
+     "実家",
+     "新潟",
+     "雪",
+     "ufoキャッチャー",
+     "クレーンゲーム"
     ],
     "categoryId": "24",
     "liveBroadcastContent": "none",
-    "defaultLanguage": "ja",
     "localized": {
-     "title": "【過酷】自販機で買って来たもの3人一致するまで飲み続ける！！KEEP Drinking until 3 people GET same drinks!!",
-     "description": "きょんのTwitter個人垢↓↓↓↓\r\nhttps://mobile.twitter.com/kyonchandayo_\r\n\r\nくまのTwitter個人垢↓↓↓↓\r\nhttps://mobile.twitter.com/kuma_chandesu\r\n\r\nえいじ\r\nhttps://twitter.com/eiji_egachan\r\n\r\n田尻\r\nhttps://twitter.com/yuta_tajiri1120\r\n\r\n⭐twitter （きょんくま）\r\n  ↓↓↓↓\r\nhttps://twitter.com/kyonkuma_main\r\n\r\nサブチャンネル\r\nhttps://www.youtube.com/channel/UCVKQO4lPAI6QV5iAukIRKXw\r\n\r\nきょんくま メインチャンネル\r\nhttps://www.youtube.com/channel/UCFKSFhVMtIu7akVuxPtXtQw\r\n\r\nペットチャンネル\r\nhttps://www.youtube.com/channel/UCNmjwhgOA8QM9-gqypc1S_w\r\n\r\n\r\n⭐お仕事の依頼はUUUMにお問い合わせください\r\n\r\n⭐ファンレター宛先\r\n  ↓↓↓↓↓\r\n106-6134\r\n東京都港区六本木6-10-1\r\n六本木ヒルズ森タワー37階\r\nUUUM株式会社 きょんくま宛"
+     "title": "セイキン家の年末年始に密着",
+     "description": "#ヒカキン #セイキン #年末年始\n▼モーリーファンタジー\nhttps://www.fantasy.co.jp/\n\n▼取扱店舗一覧\nhttps://www.fantasy.co.jp/wp-content/uploads/2019/12/U-FES5_HIKAKIN_SEIKIN.pdf\n-------------------------------------------------------------\nヒカキン & セイキン - 夢 ［公式ミュージックビデオ］\nhttps://www.youtube.com/watch?v=qBQ5w7RwVnI\n\n【各種配信サービス】\n◆ダウンロード\n・iTunes Store\nhttps://music.apple.com/jp/album/%E5%A4%A2-single/1490069275?app=itunes\n\n・レコチョク\nhttps://recochoku.jp/song/S1008658483/?affiliate=4350010258\n\n◆サブスクリプション\n・Apple Music\nhttps://music.apple.com/jp/album/%E5%A4%A2-single/1490069275?app=music\n\n・LINE MUSIC\nhttps://music.line.me/artist/mi000000001210e9c2\n\n・Spotify\nhttps://open.spotify.com/album/4NZ2n4VnSiuOgoQghEUGAW\n-------------------------------------------------------------\n是非【チャンネル登録】してね！\n▼SeikinTV チャンネル登録　　\nhttps://www.youtube.com/user/seikintv?sub_confirmation=1\n\n▼SeikinGames チャンネル登録\nhttps://www.youtube.com/user/seikingames?sub_confirmation=1\n\n▼SEIKIN公式Twitter\nhttp://twitter.com/SeikinTV\n\n▼Instagram(インスタグラム)\nSEIKIN\nhttps://www.instagram.com/seikin_official/\nポンちゃん\nhttps://www.instagram.com/ponchan.yomepon/\n\n▼お問い合わせはこちらまでお願いいたします（UUUM株式会社）\nhttps://www.uuum.co.jp/inquiry_promotion\n\n▼BGM 楽曲提供\nProduction Music by http://www.epidemicsound.com\nhttp://dova-s.jp/\n-------------------------------------------------------------\n今 / ヒカキン & セイキン \n▼ミュージックビデオ \nhttps://youtu.be/1fiDau5i0Zg\n\n▼楽曲配信はこちら\niTunes \nhttps://itunes.apple.com/jp/album/%E4%BB%8A-single/1441399800?app=itunes\nレコチョク\nhttp://recochoku.jp/song/S1007481875/\n-------------------------------------------------------------\n雑草 / ヒカキン & セイキン\n▼ミュージックビデオ \nhttps://youtu.be/UyV9ud-akdw \n\n▼楽曲配信はこちら\niTunes\nhttps://itunes.apple.com/jp/album/id1297144234?app=itunes\n\nレコチョク\nhttp://recochoku.jp/song/S1005951237/\n-------------------------------------------------------------\nYouTubeテーマソング\n▼ミュージックビデオ \nhttps://www.youtube.com/watch?v=WJzSBLCaKc8\n\n▼楽曲配信はこちら\niTunes\nhttps://itunes.apple.com/jp/album/youtubetemasongu-ep/id1029707577?app=itunes&ls=1\n\nレコチョク\nhttp://recochoku.jp/album/A1002653096/\n-------------------------------------------------------------\n▼SEIKIN / Keep Your Head Up\n▼ミュージックビデオ \nhttps://youtu.be/HxRDfrz6whk\n\n▼楽曲配信はこちら\niTunes\nhttps://itunes.apple.com/jp/album/id1138225554?app=itunes\n\nレコチョク\nhttp://recochoku.jp/album/A1004639577/\n-------------------------------------------------------------\n▼SEIKIN / Just Do It Now\n▼ミュージックビデオ \nhttps://youtu.be/qR2sYu7jOwY\n\n▼楽曲配信はこちら\niTunes\nhttps://itunes.apple.com/jp/album/id1055969464?app=itunes&ls=1\n\nレコチョク\nhttp://recochoku.jp/album/A1003128625/"
     },
     "defaultAudioLanguage": "ja"
    }
   },
   {
    "kind": "youtube#video",
-   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/W0TsE1AzzEgnlN5OWLTuxze3XQU\"",
-   "id": "tD1SPfWSd-4",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/0oPtyyItTn4LCwY82EqUChtV43w\"",
+   "id": "Lx7MOj1GVhA",
    "snippet": {
-    "publishedAt": "2020-01-05T08:00:10.000Z",
-    "channelId": "UCpcGAVuBSJEFs48MBxhf9eg",
-    "title": "【アニメ】あけおめWWWWWWWWWWWW",
-    "description": "あけましておめでとう！！\n\n今年もよろしくね🐶❤\n\n\n\n\nIllust：もものふ",
+    "publishedAt": "2020-01-06T10:00:04.000Z",
+    "channelId": "UCIZzHNbzlIskx3TxGznRyYg",
+    "title": "【我々式】受験生を騙す悪魔の皆さんの回答です【大喜利】",
+    "description": "チャンネル登録はこちら https://www.youtube.com/user/NemesisLaAlgol1936?sub_confirmation=1\n\n我々チャンネル → http://ch.nicovideo.jp/warewareda\n我々だコミュ→http://com.nicovideo.jp/community/co2485739\n\n我々だメンバーTwitter！\nグルッペン　 → @sovietunion1945\n鬱先生　　 　→ @utu072\nコネシマ　 　→ @konegisukura\nシャオロン 　→ @shao_banbitan\nゾム　　　 　→ @wrwrdzom\nロボロ　　　 → @roboro_heaven\nトントン　 　→ @ton_ton1945\nオスマン　　 → @OSSUOSSUMAN\nひとらんらん → @gedorunrun\nショッピ　　 →@Peace_wrwrd\nチーノ　　　 →@C1no_wrwrd (多分本物)\n\n我々だ！告知用twitter → @oowareware1945",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/tD1SPfWSd-4/default.jpg",
+      "url": "https://i.ytimg.com/vi/Lx7MOj1GVhA/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/tD1SPfWSd-4/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/Lx7MOj1GVhA/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/tD1SPfWSd-4/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/Lx7MOj1GVhA/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/tD1SPfWSd-4/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/Lx7MOj1GVhA/sddefault.jpg",
       "width": 640,
       "height": 480
      },
      "maxres": {
-      "url": "https://i.ytimg.com/vi/tD1SPfWSd-4/maxresdefault.jpg",
+      "url": "https://i.ytimg.com/vi/Lx7MOj1GVhA/maxresdefault.jpg",
       "width": 1280,
       "height": 720
      }
     },
-    "channelTitle": "莉犬くん",
-    "categoryId": "23",
+    "channelTitle": "主役は我々だ!【グルッペン・フューラー】",
+    "tags": [
+     "我々だ！",
+     "主役は我々だ！",
+     "大喜利",
+     "笑点",
+     "しょーてん",
+     "漫画",
+     "マンガ",
+     "アニメ",
+     "エンターテインメント"
+    ],
+    "categoryId": "24",
     "liveBroadcastContent": "none",
     "localized": {
-     "title": "【アニメ】あけおめWWWWWWWWWWWW",
-     "description": "あけましておめでとう！！\n\n今年もよろしくね🐶❤\n\n\n\n\nIllust：もものふ"
+     "title": "【我々式】受験生を騙す悪魔の皆さんの回答です【大喜利】",
+     "description": "チャンネル登録はこちら https://www.youtube.com/user/NemesisLaAlgol1936?sub_confirmation=1\n\n我々チャンネル → http://ch.nicovideo.jp/warewareda\n我々だコミュ→http://com.nicovideo.jp/community/co2485739\n\n我々だメンバーTwitter！\nグルッペン　 → @sovietunion1945\n鬱先生　　 　→ @utu072\nコネシマ　 　→ @konegisukura\nシャオロン 　→ @shao_banbitan\nゾム　　　 　→ @wrwrdzom\nロボロ　　　 → @roboro_heaven\nトントン　 　→ @ton_ton1945\nオスマン　　 → @OSSUOSSUMAN\nひとらんらん → @gedorunrun\nショッピ　　 →@Peace_wrwrd\nチーノ　　　 →@C1no_wrwrd (多分本物)\n\n我々だ！告知用twitter → @oowareware1945"
     },
     "defaultAudioLanguage": "ja"
    }
   },
   {
    "kind": "youtube#video",
-   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/I7Qarj9Z6xHJg_lilWLDcA57Saw\"",
-   "id": "ZZczsYWyRTw",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/7qcKrVD3SIWn0-pfrFKwAwjdXl4\"",
+   "id": "ONKWu5b1MPk",
    "snippet": {
-    "publishedAt": "2020-01-05T11:00:05.000Z",
-    "channelId": "UCq3YtFr5JWvID4iK9HyrM3Q",
-    "title": "パッキング？10分で終わらせてやるよ【5泊6日韓国旅行編】",
-    "description": "エミリンこと大松絵美です(*⁰▿⁰*)\n1000人の1人の美少女YouTuber（現実はアラサー）\nみなさん応援してくださーーい！\n\nファンレターなどは\n〒106-6137 東京都港区六本木6-10-1\n六本木ヒルズ森タワー37F（South）\nエミリンチャンネル　宛でおねがいします！\n\nお仕事のご依頼は\nUUUMウェブサイトにある「サービス」からお願いします！\n\n👇ツイッター👇\nhttps://mobile.twitter.com/oomatsuemi\n\n👇インスタ👇\n https://www.instagram.com/emirin1004",
+    "publishedAt": "2020-01-06T10:00:04.000Z",
+    "channelId": "UCoFLB_Gw_AoxUuuzKjXrc_Q",
+    "title": "【南野拓実リヴァプールデビュー戦｜ハイライト】南野は先発出場で70分までプレー！｜FAカップ3回戦｜リヴァプール×エヴァートン 2019-20",
+    "description": "🏆FAカップ3回戦\n🆚リヴァプール 1-0 エヴァートン\n⚽\n1-0 カーティス・ジョーンズ（71分）\n\n#欧州サッカー 観るなら #DAZN\n➡加入はコチラ https://bit.ly/2H5Q5pK\n\nDAZN(ダゾーン)は好きなスポーツをいつでも、どこでもライブ中継&見逃し配信できる動画配信アプリです。 プロ野球、サッカー (Jリーグ & 欧州サッカー)、F1™️、テニス、バスケットボール、ラグビー、MLBなどライブスポーツが一番観られるのはDAZN！ \n\nDAZNは1ヶ月お試し¥0 https://watch.dazn.com/ja-JP/most-live-sports/\nDAZN公式ページ：https://www.dazn.com/ja-JP\nDAZN Japan公式YoutubeチャンネルURL：https://goo.gl/VSLeyB\nTwitter：https://twitter.com/dazn_jpn\nFacebook：https://www.facebook.com/DAZNJPN/\nInstagram：https://www.instagram.com/dazn_jpn/\n\n利用規約: https://my.dazn.com/help/terms\nプライバシーポリシー: https://my.dazn.com/help/privacy",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/ZZczsYWyRTw/default.jpg",
+      "url": "https://i.ytimg.com/vi/ONKWu5b1MPk/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/ZZczsYWyRTw/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/ONKWu5b1MPk/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/ZZczsYWyRTw/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/ONKWu5b1MPk/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/ZZczsYWyRTw/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/ONKWu5b1MPk/sddefault.jpg",
       "width": 640,
       "height": 480
      }
     },
-    "channelTitle": "エミリンチャンネル",
-    "categoryId": "26",
+    "channelTitle": "DAZN Japan",
+    "tags": [
+     "リヴァプール",
+     "南野拓実",
+     "マネ",
+     "サラー",
+     "エヴァートン",
+     "イングランド",
+     "プレミアリーグ",
+     "FAカップ",
+     "FA杯",
+     "海外サッカー",
+     "欧州サッカー",
+     "DAZN",
+     "ハイライト",
+     "ダゾーン"
+    ],
+    "categoryId": "17",
     "liveBroadcastContent": "none",
+    "defaultLanguage": "ja",
     "localized": {
-     "title": "パッキング？10分で終わらせてやるよ【5泊6日韓国旅行編】",
-     "description": "エミリンこと大松絵美です(*⁰▿⁰*)\n1000人の1人の美少女YouTuber（現実はアラサー）\nみなさん応援してくださーーい！\n\nファンレターなどは\n〒106-6137 東京都港区六本木6-10-1\n六本木ヒルズ森タワー37F（South）\nエミリンチャンネル　宛でおねがいします！\n\nお仕事のご依頼は\nUUUMウェブサイトにある「サービス」からお願いします！\n\n👇ツイッター👇\nhttps://mobile.twitter.com/oomatsuemi\n\n👇インスタ👇\n https://www.instagram.com/emirin1004"
-    }
+     "title": "【南野拓実リヴァプールデビュー戦｜ハイライト】南野は先発出場で70分までプレー！｜FAカップ3回戦｜リヴァプール×エヴァートン 2019-20",
+     "description": "🏆FAカップ3回戦\n🆚リヴァプール 1-0 エヴァートン\n⚽\n1-0 カーティス・ジョーンズ（71分）\n\n#欧州サッカー 観るなら #DAZN\n➡加入はコチラ https://bit.ly/2H5Q5pK\n\nDAZN(ダゾーン)は好きなスポーツをいつでも、どこでもライブ中継&見逃し配信できる動画配信アプリです。 プロ野球、サッカー (Jリーグ & 欧州サッカー)、F1™️、テニス、バスケットボール、ラグビー、MLBなどライブスポーツが一番観られるのはDAZN！ \n\nDAZNは1ヶ月お試し¥0 https://watch.dazn.com/ja-JP/most-live-sports/\nDAZN公式ページ：https://www.dazn.com/ja-JP\nDAZN Japan公式YoutubeチャンネルURL：https://goo.gl/VSLeyB\nTwitter：https://twitter.com/dazn_jpn\nFacebook：https://www.facebook.com/DAZNJPN/\nInstagram：https://www.instagram.com/dazn_jpn/\n\n利用規約: https://my.dazn.com/help/terms\nプライバシーポリシー: https://my.dazn.com/help/privacy"
+    },
+    "defaultAudioLanguage": "ja"
    }
   }
  ]
@@ -2343,9 +2663,9 @@ var css = "@font-face {\n  font-family: 'MyFont';\n  src: url(../../../../../../
 },{"browserify-css":26}],3:[function(require,module,exports){
 var css = ".sns-icons {\n  position: absolute;\n  top: -60px;\n  left: 0;\n  right: 0;\n  display: flex;\n  justify-content: center;\n  align-items: flex-end;\n}\n.sns-icons img {\n  display: block;\n  border-radius: 100px;\n}\n.active-icon {\n  width: 10%;\n  height: 10%;\n  box-shadow: 2px 2px 4px gray;\n  margin: 0 10px;\n}\n.inactive-icon {\n  width: 7%;\n  height: 7%;\n  box-shadow: 2px 2px 4px gray;\n  margin: 0 8px;\n  line-height: 150px;\n  top: 13%;\n  transform: translateY(-13%);\n}\n.active-icon:hover,\n.inactive-icon:hover {\n  -webkit-transform: translateY(-25px);\n  -ms-transform: translateY(-25px);\n  transform: translateY(-25px);\n}\n"; (require("browserify-css").createStyle(css, { "href": "apps\\webroot\\css\\navi.css" }, { "insertAt": "bottom" })); module.exports = css;
 },{"browserify-css":26}],4:[function(require,module,exports){
-var css = "a {\n  text-decoration: none;\n  color: #000000;\n}\n.left-box {\n  width: 30%;\n  height: 100%;\n}\n.right-box {\n  width: 70%;\n  height: 100%;\n  text-align: left;\n}\n.icon {\n  width: 60px;\n  height: 60px;\n  border-radius: 50px;\n  margin: 10px 0 0 10px;\n}\n.user-name {\n  margin-top: 5px;\n}\n.user-id {\n  margin-top: 0;\n  line-height: 5px;\n}\n.textwrap {\n  margin-top: 25px;\n}\n"; (require("browserify-css").createStyle(css, { "href": "apps\\webroot\\css\\postbox.css" }, { "insertAt": "bottom" })); module.exports = css;
+var css = "a {\n  text-decoration: none;\n  color: #000000;\n}\n.left-box {\n  width: 30%;\n  height: 100%;\n}\n.right-box {\n  width: 70%;\n  height: 248px;\n  text-align: left;\n  padding-right: 10px;\n}\n.icon {\n  width: 60px;\n  height: 60px;\n  border-radius: 50px;\n  margin: 10px 0 0 10px;\n}\n.user-name {\n  margin-top: 5px;\n}\n.user-id {\n  word-break: break-all;\n}\n.text-wrap {\n  margin-top: 25px;\n  overflow: hidden;\n  word-break: break-all;\n  max-height: 170px;\n}\n.text-area {\n  height: 170px;\n}\n.splet {\n  line-height: 1;\n}\n.more-wrap {\n  text-align: center;\n  font-size: 12px;\n  font-weight: bold;\n  margin: 20px 0 15px;\n}\n.more {\n  border-radius: 25px;\n  margin-bottom: 3px;\n  color: #a39e9e;\n}\n\n"; (require("browserify-css").createStyle(css, { "href": "apps\\webroot\\css\\postbox.css" }, { "insertAt": "bottom" })); module.exports = css;
 },{"browserify-css":26}],5:[function(require,module,exports){
-var css = ".main-content {\n  position: relative;\n  padding: 60px 0;\n}\n.main-box {\n  position: relative;\n  background: linear-gradient(-225deg, #ffffff 0%, #EDC8A9 50%, #ffffff 100%);\n  width: 90%;\n  padding-top: 30px;\n  margin: 0 auto;\n  padding-left: 5px;\n  padding-right: 5px;\n}\n.contents-left {\n  position: absolute;\n  width: 380px;\n  top: -70px;\n  left: -60px;\n  z-index: 2;\n}\n.contents-right {\n  position: absolute;\n  width: 380px;\n  z-index: 2;\n  bottom: -75px;\n  right: -60px;\n}\n.search_container {\n  background-color: #ffffff;\n  box-sizing: border-box;\n  position: relative;\n  padding: 3px 10px;\n  border-radius: 20px;\n  height: 2.3em;\n  width: 260px;\n  overflow: hidden;\n  margin: 0 auto 20px;\n  z-index: 3;\n}\n.search_container input[type=\"text\"] {\n  border: none;\n  height: 1.7em;\n  font-size: 1.0em;\n}\n.search_container input[type=\"text\"]:focus {\n  outline: 0;\n}\n.search_container input[type=\"submit\"] {\n  cursor: pointer;\n  font-family: FontAwesome;\n  font-size: 1.3em;\n  border: none;\n  background: none;\n  color: #3879D9;\n  position: absolute;\n  width: 2.5em;\n  height: 2.7em;\n  right: 0;\n  top: -10px;\n  outline: none;\n}\n.flexcontainer {\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  position: relative;\n  z-index: 3;\n  margin-top: 80px;\n}\n.flexitem {\n  background-color: #ffffff;\n  width: 280px;\n  height: 220px;\n  text-align: center;\n  box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.1);\n  margin: 5px;\n}\n.box {\n  width: 280px;\n  height: 220px;\n  display: flex;\n  text-decoration: none;\n}\n.more-text {\n  color: #ffffff;\n  font-size: 20px;\n  font-weight: bold;\n  padding: 30px 0;\n  text-align: center;\n  text-shadow: 2px 2px 3px #000505;\n}\n.open_button:hover {\n  color: #FF6C00;\n  cursor: pointer;\n}\n.modal-wrapper {\n  z-index: 999;\n  position: fixed;\n  top: 0;\n  right: 0;\n  bottom: 0;\n  left: 0;\n  padding: 40px 10px;\n  text-align: center;\n}\n.modal-wrapper:not(:target) {\n  opacity: 0;\n  visibility: hidden;\n  transition: opacity .3s, visibility .3s;\n}\n.modal-wrapper:target {\n  opacity: 1;\n  visibility: visible;\n  transition: opacity .4s, visibility .4s;\n}\n.modal-wrapper::after {\n  display: inline-block;\n  height: 100%;\n  margin-left: -.05em;\n  vertical-align: middle;\n  content: \"\";\n}\n.modal-wrapper .modal-window {\n  box-sizing: border-box;\n  display: inline-block;\n  z-index: 20;\n  position: relative;\n  width: 70%;\n  max-width: 600px;\n  padding: 30px 30px 15px;\n  border-radius: 2px;\n  background: #fff;\n  box-shadow: 0 0 30px rgba(0, 0, 0, .6);\n  vertical-align: middle;\n}\n.modal-wrapper .modal-window .modal-content {\n  max-height: 80vh;\n  overflow-y: auto;\n  text-align: left;\n}\n.modal-overlay {\n  z-index: 10;\n  position: absolute;\n  top: 0;\n  right: 0;\n  bottom: 0;\n  left: 0;\n  background: rgba(0, 0, 0, .8);\n}\n.modal-wrapper .modal-close {\n  z-index: 20;\n  position: absolute;\n  top: 0;\n  right: 0;\n  width: 35px;\n  color: #95979c !important;\n  font-size: 20px;\n  font-weight: 700;\n  line-height: 35px;\n  text-align: center;\n  text-decoration: none;\n  text-indent: 0;\n}\n.modal-wrapper .modal-close:hover {\n  color: #2b2e38 !important;\n}\n"; (require("browserify-css").createStyle(css, { "href": "apps\\webroot\\css\\twitter.css" }, { "insertAt": "bottom" })); module.exports = css;
+var css = ".main-content {\n  position: relative;\n  padding: 60px 0;\n}\n.main-box {\n  position: relative;\n  background: linear-gradient(-225deg, #ffffff 0%, #EDC8A9 50%, #ffffff 100%);\n  width: 90%;\n  padding-top: 30px;\n  margin: 0 auto;\n  padding-left: 5px;\n  padding-right: 5px;\n}\n.contents-left {\n  position: absolute;\n  width: 380px;\n  top: -70px;\n  left: -60px;\n  z-index: 2;\n}\n.contents-right {\n  position: absolute;\n  width: 380px;\n  z-index: 2;\n  bottom: -75px;\n  right: -60px;\n}\n.search_container {\n  background-color: #ffffff;\n  box-sizing: border-box;\n  position: relative;\n  padding: 3px 10px;\n  border-radius: 20px;\n  height: 2.3em;\n  width: 260px;\n  overflow: hidden;\n  margin: 0 auto 20px;\n  z-index: 3;\n}\n.search_container input[type=\"text\"] {\n  border: none;\n  height: 1.7em;\n  font-size: 1.0em;\n}\n.search_container input[type=\"text\"]:focus {\n  outline: 0;\n}\n.search_container input[type=\"submit\"] {\n  cursor: pointer;\n  font-family: FontAwesome;\n  font-size: 1.3em;\n  border: none;\n  background: none;\n  color: #3879D9;\n  position: absolute;\n  width: 2.5em;\n  height: 2.7em;\n  right: 0;\n  top: -10px;\n  outline: none;\n}\n.flexcontainer {\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  position: relative;\n  z-index: 3;\n  margin-top: 80px;\n}\n.flexitem {\n  background-color: #ffffff;\n  width: 280px;\n  /* height: 220px; */\n  text-align: center;\n  box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.1);\n  margin: 5px;\n}\n.box {\n  width: 280px;\n  /* height: 220px; */\n  display: flex;\n  text-decoration: none;\n}\n.more-text {\n  color: #ffffff;\n  font-size: 20px;\n  font-weight: bold;\n  padding: 30px 0;\n  text-align: center;\n  text-shadow: 2px 2px 3px #000505;\n}\n.open_button:hover {\n  color: #FF6C00;\n  cursor: pointer;\n}\n.modal-wrapper {\n  z-index: 999;\n  position: fixed;\n  top: 0;\n  right: 0;\n  bottom: 0;\n  left: 0;\n  padding: 40px 10px;\n  text-align: center;\n}\n.modal-wrapper:not(:target) {\n  opacity: 0;\n  visibility: hidden;\n  transition: opacity .3s, visibility .3s;\n}\n.modal-wrapper:target {\n  opacity: 1;\n  visibility: visible;\n  transition: opacity .4s, visibility .4s;\n}\n.modal-wrapper::after {\n  display: inline-block;\n  height: 100%;\n  margin-left: -.05em;\n  vertical-align: middle;\n  content: \"\";\n}\n.modal-wrapper .modal-window {\n  box-sizing: border-box;\n  display: inline-block;\n  z-index: 20;\n  position: relative;\n  width: 70%;\n  max-width: 600px;\n  padding: 30px 30px 15px;\n  border-radius: 2px;\n  background: #fff;\n  box-shadow: 0 0 30px rgba(0, 0, 0, .6);\n  vertical-align: middle;\n}\n.modal-wrapper .modal-window .modal-content {\n  max-height: 80vh;\n  overflow-y: auto;\n  text-align: left;\n}\n.modal-overlay {\n  z-index: 10;\n  position: absolute;\n  top: 0;\n  right: 0;\n  bottom: 0;\n  left: 0;\n  background: rgba(0, 0, 0, .8);\n}\n.modal-wrapper .modal-close {\n  z-index: 20;\n  position: absolute;\n  top: 0;\n  right: 0;\n  width: 35px;\n  color: #95979c !important;\n  font-size: 20px;\n  font-weight: 700;\n  line-height: 35px;\n  text-align: center;\n  text-decoration: none;\n  text-indent: 0;\n}\n.modal-wrapper .modal-close:hover {\n  color: #2b2e38 !important;\n}\n"; (require("browserify-css").createStyle(css, { "href": "apps\\webroot\\css\\twitter.css" }, { "insertAt": "bottom" })); module.exports = css;
 },{"browserify-css":26}],6:[function(require,module,exports){
 "use strict";
 
@@ -2594,8 +2914,7 @@ var _imageUrl = require("../const/imageUrl");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
-var Postbox = function Postbox(props) {
-  console.log(props);
+var Postbox = function Postbox(result) {
   return _react["default"].createElement("div", {
     className: "flexitem item1"
   }, _react["default"].createElement("a", {
@@ -2605,17 +2924,25 @@ var Postbox = function Postbox(props) {
   }, _react["default"].createElement("div", {
     className: "left-box"
   }, _react["default"].createElement("img", {
-    src: _imageUrl.imageUrl.defaultIcon,
+    src: result.result.profile_image_url,
     className: "icon"
   })), _react["default"].createElement("div", {
     className: "right-box"
   }, _react["default"].createElement("p", {
     className: "user-name"
-  }, _react["default"].createElement("b", null, "Yoshida")), _react["default"].createElement("p", {
+  }, _react["default"].createElement("b", null, result.result.user_name)), _react["default"].createElement("p", {
     className: "user-id"
-  }, "@yoshida7211"), _react["default"].createElement("div", {
-    className: "textwrap"
-  }, "\u30C6\u30AD\u30B9\u30C8\u8868\u793A \u9577\u3051\u308C\u3070hidden\u306B\u3059\u308B")))));
+  }, "@", result.result.user_screen_name), _react["default"].createElement("div", {
+    className: "text-area"
+  }, _react["default"].createElement("div", {
+    className: "text-wrap"
+  }, result.result.text), _react["default"].createElement("p", {
+    className: "splet"
+  }, "...")))), _react["default"].createElement("div", {
+    className: "more-wrap"
+  }, _react["default"].createElement("div", {
+    className: "more"
+  }, "\u7D9A\u304D\u3092\u898B\u308B"))));
 };
 
 exports.Postbox = Postbox;
@@ -2795,8 +3122,6 @@ var _FetchJson = require("../fetch/FetchJson");
 
 require("../../../css/home.css");
 
-var _result = _interopRequireDefault(require("../../../../api_result/result.json"));
-
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
@@ -2829,17 +3154,12 @@ function (_React$Component) {
   }
 
   _createClass(Home, [{
-    key: "componentDidMount",
-    value: function componentDidMount() {
-      this.props.registResultJson(_result["default"]);
-    }
+    key: "render",
+
     /** 
      * ①componentDidMountで非同期関数実行
      * ②store保存
      **/
-
-  }, {
-    key: "render",
     value: function render() {
       return _react["default"].createElement("div", {
         className: "wrapper"
@@ -2862,7 +3182,7 @@ function (_React$Component) {
 
 exports["default"] = Home;
 
-},{"../../../../api_result/result.json":1,"../../../css/home.css":2,"../const/imageUrl":12,"../fetch/FetchJson":15,"react":80}],17:[function(require,module,exports){
+},{"../../../css/home.css":2,"../const/imageUrl":12,"../fetch/FetchJson":15,"react":80}],17:[function(require,module,exports){
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -2880,11 +3200,14 @@ var _Twittermodal = require("../components/Twittermodal");
 
 var _NaviContainer = _interopRequireDefault(require("../containers/NaviContainer"));
 
+var _result = _interopRequireDefault(require("../../../../api_result/result.json"));
+
 require("../../../css/twitter.css");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
 var Twitter = function Twitter(props) {
+  var twitterResult = _result["default"].twitter_result[3].items[3];
   return _react["default"].createElement(_react["default"].Fragment, null, _react["default"].createElement(_NaviContainer["default"], {
     props: props
   }), _react["default"].createElement("div", {
@@ -2898,30 +3221,22 @@ var Twitter = function Twitter(props) {
   }), _react["default"].createElement("div", {
     className: "flexcontainer"
   }, _react["default"].createElement(_Postbox.Postbox, {
-    props: props
-  }), _react["default"].createElement(_Twittermodal.Twittermodal, {
-    props: props
-  }), _react["default"].createElement(_Postbox.Postbox, {
-    props: props
-  }), _react["default"].createElement(_Twittermodal.Twittermodal, {
-    props: props
-  }), _react["default"].createElement(_Postbox.Postbox, {
-    props: props
-  }), _react["default"].createElement(_Twittermodal.Twittermodal, {
-    props: props
-  }), _react["default"].createElement(_Postbox.Postbox, {
-    props: props
-  }), _react["default"].createElement(_Twittermodal.Twittermodal, {
-    props: props
-  }), _react["default"].createElement(_Postbox.Postbox, {
-    props: props
-  }), _react["default"].createElement(_Twittermodal.Twittermodal, {
-    props: props
-  }), _react["default"].createElement(_Postbox.Postbox, {
-    props: props
-  }), _react["default"].createElement(_Twittermodal.Twittermodal, {
-    props: props
-  })), _react["default"].createElement("div", {
+    result: twitterResult
+  }), _react["default"].createElement(_Twittermodal.Twittermodal, null), _react["default"].createElement(_Postbox.Postbox, {
+    result: twitterResult
+  }), _react["default"].createElement(_Twittermodal.Twittermodal, null), _react["default"].createElement(_Postbox.Postbox, {
+    result: twitterResult
+  }), _react["default"].createElement(_Twittermodal.Twittermodal, null), _react["default"].createElement(_Postbox.Postbox, {
+    result: twitterResult
+  }), _react["default"].createElement(_Twittermodal.Twittermodal, null), _react["default"].createElement(_Postbox.Postbox, {
+    result: twitterResult
+  }), _react["default"].createElement(_Twittermodal.Twittermodal, null), _react["default"].createElement(_Postbox.Postbox, {
+    result: twitterResult
+  }), _react["default"].createElement(_Twittermodal.Twittermodal, null), _react["default"].createElement(_Postbox.Postbox, {
+    result: twitterResult
+  }), _react["default"].createElement(_Twittermodal.Twittermodal, null), _react["default"].createElement(_Postbox.Postbox, {
+    result: twitterResult
+  }), _react["default"].createElement(_Twittermodal.Twittermodal, null)), _react["default"].createElement("div", {
     className: "more-text"
   }, _react["default"].createElement("label", {
     htmlFor: "trigger",
@@ -2931,7 +3246,7 @@ var Twitter = function Twitter(props) {
 
 exports.Twitter = Twitter;
 
-},{"../../../css/twitter.css":5,"../components/Postbox":10,"../components/Twittermodal":11,"../const/imageUrl":12,"../containers/NaviContainer":14,"react":80}],18:[function(require,module,exports){
+},{"../../../../api_result/result.json":1,"../../../css/twitter.css":5,"../components/Postbox":10,"../components/Twittermodal":11,"../const/imageUrl":12,"../containers/NaviContainer":14,"react":80}],18:[function(require,module,exports){
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -2949,11 +3264,15 @@ var _Twittermodal = require("../components/Twittermodal");
 
 var _NaviContainer = _interopRequireDefault(require("../containers/NaviContainer"));
 
+var _result = _interopRequireDefault(require("../../../../api_result/result.json"));
+
 require("../../../css/twitter.css");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
 var Youtube = function Youtube(props) {
+  var youtubeResult = _result["default"].youtube_result;
+  console.log(youtubeResult);
   return _react["default"].createElement(_react["default"].Fragment, null, _react["default"].createElement(_NaviContainer["default"], {
     props: props
   }), _react["default"].createElement("div", {
@@ -2966,7 +3285,7 @@ var Youtube = function Youtube(props) {
     src: _imageUrl.imageUrl.contentsRight
   }), _react["default"].createElement("div", {
     className: "flexcontainer"
-  }, _react["default"].createElement(_Postbox.Postbox, null), _react["default"].createElement(_Twittermodal.Twittermodal, null), _react["default"].createElement(_Postbox.Postbox, null), _react["default"].createElement(_Twittermodal.Twittermodal, null), _react["default"].createElement(_Postbox.Postbox, null), _react["default"].createElement(_Twittermodal.Twittermodal, null), _react["default"].createElement(_Postbox.Postbox, null), _react["default"].createElement(_Twittermodal.Twittermodal, null), _react["default"].createElement(_Postbox.Postbox, null), _react["default"].createElement(_Twittermodal.Twittermodal, null), _react["default"].createElement(_Postbox.Postbox, null), _react["default"].createElement(_Twittermodal.Twittermodal, null), _react["default"].createElement(_Postbox.Postbox, null), _react["default"].createElement(_Twittermodal.Twittermodal, null), _react["default"].createElement(_Postbox.Postbox, null), _react["default"].createElement(_Twittermodal.Twittermodal, null)), _react["default"].createElement("div", {
+  }), _react["default"].createElement("div", {
     className: "more-text"
   }, _react["default"].createElement("label", {
     htmlFor: "trigger",
@@ -2976,7 +3295,7 @@ var Youtube = function Youtube(props) {
 
 exports.Youtube = Youtube;
 
-},{"../../../css/twitter.css":5,"../components/Postbox":10,"../components/Twittermodal":11,"../const/imageUrl":12,"../containers/NaviContainer":14,"react":80}],19:[function(require,module,exports){
+},{"../../../../api_result/result.json":1,"../../../css/twitter.css":5,"../components/Postbox":10,"../components/Twittermodal":11,"../const/imageUrl":12,"../containers/NaviContainer":14,"react":80}],19:[function(require,module,exports){
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {

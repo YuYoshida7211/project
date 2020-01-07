@@ -3,11 +3,12 @@ import { imageUrl } from '../const/imageUrl';
 import { Postbox } from '../components/Postbox';
 import { Twittermodal } from '../components/Twittermodal';
 import NaviContainer from '../containers/NaviContainer';
-
+import resultJson from '../../../../api_result/result.json';
 
 import '../../../css/twitter.css';
 
 export const Twitter = (props) => {
+    const twitterResult = resultJson.twitter_result[3].items[3];
     return (
         <React.Fragment>
             {/**
@@ -23,18 +24,23 @@ export const Twitter = (props) => {
                 <img className="contents-left" src={imageUrl.contentsLeft} />
                 <img className="contents-right" src={imageUrl.contentsRight} />
                 <div className="flexcontainer">
-                    <Postbox props={props} />
-                    <Twittermodal props={props} />
-                    <Postbox props={props} />
-                    <Twittermodal props={props} />
-                    <Postbox props={props} />
-                    <Twittermodal props={props} />
-                    <Postbox props={props} />
-                    <Twittermodal props={props} />
-                    <Postbox props={props} />
-                    <Twittermodal props={props} />
-                    <Postbox props={props} />
-                    <Twittermodal props={props} />
+                    <Postbox result={twitterResult} />
+                    <Twittermodal />
+                    <Postbox result={twitterResult} />
+                    <Twittermodal />
+                    <Postbox result={twitterResult} />
+                    <Twittermodal />
+                    <Postbox result={twitterResult} />
+                    <Twittermodal />
+                    <Postbox result={twitterResult} />
+                    <Twittermodal />
+                    <Postbox result={twitterResult} />
+                    <Twittermodal />
+                    <Postbox result={twitterResult} />
+                    <Twittermodal />
+                    <Postbox result={twitterResult} />
+                    <Twittermodal />
+
                 </div>
                 <div className="more-text">
                     <label htmlFor="trigger" className="open_button">MORE</label>

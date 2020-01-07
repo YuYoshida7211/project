@@ -8,8 +8,9 @@ a{
 }
 .right-box{
     width: 70%;
-    height:100%;
+    height:248px;
     text-align: left;
+    padding-right: 10px;
 }
 .icon{
     width:60px;
@@ -21,9 +22,32 @@ a{
     margin-top: 5px;
 }
 .user-id{
-    margin-top:0;
-    line-height: 5px;
+    word-break: break-all;
 }
-.textwrap{
+.text-wrap{
     margin-top: 25px;
+    overflow:hidden;
+    word-break: break-all;
+    max-height: 170px;
+}
+.text-area{
+    height:170px;
+}
+
+.splet{
+    line-height: 1;
+}
+.more-wrap{
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 20px 0 15px;
+}
+.more{
+    border-radius: 25px;
+    margin-bottom: 3px;
+    color:#a39e9e;
+}
+.more:hover{
+    
 }
