@@ -103,7 +103,7 @@ Router::defaultRouteClass(DashedRoute::class);
 
 Router::scope('/', function (RouteBuilder $routes) {
 
-    $routes->connect('/*');
+    $routes->connect('/', ['controller' => 'Main']);
     $routes->fallbacks(DashedRoute::class);
 
 });
