@@ -98,18 +98,28 @@ $routes->scope('/', function (RouteBuilder $builder) {
  * ```
  */
 
+// 追加部分
+Router::defaultRouteClass(DashedRoute::class);
 
-//  追加部分
-Router::scope('/api', function (RouteBuilder $routes) {
+Router::scope('/', function (RouteBuilder $routes) {
 
-    $routes->connect('/api');
+    $routes->connect('/*');
     $routes->fallbacks(DashedRoute::class);
 
 });
 
-Router::prefix('api', function ($routes) {
-    $routes->setExtensions(['json']);
-    $routes->resources('Apples');
-    $routes->resources('Twitter');
-    $routes->resources('Youtube');
-});
+// 一応残しておく
+// Router::scope('/api', function (RouteBuilder $routes) {
+
+//     $routes->connect('/*', ['controller' => 'Api']);
+//     $routes->fallbacks(DashedRoute::class);
+
+// });
+
+// REST Apiの設定
+// Router::prefix('api', function ($routes) {
+//     $routes->setExtensions(['json']);
+//     $routes->resources('Apples');
+//     $routes->resources('Twitter');
+//     $routes->resources('Youtube');
+// });

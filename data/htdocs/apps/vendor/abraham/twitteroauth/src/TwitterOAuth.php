@@ -436,7 +436,7 @@ class TwitterOAuth extends Config
      * @return string
      * @throws TwitterOAuthException
      */
-    public function oAuthRequest($url, $method, array $parameters, $json = false)
+    private function oAuthRequest($url, $method, array $parameters, $json = false)
     {
         $request = Request::fromConsumerAndToken($this->consumer, $this->token, $method, $url, $parameters, $json);
         if (array_key_exists('oauth_callback', $parameters)) {
