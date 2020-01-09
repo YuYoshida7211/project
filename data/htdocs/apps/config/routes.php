@@ -117,9 +117,9 @@ Router::scope('/', function (RouteBuilder $routes) {
 // });
 
 // REST Apiの設定
-// Router::prefix('api', function ($routes) {
-//     $routes->setExtensions(['json']);
-//     $routes->resources('Apples');
-//     $routes->resources('Twitter');
-//     $routes->resources('Youtube');
-// });
+Router::prefix('api', function ($routes) {
+    $routes->setExtensions(['json']);
+    $routes->resources('Result');
+    $routes->resources('Twitter');
+    $routes->resources('Youtube');
+});
