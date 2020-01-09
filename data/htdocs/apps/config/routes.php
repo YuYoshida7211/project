@@ -112,7 +112,7 @@ Router::scope('/api', function (RouteBuilder $routes) {
 
 Router::scope('/', function (RouteBuilder $routes) {
 
-    $routes->connect('/*', ['controller' => 'Main']);
+    $routes->connect('/', ['controller' => 'Main']);
     $routes->fallbacks(DashedRoute::class);
 
     // $routes->connect('/a', ['controller' => 'Main' , 'action' => 'a']);
@@ -122,7 +122,7 @@ Router::scope('/', function (RouteBuilder $routes) {
 });
 Router::prefix('api', function ($routes) {
     $routes->setExtensions(['json']);
-    $routes->resources('Apples');
+    $routes->resources('Result');
     $routes->resources('Twitter');
     $routes->resources('Youtube');
 });

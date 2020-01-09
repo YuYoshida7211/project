@@ -37,7 +37,7 @@ class twitterController extends Controller
             // キーワード検索してtweetを取得する
             $statuses = $connection->get ( 'search/tweets', array (
             'lang' => 'ja',
-            'q' => $trend_word,
+            'q' =>  $trend_word . 'exclude:retweets',
             'result_type' => 'recent', // 最新投稿
             'tweet_mode' => 'extended', //全文取得
             'count' => '10'
