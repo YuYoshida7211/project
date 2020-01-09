@@ -2,20 +2,21 @@ import React from 'react';
 import '../../../css/postbox.css';
 import { imageUrl } from '../const/imageUrl'
 
-export const Postbox = (result) => {
+export const Postbox = (props) => {
+    // console.log(props)
     return (
         <div className="flexitem item1">
-            <a href="#modal-01">
+            <a href={'#' + props.uniqueId}>
                 <div className="box">
                     <div className='left-box'>
-                        <img src={result.result.profile_image_url} className='icon' />
+                        <img src={props.result.profile_image_url} className='icon' />
                     </div>
                     <div className='right-box'>
-                        <p className="user-name"><b>{result.result.user_name}</b></p>
-                        <p className="user-id">@{result.result.user_screen_name}</p>
+                        <p className="user-name"><b>{props.result.user_name}</b></p>
+                        <p className="user-id">@{props.result.user_screen_name}</p>
                         <div className="text-area">
                             <div className='text-wrap'>
-                                {result.result.text}
+                                {props.result.text}
                             </div>
                             <p className="splet">...</p>
                         </div>

@@ -10,13 +10,15 @@ export const choiceService = (data, target) => {
 
 export const choicePost = (data, target, usePosts) => {
     const jsonData = data[target];
+    console.log(data)
     const postKeyArray = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
     let useCategory = [];
     let useData = [];
-
+    console.log(jsonData)
     // カテゴリ4つ選択
     for (let i = 0; i < usePosts.length; i++) {
         useCategory.push(jsonData[usePosts[i]])
+        console.log(jsonData[usePosts[i]])
     }
     for (let i = postKeyArray.length - 1; i >= 0; i--) {
         let r = Math.floor(Math.random() * (i + 1));

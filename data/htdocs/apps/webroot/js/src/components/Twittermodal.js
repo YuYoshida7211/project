@@ -1,44 +1,19 @@
 import React from 'react';
-
-export const Twittermodal = () => {
+import '../../../css/twittermodal.css';
+export const Twittermodal = (props) => {
+    // console.log(props)
     return (
-        <div className="modal-wrapper" id="modal-01">
+        <div className="modal-wrapper" id={props.uniqueId}>
             <a href="#!" className="modal-overlay"></a>
             <div className="modal-window">
                 <div className="modal-content">
-                    <h4>テキストテキスト①</h4>
-                    <p>
-                        テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト<br />
-                        テキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト<br />
-                        テキストテキストテキストテキストテキストテキストテキストテキスト<br />
-                        テキストテキストテキストテキストテキストテキストテキストテキスト<br />
-                        テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト<br />
-                        テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト<br />
-                        テキストテキストテキストテキストテキストテキスト<br />
-                        テキストテキストテキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキストテキスト<br />
-                        テキスト
-                                </p>
+                    <img src={props.result.profile_image_url} />
+                    <p>{props.result.user_name}</p>
+                    <p>@{props.result.user_screen_name}</p>
+                    <p>{props.result.text}</p>
+                    {/* <div>
+                        <img src={props.result.media.} />
+                    </div> */}
                 </div>
                 <a href="#!" className="modal-close">×</a>
             </div>
