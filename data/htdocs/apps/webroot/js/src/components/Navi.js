@@ -8,6 +8,12 @@ export class Navi extends React.Component {
     constructor(props) {
         super(props);
     }
+    componentDidMount() {
+        const currentUrl = location.pathname;
+        if (currentUrl === '/youtube') {
+            this.props.changeIconYoutube();
+        }
+    }
     transition(url, callback) {
         this.props.props.history.push(url);
         callback;

@@ -42,6 +42,14 @@ const reducer = (state = initialState, action) => {
             });
         }
 
+        case 'REGISTYOUTUBELIST': {
+            return Object.assign({}, state, {
+                result: Object.assign({}, state.result, {
+                    youtube: action.value,
+                }),
+            });
+        }
+
         default: {
             return state
         }

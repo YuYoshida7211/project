@@ -1,8 +1,8 @@
-export const getResultJson = (url) => {
-    return fetch(url)
+export const getResultJson = (url, callback) => {
+    fetch(url)
         .then((response) => response.json())
         .then((responseJson) => {
-            console.log(responseJson)
+            callback(responseJson);
         })
         .catch((error) => {
             console.error(error);

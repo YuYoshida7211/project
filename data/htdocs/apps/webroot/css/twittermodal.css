@@ -36,7 +36,7 @@
   position: relative;
   width: 70%;
   max-width: 600px;
-  padding: 30px 30px 15px;
+  padding: 20px;
   border-radius: 2px;
   background: #fff;
   box-shadow: 0 0 30px rgba(0, 0, 0, .6);
@@ -76,4 +76,29 @@
 
 .modal-wrapper .modal-close:hover {
   color: #2b2e38 !important
+}
+
+.modal-user-content{
+  display: flex;
+}
+.modal-icon-wrap{
+  width:80px;
+}
+
+.modal-icon{
+  border-radius: 50px;
+  width:80px;
+}
+.modal-user-wrap{
+  width:80%;
+  padding-left: 5px;
+}
+
+.modal-user-name{
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.modal-user-id{
+  font-size: 12px;
 }

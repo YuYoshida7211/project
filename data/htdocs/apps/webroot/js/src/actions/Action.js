@@ -5,6 +5,13 @@ const Actions = {
             value,
         }
     },
+    registYoutubeList(value) {
+        return {
+            type: 'REGISTYOUTUBELIST',
+            value,
+        }
+    },
+
     changeIconTwitter() {
         return {
             type: 'CHANGEICONTWITTER',

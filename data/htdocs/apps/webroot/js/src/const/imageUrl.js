@@ -1,6 +1,7 @@
 export const imageUrl = {
     top: '../../../img/top.jpg',
     logo: '../../../img/logo.png',
+    loading: '../../../img/loading.gif',
     contentsLeft: '../../../img/contents_left.png',
     contentsRight: '../../../img/contents_right.png',
     defaultIcon: '../../../img/icon.jpg',
