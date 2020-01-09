@@ -1,11 +1,9 @@
 <?php
-
 /**
  * The most popular PHP library for use with the Twitter OAuth REST API.
  *
  * @license MIT
  */
-
 namespace Abraham\TwitterOAuth;
 
 use Abraham\TwitterOAuth\Util\JsonDecoder;
@@ -294,10 +292,8 @@ class TwitterOAuth extends Config
      */
     private function uploadMediaNotChunked($path, array $parameters)
     {
-        if (
-            !is_readable($parameters['media']) ||
-            ($file = file_get_contents($parameters['media'])) === false
-        ) {
+        if (! is_readable($parameters['media']) ||
+            ($file = file_get_contents($parameters['media'])) === false) {
             throw new \InvalidArgumentException('You must supply a readable file');
         }
         $parameters['media'] = base64_encode($file);
@@ -440,7 +436,7 @@ class TwitterOAuth extends Config
      * @return string
      * @throws TwitterOAuthException
      */
-    public function oAuthRequest($url, $method, array $parameters, $json = false)
+    private function oAuthRequest($url, $method, array $parameters, $json = false)
     {
         $request = Request::fromConsumerAndToken($this->consumer, $this->token, $method, $url, $parameters, $json);
         if (array_key_exists('oauth_callback', $parameters)) {
@@ -576,7 +572,7 @@ class TwitterOAuth extends Config
         $headers = [];
         foreach (explode("\r\n", $header) as $line) {
             if (strpos($line, ':') !== false) {
-                list($key, $value) = explode(': ', $line);
+                list ($key, $value) = explode(': ', $line);
                 $key = str_replace('-', '_', strtolower($key));
                 $headers[$key] = trim($value);
             }

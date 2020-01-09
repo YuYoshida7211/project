@@ -5,7 +5,7 @@ import { Twittermodal } from '../components/Twittermodal';
 import NaviContainer from '../containers/NaviContainer';
 import { choiceService, choicePost } from '../service/Choice';
 import resultJson from '../../../../api_result/result.json';
-import { timeStamp } from '../service/Date';
+import { getResultJson } from '../fetch/Fetch'
 import '../../../css/twitter.css';
 
 export default class Twitter extends React.Component {
@@ -13,6 +13,7 @@ export default class Twitter extends React.Component {
         const usePosts = choiceService(resultJson, 'twitter_result');
         const useData = choicePost(resultJson, 'twitter_result', usePosts);
         this.props.registTwitterList(useData);
+        getResultJson('https://jsondata.okiba.me/v1/json/3DG6U200109154755');
     }
     render() {
         let postArea = [];
@@ -22,6 +23,8 @@ export default class Twitter extends React.Component {
                 postArea.push(<Postbox result={this.props.result.twitter[i]} key={i} uniqueId={i} />)
                 postArea.push(<Twittermodal result={this.props.result.twitter[i]} key={i + 10} uniqueId={i} />)
             }
+        } else {
+            postArea = ['ローディングコンポーネント表示']
         }
         return (
             <React.Fragment>

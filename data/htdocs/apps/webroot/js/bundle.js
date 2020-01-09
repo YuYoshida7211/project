@@ -3820,7 +3820,7 @@ function (_React$Component) {
 var _default = App;
 exports["default"] = _default;
 
-},{"./containers/HomeContainer":14,"./containers/TwitterContainer":16,"./pages/Youtube":19,"react":83,"react-router-dom":77}],8:[function(require,module,exports){
+},{"./containers/HomeContainer":14,"./containers/TwitterContainer":16,"./pages/Youtube":20,"react":83,"react-router-dom":77}],8:[function(require,module,exports){
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -3879,7 +3879,7 @@ _reactDom["default"].render(_react["default"].createElement(_reactRedux.Provider
 var _default = store;
 exports["default"] = _default;
 
-},{"./App":7,"./reducers/reducer":20,"react":83,"react-dom":48,"react-redux":66,"redux":84}],10:[function(require,module,exports){
+},{"./App":7,"./reducers/reducer":21,"react":83,"react-dom":48,"react-redux":66,"redux":84}],10:[function(require,module,exports){
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -4143,7 +4143,7 @@ var _default = (0, _reactRedux.connect)(mapStateToProps, mapDispatchToProps)(_Ho
 
 exports["default"] = _default;
 
-},{"../actions/Action":8,"../pages/Home":17,"react-redux":66}],15:[function(require,module,exports){
+},{"../actions/Action":8,"../pages/Home":18,"react-redux":66}],15:[function(require,module,exports){
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -4210,7 +4210,27 @@ var _default = (0, _reactRedux.connect)(mapStateToProps, mapDispatchToProps)(_Tw
 
 exports["default"] = _default;
 
-},{"../actions/Action":8,"../pages/Twitter":18,"react-redux":66}],17:[function(require,module,exports){
+},{"../actions/Action":8,"../pages/Twitter":19,"react-redux":66}],17:[function(require,module,exports){
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.getResultJson = void 0;
+
+var getResultJson = function getResultJson(url) {
+  return fetch(url).then(function (response) {
+    return response.json();
+  }).then(function (responseJson) {
+    console.log(responseJson);
+  })["catch"](function (error) {
+    console.error(error);
+  });
+};
+
+exports.getResultJson = getResultJson;
+
+},{}],18:[function(require,module,exports){
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -4284,7 +4304,7 @@ function (_React$Component) {
 
 exports["default"] = Home;
 
-},{"../../../css/home.css":2,"../const/imageUrl":13,"react":83}],18:[function(require,module,exports){
+},{"../../../css/home.css":2,"../const/imageUrl":13,"react":83}],19:[function(require,module,exports){
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -4306,7 +4326,7 @@ var _Choice = require("../service/Choice");
 
 var _result = _interopRequireDefault(require("../../../../api_result/result.json"));
 
-var _Date = require("../service/Date");
+var _Fetch = require("../fetch/Fetch");
 
 require("../../../css/twitter.css");
 
@@ -4347,6 +4367,7 @@ function (_React$Component) {
       var usePosts = (0, _Choice.choiceService)(_result["default"], 'twitter_result');
       var useData = (0, _Choice.choicePost)(_result["default"], 'twitter_result', usePosts);
       this.props.registTwitterList(useData);
+      (0, _Fetch.getResultJson)('https://jsondata.okiba.me/v1/json/3DG6U200109154755');
     }
   }, {
     key: "render",
@@ -4394,7 +4415,7 @@ function (_React$Component) {
 
 exports["default"] = Twitter;
 
-},{"../../../../api_result/result.json":1,"../../../css/twitter.css":5,"../components/Postbox":11,"../components/Twittermodal":12,"../const/imageUrl":13,"../containers/NaviContainer":15,"../service/Choice":21,"../service/Date":22,"react":83}],19:[function(require,module,exports){
+},{"../../../../api_result/result.json":1,"../../../css/twitter.css":5,"../components/Postbox":11,"../components/Twittermodal":12,"../const/imageUrl":13,"../containers/NaviContainer":15,"../fetch/Fetch":17,"../service/Choice":22,"react":83}],20:[function(require,module,exports){
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -4443,7 +4464,7 @@ var Youtube = function Youtube(props) {
 
 exports.Youtube = Youtube;
 
-},{"../../../../api_result/result.json":1,"../../../css/twitter.css":5,"../components/Postbox":11,"../components/Twittermodal":12,"../const/imageUrl":13,"../containers/NaviContainer":15,"react":83}],20:[function(require,module,exports){
+},{"../../../../api_result/result.json":1,"../../../css/twitter.css":5,"../components/Postbox":11,"../components/Twittermodal":12,"../const/imageUrl":13,"../containers/NaviContainer":15,"react":83}],21:[function(require,module,exports){
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -4512,7 +4533,7 @@ var reducer = function reducer() {
 var _default = reducer;
 exports["default"] = _default;
 
-},{}],21:[function(require,module,exports){
+},{}],22:[function(require,module,exports){
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -4568,24 +4589,6 @@ var choicePost = function choicePost(data, target, usePosts) {
 };
 
 exports.choicePost = choicePost;
-
-},{}],22:[function(require,module,exports){
-"use strict";
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.timeStamp = void 0;
-
-function _readOnlyError(name) { throw new Error("\"" + name + "\" is read-only"); }
-
-var timeStamp = function timeStamp(myStrong) {
-  var strong = 1000;
-  if (myStrong) strong = (_readOnlyError("strong"), myStrong);
-  return new Date().getTime().toString(16) + Math.floor(strong * Math.random()).toString(16);
-};
-
-exports.timeStamp = timeStamp;
 
 },{}],23:[function(require,module,exports){
 function _extends() {
