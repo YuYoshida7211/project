@@ -13,7 +13,7 @@ class YoutubeController extends Controller
 
     public function index($mode = null) {
         // 人気動画を10件取得する
-        $get_api_url="https://www.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=10&regionCode=jp&key=AIzaSyAAvAM4OkSNFfbxMVaXqn9awzKhikQ9ON0";
+        $get_api_url="https://www.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=50&regionCode=jp&key=AIzaSyAAvAM4OkSNFfbxMVaXqn9awzKhikQ9ON0";
         $videos = file_get_contents($get_api_url);
         $this->set([
             'movies' => $videos,
