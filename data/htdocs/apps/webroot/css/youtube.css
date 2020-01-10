@@ -92,3 +92,7 @@
     color: #FF6C00;
     cursor: pointer;
 }
+
+.none{
+    visibility: hidden;
+}

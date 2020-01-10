@@ -48,6 +48,9 @@
   overflow-y: auto;
   text-align: left
 }
+.modal-content{
+  white-space: pre-line;
+}
 
 .modal-overlay {
   z-index: 10;

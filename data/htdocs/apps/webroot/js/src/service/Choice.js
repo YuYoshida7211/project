@@ -1,10 +1,12 @@
+import React from 'react';
+import { replaceIndention } from './Validate'
 export const choiceService = (data, target) => {
     const choiceKey = Object.keys(data[target]);
     for (let i = choiceKey.length - 1; i >= 0; i--) {
         let r = Math.floor(Math.random() * (i + 1));
         [choiceKey[i], choiceKey[r]] = [choiceKey[r], choiceKey[i]]
     }
-    const usePosts = choiceKey.slice(0, 4);
+    const usePosts = choiceKey;
     return usePosts;
 }
 
@@ -24,7 +26,11 @@ export const choicePost = (data, target, usePosts) => {
     const randomKeys = postKeyArray.slice(0, 2);
     for (let i = 0; i < useCategory.length; i++) {
         for (let j = 0; j < 2; j++) {
-            useData.push(useCategory[i].items[randomKeys[j]])
+            if (useCategory[i].items[randomKeys[j]] !== undefined) {
+                useData.push(useCategory[i].items[randomKeys[j]])
+                replaceIndention(useData[i].text);
+                console.log(useData[i].text)
+            }
         }
     }
     return useData;
@@ -32,7 +38,7 @@ export const choicePost = (data, target, usePosts) => {
 
 export const choiceMovieKey = () => {
     let keyArray = [];
-    const GETMOVIENUM = 30;
+    const GETMOVIENUM = 10;
     for (let i = 0; i < GETMOVIENUM; i++) {
         keyArray.push(i)
     }
@@ -40,8 +46,8 @@ export const choiceMovieKey = () => {
         let r = Math.floor(Math.random() * (i + 1));
         [keyArray[i], keyArray[r]] = [keyArray[r], keyArray[i]]
     }
-    const randomKes = keyArray.slice(0, 12);
-    return randomKes;
+    const randomKeys = keyArray.slice(0, 10);
+    return randomKeys;
 }
 
 export const choiceMovie = (resultData, keyArray) => {

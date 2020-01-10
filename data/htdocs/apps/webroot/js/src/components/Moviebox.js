@@ -14,7 +14,6 @@ export const Moviebox = (props) => {
                     allowFullScreen
                     className="youtube-iframe"
                     src={src}>
-
                 </iframe>
             </div>
             <div className="youtube-youtube_info">

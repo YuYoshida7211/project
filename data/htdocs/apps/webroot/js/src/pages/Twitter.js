@@ -3,25 +3,27 @@ import { imageUrl } from '../const/imageUrl';
 import { Postbox } from '../components/Postbox';
 import { Twittermodal } from '../components/Twittermodal';
 import NaviContainer from '../containers/NaviContainer';
-import { choiceService, choicePost } from '../service/Choice';
-import resultJson from '../../../../api_result/result.json';
 import { Loading } from '../components/Loading'
-import { getResultJson } from '../fetch/Fetch'
+import { getResultJson } from '../fetch/Fetch';
+import { choiceService, choicePost } from '../service/Choice';
+
 import '../../../css/twitter.css';
 
 export default class Twitter extends React.Component {
     componentDidMount() {
-        const usePosts = choiceService(resultJson, 'twitter_result');
-        const useData = choicePost(resultJson, 'twitter_result', usePosts);
-        this.props.registTwitterList(useData);
-        getResultJson('https://jsondata.okiba.me/v1/json/3DG6U200109154755');
+        const url = location.href + '/api/result';
+        getResultJson(url, (response) => {
+            const usePosts = choiceService(response, 'twitter_result');
+            const useData = choicePost(response, 'twitter_result', usePosts);
+            this.props.registTwitterList(useData)
+        });
     }
     render() {
         let postArea = [];
         if (Object.keys(this.props.result.twitter).length) {
             for (let i = 0; i < this.props.result.twitter.length; i++) {
-                postArea.push(<Postbox result={this.props.result.twitter[i]} key={i} uniqueId={i} />)
-                postArea.push(<Twittermodal result={this.props.result.twitter[i]} key={i + 10} uniqueId={i} />)
+                postArea.push(<Postbox result={this.props.result.twitter[i]} key={i + 100} uniqueId={i} />)
+                postArea.push(<Twittermodal result={this.props.result.twitter[i]} key={i + 200} uniqueId={i} />)
             }
         } else {
             postArea = <Loading />;

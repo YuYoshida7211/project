@@ -7,27 +7,25 @@ import { choiceMovieKey, choiceMovie } from '../service/Choice';
 import { Loading } from '../components/Loading'
 
 import '../../../css/youtube.css';
-
+import { timestamp } from '../service/Date'
 export default class Youtube extends React.Component {
     componentDidMount() {
-        getResultJson('https://jsondata.okiba.me/v1/json/3DG6U200109154755',
+        const fullUrl = location.href + '/api/result';
+        const url = fullUrl.replace('/youtube', '');
+        getResultJson(url,
             (rseponse) => {
                 const randomKeys = choiceMovieKey()
-                console.log(rseponse)
                 let youtubeData = choiceMovie(rseponse, randomKeys);
                 this.props.registYoutubeList(youtubeData)
             }
         )
-    }
-    loaded() {
-        console.log('road!')
     }
 
     render() {
         let movieArea = [];
         if (Object.keys(this.props.result.youtube).length) {
             for (let i = 0; i < this.props.result.youtube.length; i++) {
-                movieArea.push(<Moviebox loaded={this.loaded} result={this.props.result.youtube[i]} key={i} />)
+                movieArea.push(<Moviebox result={this.props.result.youtube[i]} key={i} />)
             }
         } else {
             movieArea = <Loading />;

@@ -1,5 +1,6 @@
 import React from 'react';
 import '../../../css/twittermodal.css';
+
 export const Twittermodal = (props) => {
     return (
         <div className="modal-wrapper" id={props.uniqueId}>
@@ -16,9 +17,6 @@ export const Twittermodal = (props) => {
                         </div>
                     </div>
                     <p>{props.result.text}</p>
-                    {/* <div>
-                        <img src={props.result.media.} />
-                    </div> */}
                 </div>
                 <a href="#!" className="modal-close">×</a>
             </div>

@@ -13,7 +13,7 @@ const initialState = {
         tiktok: 'inactive-icon',
         googlePlay: 'inactive-icon',
         qiita: 'inactive-icon',
-    }
+    },
 }
 // Reducer処理
 const reducer = (state = initialState, action) => {
