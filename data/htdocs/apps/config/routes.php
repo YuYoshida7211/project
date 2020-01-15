@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Routes configuration.
  *
@@ -24,6 +25,7 @@
 use Cake\Http\Middleware\CsrfProtectionMiddleware;
 use Cake\Routing\Route\DashedRoute;
 use Cake\Routing\RouteBuilder;
+use Cake\Routing\Router;
 
 /*
  * The default class to use for all routes
@@ -42,48 +44,49 @@ use Cake\Routing\RouteBuilder;
  * inconsistently cased URLs when used with `:plugin`, `:controller` and
  * `:action` markers.
  */
+
 /** @var \Cake\Routing\RouteBuilder $routes */
 $routes->setRouteClass(DashedRoute::class);
 
-$routes->scope('/', function (RouteBuilder $builder) {
-    // Register scoped middleware for in scopes.
-    $builder->registerMiddleware('csrf', new CsrfProtectionMiddleware([
-        'httpOnly' => true,
-    ]));
+// $routes->scope('/', function (RouteBuilder $builder) {
+//     // Register scoped middleware for in scopes.
+//     $builder->registerMiddleware('csrf', new CsrfProtectionMiddleware([
+//         'httpOnly' => true,
+//     ]));
 
-    /*
-     * Apply a middleware to the current route scope.
-     * Requires middleware to be registered through `Application::routes()` with `registerMiddleware()`
-     */
-    $builder->applyMiddleware('csrf');
+//     /*
+//      * Apply a middleware to the current route scope.
+//      * Requires middleware to be registered through `Application::routes()` with `registerMiddleware()`
+//      */
+//     $builder->applyMiddleware('csrf');
 
-    /*
-     * Here, we are connecting '/' (base path) to a controller called 'Pages',
-     * its action called 'display', and we pass a param to select the view file
-     * to use (in this case, templates/Pages/home.php)...
-     */
-    $builder->connect('/', ['controller' => 'Pages', 'action' => 'display', 'home']);
+//     /*
+//      * Here, we are connecting '/' (base path) to a controller called 'Pages',
+//      * its action called 'display', and we pass a param to select the view file
+//      * to use (in this case, templates/Pages/home.php)...
+//      */
+//     // $builder->connect('/', ['controller' => 'Pages', 'action' => 'display', 'home']);
 
-    /*
-     * ...and connect the rest of 'Pages' controller's URLs.
-     */
-    $builder->connect('/pages/*', ['controller' => 'Pages', 'action' => 'display']);
+//     /*
+//      * ...and connect the rest of 'Pages' controller's URLs.
+//      */
+//     $builder->connect('/pages/*', ['controller' => 'Pages', 'action' => 'display']);
 
-    /*
-     * Connect catchall routes for all controllers.
-     *
-     * The `fallbacks` method is a shortcut for
-     *
-     * ```
-     * $builder->connect('/:controller', ['action' => 'index']);
-     * $builder->connect('/:controller/:action/*', []);
-     * ```
-     *
-     * You can remove these routes once you've connected the
-     * routes you want in your application.
-     */
-    $builder->fallbacks();
-});
+//     /*
+//      * Connect catchall routes for all controllers.
+//      *
+//      * The `fallbacks` method is a shortcut for
+//      *
+//      * ```
+//      * $builder->connect('/:controller', ['action' => 'index']);
+//      * $builder->connect('/:controller/:action/*', []);
+//      * ```
+//      *
+//      * You can remove these routes once you've connected the
+//      * routes you want in your application.
+//      */
+//     $builder->fallbacks();
+// });
 
 /*
  * If you need a different set of middleware or none at all,
@@ -96,3 +99,30 @@ $routes->scope('/', function (RouteBuilder $builder) {
  * });
  * ```
  */
+
+
+//  追加部分
+Router::defaultRouteClass(DashedRoute::class);
+
+Router::scope('/api', function (RouteBuilder $routes) {
+
+    $routes->connect('/*', ['controller' => 'Api']);
+    $routes->fallbacks(DashedRoute::class);
+});
+
+// Router::scope('/', function (RouteBuilder $routes) {
+
+//     $routes->connect('/', ['controller' => 'Main']);
+//     $routes->fallbacks(DashedRoute::class);
+
+//     // $routes->connect('/a', ['controller' => 'Main' , 'action' => 'a']);
+//     // $routes->connect('/b', ['controller' => 'Main' , 'action' => 'b']);
+
+
+// });
+Router::prefix('api', function ($routes) {
+    $routes->setExtensions(['json']);
+    $routes->resources('Result');
+    $routes->resources('Twitter');
+    $routes->resources('Youtube');
+});
