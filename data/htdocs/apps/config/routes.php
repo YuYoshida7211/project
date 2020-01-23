@@ -110,16 +110,16 @@ Router::scope('/api', function (RouteBuilder $routes) {
     $routes->fallbacks(DashedRoute::class);
 });
 
-// Router::scope('/', function (RouteBuilder $routes) {
+Router::scope('/', function (RouteBuilder $routes) {
 
-//     $routes->connect('/', ['controller' => 'Main']);
-//     $routes->fallbacks(DashedRoute::class);
+    $routes->connect('/', ['controller' => 'Main']);
+    $routes->fallbacks(DashedRoute::class);
 
-//     // $routes->connect('/a', ['controller' => 'Main' , 'action' => 'a']);
-//     // $routes->connect('/b', ['controller' => 'Main' , 'action' => 'b']);
+    // $routes->connect('/a', ['controller' => 'Main' , 'action' => 'a']);
+    // $routes->connect('/b', ['controller' => 'Main' , 'action' => 'b']);
 
 
-// });
+});
 Router::prefix('api', function ($routes) {
     $routes->setExtensions(['json']);
     $routes->resources('Result');
