@@ -1,7 +1,5 @@
 .DS_Store
 composer.lock
-vendor/*
-!vendor/abraham/twitteroauth/src/*
-!vendor/cakephp/*
+vendor
 env
 .cache

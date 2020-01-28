@@ -1,0 +1,25 @@
+.loading_box {
+    z-index:997;
+	position: absolute;
+	top:0;
+    left:0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    width:96.5%;
+    width:auto;
+    height:92%;
+    height:auto;
+    background-color:rgba(0,0,0,0.75);
+    box-shadow: 0 0 9% 20% rgba(0,0,0,0.75);
+}
+.loading {
+    width: 12%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    z-index: 998;
+}
