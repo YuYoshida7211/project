@@ -19,13 +19,13 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
 ?>
 <!DOCTYPE html>
 <html>
-
-<head>
-</head>
-
-<body>
-    <div id="root"></div>
-    <script type="text/javascript" src="/js/bundle.js?_=<?= time() ?>"></script>
-</body>
-
+    <head>
+        <?= $this->Html->charset() ?>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>texas</title>
+    </head>
+    <body>
+        <div id="root"></div>
+        <script type="text/javascript" src="/js/bundle.js?_=<?= time() ?>"></script>
+    </body>
 </html>
