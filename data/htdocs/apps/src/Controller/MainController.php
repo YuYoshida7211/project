@@ -7,9 +7,6 @@ use Cake\Controller\Controller;
 class MainController extends AppController {
 
     public function index(){
-
-        echo "Hello World!!!!!";
-
     }
 
 }
