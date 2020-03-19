@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Routes configuration.
  *
@@ -43,6 +44,7 @@ use Cake\Routing\Router;
  * inconsistently cased URLs when used with `:plugin`, `:controller` and
  * `:action` markers.
  */
+
 /** @var \Cake\Routing\RouteBuilder $routes */
 $routes->setRouteClass(DashedRoute::class);
 
@@ -106,7 +108,6 @@ Router::scope('/', function (RouteBuilder $routes) {
     $routes->connect('/', ['controller' => 'Main']);
     $routes->connect('/youtube', ['controller' => 'Main']);
     $routes->fallbacks(DashedRoute::class);
-
 });
 
 // 一応残しておく
@@ -118,6 +119,16 @@ Router::scope('/', function (RouteBuilder $routes) {
 // });
 
 // REST Apiの設定
+Router::scope('/', function (RouteBuilder $routes) {
+
+    $routes->connect('/', ['controller' => 'Main']);
+    $routes->fallbacks(DashedRoute::class);
+
+    // $routes->connect('/a', ['controller' => 'Main' , 'action' => 'a']);
+    // $routes->connect('/b', ['controller' => 'Main' , 'action' => 'b']);
+
+
+});
 Router::prefix('api', function ($routes) {
     $routes->setExtensions(['json']);
     $routes->resources('Result');
