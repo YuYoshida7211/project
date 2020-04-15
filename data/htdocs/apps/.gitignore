@@ -5,6 +5,9 @@
 /logs/*
 /tmp/*
 /vendor/*
+!abraham
+!kub-at
+/api_result/*
 
 # OS generated files #
 ######################
@@ -41,5 +44,3 @@ nbproject/*
 .vscode
 # Sass preprocessor
 .sass-cache/
-
-/api_result/*
